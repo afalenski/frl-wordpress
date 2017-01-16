@@ -9,4 +9,4 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/index.php/fsklab/
 published: true
 ---
-Diese Seite wird derzeit überarbeitet. Bitte nutzen Sie so lange: <a href="https://silebat.github.io/FSK-Lab/" target="_blank">https://silebat.github.io/FSK-Lab/</a>
+Diese Seite wird derzeit überarbeitet. Bitte nutzen Sie so lange die englische Version! Danke
