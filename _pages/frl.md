@@ -34,7 +34,7 @@ Modellierung von bakteriellem Wachstum bzw. der Inaktivierung von Bakterien und 
 Abbildung von Lebensmittel-Prozessketten und Modellierung bakterieller Tenazität</td>
 </tr>
 <tr>
-<td style="text-align: center;"><a title="SiLeBAT News Radar" href="https://foodrisklabs.bfr.bund.de/index.php/silebat-news-radar/"><img class="aligncenter size-full wp-image-244" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/03/SiLeBAT-News-Radar_Button.png" alt="SiLeBAT-News-Radar_Button" width="150" height="150" /></a>
+<td style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/index.php/silebat-news-radar/"><img class="aligncenter wp-image-1839 size-full" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Icon-NewsRadar3.png" alt="Silebat NewsRadar" width="142" height="150" /></a>
 
 Meldungen aus dem Bereich Wissenschaft und öffentlicher Gesundheit per E-Mail</td>
 <td style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/index.php/open-food-safety-model-repository/"><img class="aligncenter size-thumbnail wp-image-1258" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/openFSMR_Logo-150x150.png" alt="openFSMR_Logo" width="150" height="150" /></a>
