@@ -9,6 +9,10 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/index.php/fsk-lab/
 published: true
 ---
+<img class="size-full wp-image-1858 aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FSKlab7-1.png" alt="FSK-Lab Logo" width="150" height="150" />
+
+&nbsp;
+
 FSK-Lab is an open-source extension plugin to the Konstanz Information Miner (<a href="https://knime.org">KNIME</a>). FSK-Lab enables KNIME users to work with FSK models within KNIME.
 <h2>Installation</h2>
 FSK Lab may be installed through its update site: Steps:
@@ -180,7 +184,9 @@ The model metadata involved in the FSK models comprises the following.
 <div class="panel-heading">
 <h3 class="panel-title">FSKX Reader</h3>
 </div>
-<div class="panel-body">Reads an FSK object from an FSKX file. <img src="https://silebat.github.io/FSK-Lab/fskxreader.png" />
+<div class="panel-body">
+
+Reads an FSK object from an FSKX file. <img src="https://silebat.github.io/FSK-Lab/fskxreader.png" />
 <ul>
  	<li>Inputs: None</li>
  	<li>Outputs: FSK object</li>
@@ -197,7 +203,9 @@ Behaviour. Creates an FSK object with the scripts, metadata and libraries in the
 <div class="panel-heading">
 <h3 class="panel-title">FSKX Writer</h3>
 </div>
-<div class="panel-body">Writes an FSK object into an FSKX file. <img src="https://silebat.github.io/FSK-Lab/fskxwriter.png" />
+<div class="panel-body">
+
+Writes an FSK object into an FSKX file. <img src="https://silebat.github.io/FSK-Lab/fskxwriter.png" />
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Outputs: none</li>
@@ -214,7 +222,9 @@ Behaviour. Creates an FSKX file with the scripts, metadata and libraries in the 
 <div class="panel-heading">
 <h3 class="panel-title">FSK Creator</h3>
 </div>
-<div class="panel-body">Creates an FSK object. <img src="https://silebat.github.io/FSK-Lab/fskcreator.png" />
+<div class="panel-body">
+
+Creates an FSK object. <img src="https://silebat.github.io/FSK-Lab/fskcreator.png" />
 <ul>
  	<li>Inputs: none</li>
  	<li>Outputs: FSK object</li>
@@ -234,7 +244,9 @@ Behaviour. Creates an FSK object with the script and metadata provided by the us
 <div class="panel-heading">
 <h3 class="panel-title">FSK Runner</h3>
 </div>
-<div class="panel-body">This node runs an FSK model <img src="https://silebat.github.io/FSK-Lab/fskrunner.png" />
+<div class="panel-body">
+
+This node runs an FSK model <img src="https://silebat.github.io/FSK-Lab/fskrunner.png" />
 <ul>
  	<li>Inputs: FSK object and optional metadata table</li>
  	<li>Outputs: FSK object and generated image</li>
@@ -247,7 +259,9 @@ Behaviour. Runs the input model and updates its workspace with the model results
 <div class="panel-heading">
 <h3 class="panel-title">FSK Metadata Editor</h3>
 </div>
-<div class="panel-body">Edit the metadata in an FSK object. <img src="https://silebat.github.io/FSK-Lab/fskmetadataeditor.png" />
+<div class="panel-body">
+
+Edit the metadata in an FSK object. <img src="https://silebat.github.io/FSK-Lab/fskmetadataeditor.png" />
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Outputs: FSK object</li>
@@ -260,7 +274,9 @@ Behaviour. Modifies the metadata in an FSK object.
 <div class="panel-heading">
 <h3 class="panel-title">FSK to R</h3>
 </div>
-<div class="panel-body">Extracts the R workspace out of an FSK object. The R workspace may be used with KNIME R nodes. <img src="https://silebat.github.io/FSK-Lab/fsk2r.png" />
+<div class="panel-body">
+
+Extracts the R workspace out of an FSK object. The R workspace may be used with KNIME R nodes. <img src="https://silebat.github.io/FSK-Lab/fsk2r.png" />
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Output: RPortObject</li>
@@ -273,7 +289,9 @@ Behaviour. Extracts the R workspace out of an FSK object and places it into the 
 <div class="panel-heading">
 <h3 class="panel-title">FSK to metadata</h3>
 </div>
-<div class="panel-body">Extracts metadata from an FSK object. <img src="https://silebat.github.io/FSK-Lab/fsk2metadata.png" />
+<div class="panel-body">
+
+Extracts metadata from an FSK object. <img src="https://silebat.github.io/FSK-Lab/fsk2metadata.png" />
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Outputs: KNIME table with metadata</li>
