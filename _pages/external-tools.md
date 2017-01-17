@@ -12,11 +12,13 @@ published: true
 &nbsp;
 <table>
 <tbody>
+
 <tr>
-<td>1</td>
+<td><a href="https://www.eclipse.org/stem/http://"><img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/KNIME-1.png" alt="" width="396" height="127" class="alignleft size-full wp-image-1942" /></a></td>
 </tr>
+
 <tr>
-<td>2</td>
+<td><a href="https://www.eclipse.org/stem/"><img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/STEM_Logo-1.gif" alt="" width="300" height="172" class="alignleft size-full wp-image-1944" /></a></td>
 </tr>
 </tbody>
 </table>
