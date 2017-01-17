@@ -19,7 +19,7 @@ A running instance of KNIME is a prerequisite. It can be downloaded <a href="htt
 <h3>Installing FSK-Lab</h3>
 
 <div>FSK-Lab needs to be installed as a KNIME feature through the FSK-Lab update site:</br>
-1. Add the repository (download page) to KNIME via Help &gt; Install New Software &gt; Add (<a href="https://www.knime.org/downloads/update">more info here</a>). The corresponding URL (https://dl.bintray.com/silebat/fsklab) should to be entered in the 'Add Repository' dialogue along with a meaningful name.</br>
+1. Add the repository to KNIME via Help &gt; Install New Software &gt; Add (<a href="https://www.knime.org/downloads/update">more info here</a>). The corresponding URL (https://dl.bintray.com/silebat/fsklab) should to be entered in the 'Add Repository' dialogue along with a meaningful name.</br>
 2. Now this repository can be selected in the installation menu via Help &gt; Install New Software &gt; 'Work with'-pull down menu.</br>
 3. Tick FSK Lab nodes and follow the promts after pressing Next.</br>
 4. After a reboot, FSK-Lab Feature should appear now in KNIME under Help &gt; Installation Details.</div>
