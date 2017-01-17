@@ -21,7 +21,7 @@ Die nachfolgend aufgeführten Software-Programme richten sich an Wissenschaftler
 
 &nbsp;
 
-<a href="https://knime.bfrlab.de/com.knime.enterprise.server/#login" target="_blank"><span style="color: #034ea3;">ZooGloW</span></a><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#login" target="_blank"><span style="color: #034ea3;">WebPortal</span></a>WebServices aus dem Projekt ZooGloW
+
 <table>
 <tbody>
 <tr>
