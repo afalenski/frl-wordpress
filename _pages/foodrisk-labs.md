@@ -18,7 +18,7 @@ published: true
 <p style="text-align: center;">to the following tools</p>
 <p style="text-align: center;">developed by the <a href="http://www.bfr.bund.de/de/start.html" target="_blank">Federal Institute for Risk Assessment (BfR)</a>:</p>
 &nbsp;
-<table>
+<table style="height: 1114px;" width="586">
 <tbody>
 <tr>
 <td><a href="https://foodrisklabs.bfr.bund.de/index.php/foodchain-lab"><img class="aligncenter size-thumbnail wp-image-1269" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FoodChain-Lab-Logo1-150x150.png" alt="FoodChain-Lab Logo" width="150" height="150" /></a>
@@ -49,17 +49,10 @@ OpenML for predictive modelling in foods</td>
 Food Safety Knowledge Lab (FSK-Lab)</td>
 </tr>
 <tr>
-<td> 
+<td> <a href="https://foodrisklabs.bfr.bund.de/index.php/fsk-lab/"><img class="aligncenter wp-image-1866 size-full" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FSKlab7-1.png" alt="FSK-Lab" width="150" height="150" /></a>
 
-</td>
+Food Safety Knowledge Lab (FSK-Lab)</td>
 </tr>
-
-<tr>
-<td> 
-
-</td>
-</tr>
-
 </tbody>
 </table>
 All KNIME-based tools can be downloaded at once here: <a href="https://foodrisklabs.bfr.bund.de/downloads/knime_3.1.2_frl_64.zip">64-bit</a> or <a href="https://foodrisklabs.bfr.bund.de/downloads/knime_3.1.1_frl_32.zip">32-bit.</a>
