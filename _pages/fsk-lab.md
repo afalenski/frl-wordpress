@@ -20,7 +20,7 @@ A running instance of KNIME is a prerequisite. It can be downloaded <a href="htt
 <h3>Installing FSK-Lab</h3>
 
 <div>FSK-Lab needs to be installed as a KNIME feature through the FSK-Lab update site (<a href="https://www.knime.org/downloads/update">more info here</a>):</br>
-1. Add the repository to KNIME via Help &gt; Install New Software &gt; Add . The corresponding URL (https://dl.bintray.com/silebat/fsklab) should to be entered in the 'Add Repository' dialogue along with a meaningful name.</br>
+1. Add the repository to KNIME via Help &gt; Install New Software &gt; Add. The corresponding URL (https://dl.bintray.com/silebat/fsklab) should to be entered in the 'Add Repository' dialogue along with a meaningful name.</br>
 2. Now this repository can be selected in the installation menu via Help &gt; Install New Software &gt; 'Work with'-pull down menu.</br>
 3. Tick FSK Lab nodes and follow the promts after pressing Next.</br>
 4. After a reboot, FSK-Lab Feature should appear now in KNIME under Help &gt; Installation Details.</div></br>
@@ -28,7 +28,7 @@ A running instance of KNIME is a prerequisite. It can be downloaded <a href="htt
 
 <h3>Installing R</h3>
 
-<div>FSK-Lab is based on R (<a href="https://www.r-project.org" target="_blank">https://www.r-project.org</a>) and can also be installed as a KNIME feature through the FSK-Lab update site under WINDOWS (<a href="https://www.knime.org/downloads/update">more info here</a>):</br>
+<div>FSK-Lab is based on R (<a href="https://www.r-project.org" target="_blank">https://www.r-project.org</a>), which can also be installed as a KNIME feature through the FSK-Lab update site under WINDOWS (<a href="https://www.knime.org/downloads/update">more info here</a>):</br>
 1. The R repository should be already available in the installation menu via Help &gt; Install New Software &gt; if All Available Sites is choosen in the 'Work with'-pull down menu.</br>
 3. Fold open KNIME & Extensions and tick KNIME R Statistics Integration (Windows binarys).</br>
 4. Follow the promts after pressing Next and after a reboot, the R binary feature should appear in KNIME under Help &gt; Installation Details.
