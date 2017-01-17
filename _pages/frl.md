@@ -51,6 +51,9 @@ Checkliste zur Einschätzung von möglichen Gefahren in Lebensmittelunternehmen 
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/index.php/fsklab/"><img class="wp-image-1836 size-full aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FSKlab7.png" alt="FSKlab" width="150" height="150" /></a>Food Safety Knowledge Lab (FSK-Lab)</td>
+<td><td> <a href="https://foodrisklabs.bfr.bund.de/index.php/externaltools/" target="_blank">external Tools</a>
+
+Link zu nicht-BfR Services</td>
 <td></td>
 <td></td>
 </tr>
