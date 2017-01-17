@@ -53,7 +53,7 @@ Checkliste zur Einschätzung von möglichen Gefahren in Lebensmittelunternehmen 
 <p style="text-align: center;"><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#/ZooGloW/"><img class="size-full wp-image-1883 aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/csm_Logo_ZooGlow_204e539273.jpg" alt="" width="180" height="148" /></a>Link zu den Services die im Rahmen des ZooGloW-Projektes entstanden sind</p>
 </td>
 <td>
-<p style="text-align: center;"><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#/ZooGloW/"><img class="size-full wp-image-1894 aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Logo-externTool3.png" alt="" width="150" height="150" /> </a>Liste externer Services</p>
+<p style="text-align: center;"><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#/ZooGloW/"><img class="size-full wp-image-1894 aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Logo-externTool3.png" alt="" width="150" height="150" /> </a>Liste externer Tools</p>
 </td>
 </tr>
 <tr>
