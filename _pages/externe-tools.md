@@ -9,14 +9,4 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/index.php/externe-tools/
 published: true
 ---
-
-<table>
-<tbody>
-
-<tr>1
-</tr>
-<tr>2</tr>
-<tr>3</tr>
-
-</tbody>
-</table>
+123
