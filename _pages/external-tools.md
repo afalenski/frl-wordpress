@@ -13,7 +13,7 @@ published: true
 <tbody>
 
 <tr>
-<td><a href="https://www.eclipse.org/stem/http://"><img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/KNIME-1.png" alt="" width="396" height="127" class="aligncenter size-full wp-image-1942" /></a></td>
+<td><a href="https://www.knime.org/"><img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/KNIME-1.png" alt="" width="396" height="127" class="aligncenter size-full wp-image-1942" /></a></td>
 </tr>
 
 <tr>
