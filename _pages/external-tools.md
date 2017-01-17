@@ -14,7 +14,6 @@ published: true
 <tbody>
 <tr>
 <td>1</td>
-
 </tr>
 <tr>
 <td>2</td>
