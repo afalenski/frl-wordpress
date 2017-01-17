@@ -11,8 +11,6 @@ published: true
 ---
 <img class="aligncenter wp-image-1243 size-full" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FoodRiskLabsLogo1.png" alt="FoodRiskLabsLogo1" width="624" height="90" />
 
-<a href="http://www.bfr.bund.de/"><img class="aligncenter wp-image-1252 size-full" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/BfR_Logo.png" alt="" width="200" height="75" /></a>
-
 &nbsp;
 
 FoodRisk-Labs ist ein Portal des Bundesinstituts für Risikobewertung (BfR). Die Tools wurden im Rahmen des Forschungsprojektes "SiLeBAT - Versorgungssicherheit der Bevölkerung" und in Nachfolgeprojekten entwickelt.
@@ -51,9 +49,7 @@ Checkliste zur Einschätzung von möglichen Gefahren in Lebensmittelunternehmen 
 </tr>
 <tr>
 <td style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/index.php/fsklab/"><img class="wp-image-1836 size-full aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FSKlab7.png" alt="FSKlab" width="150" height="150" /></a>Food Safety Knowledge Lab (FSK-Lab)</td>
-
-<td><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#/ZooGloW/"><img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/csm_Logo_ZooGlow_204e539273.jpg" alt="" width="180" height="148" class="alignnone size-full wp-image-1883" /></a>
-
+<td><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#/ZooGloW/"><img class="alignnone size-full wp-image-1883" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/csm_Logo_ZooGlow_204e539273.jpg" alt="" width="180" height="148" /></a>
 <p style="text-align: center;">Link zu den Services die im Rahmen des ZooGloW-Projektes entstanden sind</p>
 </td>
 <td>
