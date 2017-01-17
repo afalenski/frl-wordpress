@@ -9,4 +9,4 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/index.php/externe-tools/
 published: true
 ---
-&nbsp;
+<a href="http://www.spiegel.de" target="_blank">test</a>
