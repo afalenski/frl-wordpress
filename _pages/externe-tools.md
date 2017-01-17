@@ -12,7 +12,7 @@ published: true
 <table>
 <tbody>
 <tr>
-<td></td>
+<td><a href="https://www.eclipse.org/stem/http://"><img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/STEM_Logo-150x150.gif" alt="" width="150" height="150" class="alignnone size-thumbnail wp-image-1917" /></a></td>
 <td></td>
 <td></td>
 </tr>
