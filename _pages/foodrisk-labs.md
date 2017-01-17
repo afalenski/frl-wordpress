@@ -31,21 +31,36 @@ published: true
 
 Tools for predictive modelling in foods</td>
 <td>
-<p style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/index.php/openfsmr/"><img class="aligncenter size-thumbnail wp-image-1268" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/openFSMR_Logo1-150x150.png" alt="openFSMR_Logo" width="150" height="150" /></a></p>
+
+
+
+<p style="text-align: center;">
+<a href="https://foodrisklabs.bfr.bund.de/index.php/openfsmr/"><img class="aligncenter size-thumbnail wp-image-1268" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/openFSMR_Logo1-150x150.png" alt="openFSMR_Logo" width="150" height="150" /></a></p>
 <p style="text-align: center;">Repository for predictive microbial models</p>
 </td>
+
+
 <td style="text-align: center;"><a href="https://sourceforge.net/projects/microbialmodelingexchange/" target="_blank"><img class="aligncenter wp-image-1780 size-thumbnail" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/OpenML-3-150x150.png" alt="OpenML" width="150" height="150" /></a>
 
 OpenML for predictive modelling in foods</td>
 </tr>
+
+
 <tr>
-<td><a href="https://foodrisklabs.bfr.bund.de/index.php/fsk-lab/"><img class="aligncenter wp-image-1866 size-full" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FSKlab7-1.png" alt="FSK-Lab" width="150" height="150" /></a>
+
+<td>
+
+<a href="https://foodrisklabs.bfr.bund.de/index.php/fsk-lab/"><img class="aligncenter wp-image-1866 size-full" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FSKlab7-1.png" alt="FSK-Lab" width="150" height="150" /></a>
 
 Food Safety Knowledge Lab (FSK-Lab)</td>
+
 <td>
 <p style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/index.php/externaltools/"><img class="size-full wp-image-1894 aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Logo-externTool3.png" alt="" width="150" height="150" /> </a>link to non-BfR tools</p>
 </td>
-<td><img class="alignnone size-full wp-image-1900" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Icon-NewsRadar4-1-1.png" alt="" width="148" height="150" /></td>
+
+<td></td>
+
+
 </tr>
 </tbody>
 </table>
