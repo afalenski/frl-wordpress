@@ -10,9 +10,8 @@ permalink: >
 published: true
 ---
 <img class="aligncenter wp-image-1243 size-full" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FoodRiskLabsLogo1.png" alt="FoodRiskLabsLogo1" width="624" height="90" />
-<p style="text-align: center;"></p>
-<p style="text-align: center;">FoodRisk-Labs is a portal to the following tools</p>
-<p style="text-align: center;">developed by the <a href="http://www.bfr.bund.de/de/start.html" target="_blank">Federal Institute for Risk Assessment (BfR)</a>:</p>
+<p style="text-align: center;">FoodRisk-Labs is a portal to the following tools developed by the</p>
+<p style="text-align: center;"><a href="http://www.bfr.bund.de/de/start.html" target="_blank">Federal Institute for Risk Assessment (BfR)</a>:</p>
 &nbsp;
 <table style="height: 1114px;" width="586">
 <tbody>
@@ -50,4 +49,3 @@ link to non-BfR services</td>
 </tr>
 </tbody>
 </table>
-All KNIME-based tools can be downloaded at once here: <a href="https://foodrisklabs.bfr.bund.de/downloads/knime_3.1.2_frl_64.zip">64-bit</a> or <a href="https://foodrisklabs.bfr.bund.de/downloads/knime_3.1.1_frl_32.zip">32-bit.</a>
