@@ -28,7 +28,8 @@ A running instance of KNIME is a prerequisite. It can be downloaded <a href="htt
 
 <h3>Installing R</h3>
 
-<div>FSK-Lab is based on R (<a href="https://www.r-project.org" target="_blank">https://www.r-project.org</a>), which can also be installed as a KNIME feature through the FSK-Lab update site under WINDOWS (<a href="https://www.knime.org/downloads/update">more info here</a>). If you want to use your own R version, please continue with step 5 using your R installation path:</br>
+<div>FSK-Lab is based on R (<a href="https://www.r-project.org" target="_blank">https://www.r-project.org</a>), which can also be installed as a KNIME feature through the FSK-Lab update site under WINDOWS (<a href="https://www.knime.org/downloads/update">more info here</a>). If you want to use your own R version or the one we <a href="https://dl.bintray.com/silebat/FSK_example_models/R-3.3.0working.7z">provide</a>, please continue with step 5 using your R installation path:</br>
+
 1. The R repository should be already available in the installation menu via Help &gt; Install New Software &gt; if All Available Sites is choosen in the 'Work with'-pull down menu.</br>
 3. Fold open KNIME & Extensions and tick KNIME R Statistics Integration (Windows binarys).</br>
 4. Follow the promts after pressing Next and after a reboot, the R binary feature should appear in KNIME under Help &gt; Installation Details.</br>
