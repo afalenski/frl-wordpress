@@ -52,7 +52,7 @@ Checkliste zur Einschätzung von möglichen Gefahren in Lebensmittelunternehmen 
 <tr>
 <td style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/index.php/fsklab/"><img class="wp-image-1836 size-full aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FSKlab7.png" alt="FSKlab" width="150" height="150" /></a>Food Safety Knowledge Lab (FSK-Lab)</td>
 
-<td><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#/ZooGloW/" target="_blank"><span style="color: #034ea3;">Tools</span></a><img class="alignnone size-full wp-image-1883" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/csm_Logo_ZooGlow_204e539273.jpg" alt="" width="180" height="148" />
+<td><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#/ZooGloW/"><img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/csm_Logo_ZooGlow_204e539273.jpg" alt="" width="180" height="148" class="alignnone size-full wp-image-1883" /></a>
 
 <p style="text-align: center;">Link zu den Services die im Rahmen des ZooGloW-Projektes entstanden sind</p>
 </td>
