@@ -49,21 +49,17 @@ Checkliste zur Einschätzung von möglichen Gefahren in Lebensmittelunternehmen 
 <td style="text-align: center;"><a title="Warenstrom-Info" href="https://foodrisklabs.bfr.bund.de/index.php/warenstrom-info/"><img class="aligncenter size-full wp-image-245" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/03/Warenstrom-Info_Button.png" alt="Warenstrom-Info_Button" width="150" height="150" /></a>Visualisierung von Eurostat-Im- und Exportdaten</td>
 <td style="text-align: center;"><a href="https://sourceforge.net/projects/microbialmodelingexchange/" target="_blank"><img class="aligncenter wp-image-1777 size-thumbnail" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/OpenML-1-150x150.png" width="150" height="150" /></a>OpenML für prädiktive Mikrobiologie in Lebensmitteln</td>
 </tr>
-
-
 <tr>
 <td style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/index.php/fsklab/"><img class="wp-image-1836 size-full aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FSKlab7.png" alt="FSKlab" width="150" height="150" /></a>Food Safety Knowledge Lab (FSK-Lab)</td>
-
 <td><a href="https://foodrisklabs.bfr.bund.de/index.php/externaltools/" target="_blank">external Tools</a>Link zu nicht-BfR Services</td>
-
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>
-<p style="text-align: center;"><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#login" target="_blank"><span style="color: #034ea3;">ZooGloW</span></a></p>
+<td><p style="text-align: center;"><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#login" target="_blank"><span style="color: #034ea3;">ZooGloW</span></a></p>
 <p style="text-align: center;"><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#login" target="_blank"><span style="color: #034ea3;">WebPortal</span></a></p>
-<p style="text-align: center;">WebServices aus dem Projekt ZooGloW</p>
+<p style="text-align: center;">WebServices aus dem Projekt ZooGloW</p></td>
+<td>
+
 </td>
 <td></td>
 </tr>
