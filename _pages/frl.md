@@ -13,7 +13,7 @@ published: true
 
 &nbsp;
 
-FoodRisk-Labs ist ein Portal des Bundesinstituts für Risikobewertung (BfR). Die Tools wurden im Rahmen des Forschungsprojektes "SiLeBAT - Versorgungssicherheit der Bevölkerung" und in Nachfolgeprojekten entwickelt.
+FoodRisk-Labs ist ein Portal des <a href="http://www.bfr.bund.de" target="_blank">Bundesinstituts für Risikobewertung (BfR)</a>. Die Tools wurden im Rahmen des Forschungsprojektes "SiLeBAT - Versorgungssicherheit der Bevölkerung" und in Nachfolgeprojekten entwickelt.
 
 Die nachfolgend aufgeführten Software-Programme richten sich an Wissenschaftler und Behördenmitarbeiter.
 
