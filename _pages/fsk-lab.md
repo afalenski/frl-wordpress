@@ -28,11 +28,14 @@ A running instance of KNIME is a prerequisite. It can be downloaded <a href="htt
 
 <h3>Installing R</h3>
 
-<div>FSK-Lab is based on R (<a href="https://www.r-project.org" target="_blank">https://www.r-project.org</a>), which can also be installed as a KNIME feature through the FSK-Lab update site under WINDOWS (<a href="https://www.knime.org/downloads/update">more info here</a>):</br>
+<div>FSK-Lab is based on R (<a href="https://www.r-project.org" target="_blank">https://www.r-project.org</a>), which can also be installed as a KNIME feature through the FSK-Lab update site under WINDOWS (<a href="https://www.knime.org/downloads/update">more info here</a>). If you want to use your own R version, please continue with step 5 using your R installation path:</br>
 1. The R repository should be already available in the installation menu via Help &gt; Install New Software &gt; if All Available Sites is choosen in the 'Work with'-pull down menu.</br>
 3. Fold open KNIME & Extensions and tick KNIME R Statistics Integration (Windows binarys).</br>
 4. Follow the promts after pressing Next and after a reboot, the R binary feature should appear in KNIME under Help &gt; Installation Details.
+5. In this last step, Knime needs to know were the R binarys are installed via File > Preferences. In the menu choose KNIME > BfR R settings and on the right site Browse to the local path of the binarys. If installed via the update site they are located in the KNIME installation folder > plugins > org.knime.ext.r3.bin.win32.x86_...R-Inst. Don't use a subfolder of R-Inst! Press Apply and enter the same path in the Menu under KNIME > R and press ok. 
+6. If you received a message that the package Rserve needs to be installed you need to start R.exe directly from its installation folder. In the R console enter "install.packages('Rserve')" and press enter. There should pop up a list of download sites than. Choose one nerby and confirm. After the message that the library was sucessfully downloaded, you can close are via "q()". In the library folder of R should a new folder Rserve appear now.
 
+ 
 
 <h2>FSK port object</h2>
 Fsk-Lab provides an additional port object called <code>FskPortObject</code> that expresses in deep detail an FSK model. It is composed of:
