@@ -48,6 +48,18 @@ OpenML for predictive modelling in foods</td>
 
 Food Safety Knowledge Lab (FSK-Lab)</td>
 </tr>
+<tr>
+<td> 
+
+</td>
+</tr>
+
+<tr>
+<td> 
+
+</td>
+</tr>
+
 </tbody>
 </table>
 All KNIME-based tools can be downloaded at once here: <a href="https://foodrisklabs.bfr.bund.de/downloads/knime_3.1.2_frl_64.zip">64-bit</a> or <a href="https://foodrisklabs.bfr.bund.de/downloads/knime_3.1.1_frl_32.zip">32-bit.</a>
