@@ -42,7 +42,10 @@ OpenML for predictive modelling in foods</td>
 <td> <a href="https://foodrisklabs.bfr.bund.de/index.php/fsk-lab/"><img class="aligncenter wp-image-1866 size-full" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FSKlab7-1.png" alt="FSK-Lab" width="150" height="150" /></a>
 
 Food Safety Knowledge Lab (FSK-Lab)</td>
-<td><a href="https://foodrisklabs.bfr.bund.de/index.php/externaltools/" target="_blank">external Tools</a>link to non-BfR services</td>
+<td>
+
+<p style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/index.php/externaltools/"><img class="size-full wp-image-1894 aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Logo-externTool3.png" alt="" width="150" height="150" /> </a>link to non-BfR tools</p>
+</td>
 <td><img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Icon-NewsRadar4-1-1.png" alt="" width="148" height="150" class="alignnone size-full wp-image-1900" />
 
 </td>
