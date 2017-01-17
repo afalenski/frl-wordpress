@@ -10,11 +10,13 @@ permalink: >
 published: true
 ---
 &nbsp;
+
+
 <table>
 <tbody>
-<tr></td>1
-<td></td>2
-<td></td>3
+<tr>
+<td>1</td>
+<td>2</td>
 </tr>
 </tbody>
 </table>
