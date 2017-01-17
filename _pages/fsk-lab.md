@@ -22,8 +22,7 @@ A running instance of KNIME is a prerequisite. It can be downloaded <a href="htt
 2. Now this repository can be selected in the installation menu via Help > Install New Software > 'Work with'-pull down menu<div>
 3. Tick FSK Lab nodes and follow the promts after pressing Next</div>
 &nbsp;
-<h3>Starting FSK-Lab for the first time</h3>
-If FSK-Lab was installed successfully, the FSK-Lab feature should appear now in the KNIME Installation Details dialog under Help &gt; Installation Details.
+4. After a reboot, FSK-Lab should  appear now in KNIME under Help > Installation Details.
 
 <img src="https://silebat.github.io/FSK-Lab/installationDetails.png" />
 <h2>FSK port object</h2>
