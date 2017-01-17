@@ -17,7 +17,7 @@ FSK-Lab is an open-source extension plugin to the Konstanz Information Miner (<a
 <h2>Installation</h2>
 A running instance of KNIME is a prerequisite. It can be downloaded <a href="https://www.knime.org/downloads/overview">here</a> and installed following these <a href="https://tech.knime.org/installation-0">instructions</a>.
 <h3>Installing FSK-Lab</h3>
-<div>FSK-Lab needs to be installed as a KNIME feature through the FSK-Lab update site (<a href="https://www.knime.org/downloads/update">more info here</a>). The corresponding URL to be entered in the 'Add Repository' dialogue is:</br> https://dl.bintray.com/silebat/fsklab</div>
+<div>FSK-Lab needs to be installed as a KNIME feature through the FSK-Lab update site (<a href="https://www.knime.org/downloads/update">more info here</a>). The corresponding URL to be entered in the 'Add Repository' dialogue is: https://dl.bintray.com/silebat/fsklab</div>
 <div></div>
 &nbsp;
 <h3>Starting FSK-Lab for the first time</h3>
