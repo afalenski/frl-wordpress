@@ -15,13 +15,9 @@ published: true
 
 FSK-Lab is an open-source extension plugin to the Konstanz Information Miner (<a href="https://knime.org">KNIME</a>). FSK-Lab enables KNIME users to work with FSK models within KNIME.
 <h2>Installation</h2>
-FSK Lab may be installed through its update site: Steps:
-<h3>Installing KNIME</h3>
-KNIME may be installed as described in <a href="https://tech.knime.org/installation-0">https://tech.knime.org/installation-0</a>
-
-<iframe src="https://www.youtube-nocookie.com/embed/yeHblDxakLk?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+A running instance of KNIME is a prerequisite. It can be downloaded <a href="https://www.knime.org/downloads/overview">here</a> and installed following these <a href="https://tech.knime.org/installation-0">instructions</a>.
 <h3>Installing FSK-Lab</h3>
-<div>FSK-Lab may be installed as a KNIME feature through the FSK-Lab update site <a href="https://dl.bintray.com/silebat/fsklab">https://dl.bintray.com/silebat/fsklab</a>. More info of installation of KNIME features through update sites at <a href="https://www.knime.org/downloads/update">https://www.knime.org/downloads/update</a>.</div>
+<div>FSK-Lab may be installed as a KNIME feature through the FSK-Lab update site https://dl.bintray.com/silebat/fsklab. More info of installation of KNIME features through update sites at <a href="https://www.knime.org/downloads/update">https://www.knime.org/downloads/update</a>.</div>
 <h3>Starting FSK-Lab for the first time</h3>
 If FSK-Lab was installed successfully, the FSK-Lab feature should appear now in the KNIME Installation Details dialog under Help &gt; Installation Details.
 
