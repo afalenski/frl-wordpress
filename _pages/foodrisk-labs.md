@@ -10,12 +10,8 @@ permalink: >
 published: true
 ---
 <img class="aligncenter wp-image-1243 size-full" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FoodRiskLabsLogo1.png" alt="FoodRiskLabsLogo1" width="624" height="90" />
-
-<a href="http://www.bfr.bund.de/"><img class="aligncenter wp-image-1252 size-full" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/BfR_Logo.png" alt="" width="200" height="75" /></a>
-
-&nbsp;
-<p style="text-align: center;">FoodRisk-Labs is a portal</p>
-<p style="text-align: center;">to the following tools</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">FoodRisk-Labs is a portal to the following tools</p>
 <p style="text-align: center;">developed by the <a href="http://www.bfr.bund.de/de/start.html" target="_blank">Federal Institute for Risk Assessment (BfR)</a>:</p>
 &nbsp;
 <table style="height: 1114px;" width="586">
@@ -47,11 +43,10 @@ OpenML for predictive modelling in foods</td>
 <td> <a href="https://foodrisklabs.bfr.bund.de/index.php/fsk-lab/"><img class="aligncenter wp-image-1866 size-full" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FSKlab7-1.png" alt="FSK-Lab" width="150" height="150" /></a>
 
 Food Safety Knowledge Lab (FSK-Lab)</td>
-<td> <a href="https://foodrisklabs.bfr.bund.de/index.php/externaltools/" target="_blank">external Tools</a>
+<td><a href="https://foodrisklabs.bfr.bund.de/index.php/externaltools/" target="_blank">external Tools</a>
 
 link to non-BfR services</td>
-<td>
-</td>
+<td></td>
 </tr>
 </tbody>
 </table>
