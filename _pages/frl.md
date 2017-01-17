@@ -57,7 +57,7 @@ Checkliste zur Einschätzung von möglichen Gefahren in Lebensmittelunternehmen 
 </td>
 
 <td>
-<p style="text-align: center;"><a href="https:"><img class="size-full wp-image-1894 aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Logo-externTool3.png" alt="" width="150" height="150" /> </a>Liste externer Tools</p>
+<p style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/index.php/externe-tools/"><img class="size-full wp-image-1894 aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Logo-externTool3.png" alt="" width="150" height="150" /> </a>Liste externer Tools</p>
 </td>
 
 
