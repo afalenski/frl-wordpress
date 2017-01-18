@@ -13,16 +13,16 @@ published: true
 
 &nbsp;
 
-FSK-Lab is an open-source extension plugin to the Konstanz Information Miner (<a href="https://knime.org">KNIME</a>). FSK-Lab enables KNIME users to work with FSK models within KNIME.
+FSK-Lab is an open-source extension plugin to the Konstanz Information Miner (<a href="https://knime.org" target="_blank">KNIME</a>). FSK-Lab enables KNIME users to work with FSK models within KNIME.
 <h2>Installation</h2>
-A running instance of KNIME is a prerequisite. It can be downloaded <a href="https://www.knime.org/downloads/overview" target="_blank">here</a> and installed following these <a href="https://tech.knime.org/installation-0">instructions</a>.
+A running instance of KNIME is a prerequisite. It can be downloaded <a href="https://www.knime.org/downloads/overview">here</a> and installed following these <a href="https://tech.knime.org/installation-0" target="_blank">instructions</a>.
 In addition, there is the option to modify the KNIME.ini in the installation folder of KNIME while the program is not running:</br>
 1. In order to extend the RAM available in KNIME, simply change the value in the line '-Xmx1024m'. An example would be '-Xmx4g' if 4GB (=4x1024m) of 8GB RAM should be used.
 2. If the connection to a KNIME-Server through KNIME fails, it might help to increase the response time. Simply add the line '-Dcom.knime.enterprise.client.connect-timeout=10000' to the ini-file. 
 
 <h3>Installing FSK-Lab</h3>
 
-<div>FSK-Lab needs to be installed as a KNIME feature through the FSK-Lab update site (<a href="https://www.knime.org/downloads/update">more info here</a>):</br>
+<div>FSK-Lab needs to be installed as a KNIME feature through the FSK-Lab update site (<a href="https://www.knime.org/downloads/update" target="_blank">more info here</a>):</br>
 1. Add the repository to KNIME via Help &gt; Install New Software &gt; Add. The corresponding URL (https://dl.bintray.com/silebat/fsklab) should to be entered in the 'Add Repository' dialogue along with a meaningful name.
 
 <img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSKlabinstall0.png" alt="" width="757" height="580" class="aligncenter size-full wp-image-1972" />
@@ -37,7 +37,7 @@ In addition, there is the option to modify the KNIME.ini in the installation fol
 
 <h3>Installing R</h3>
 
-<div>FSK-Lab is based on R (<a href="https://www.r-project.org" target="_blank">https://www.r-project.org</a>), which can also be installed as a KNIME feature through the FSK-Lab update site under WINDOWS (<a href="https://www.knime.org/downloads/update">more info here</a>). If you want to integrate your own R version or the one <a href="https://dl.bintray.com/silebat/FSK_example_models/R-3.3.0working.7z">used</a> by us, please continue with step 5 applying your R installation path:</br>
+<div>FSK-Lab is based on R (<a href="https://www.r-project.org" target="_blank">https://www.r-project.org</a>), which can also be installed as a KNIME feature through the FSK-Lab update site under WINDOWS (<a href="https://www.knime.org/downloads/update" target="_blank">more info here</a>). If you want to integrate your own R version or the one <a href="https://dl.bintray.com/silebat/FSK_example_models/R-3.3.0working.7z">used</a> by us, please continue with step 5 applying your R installation path:</br>
 
 1. The R repository should be already available in the installation menu via Help &gt; Install New Software &gt; if All Available Sites is choosen in the 'Work with'-pull down menu.</br>
 3. Fold open KNIME & Extensions and tick KNIME R Statistics Integration (Windows binarys).</br>
