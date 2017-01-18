@@ -46,8 +46,9 @@ In addition, there is the option to modify the KNIME.ini in the installation fol
 
 <img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/R.png" alt="" width="622" height="419" class="aligncenter size-full wp-image-1979" />
 
-6. If you received a message that the package Rserve needs to be installed you need to start R.exe directly from its installation folder. In the R console enter "install.packages('Rserve')" and press enter. There should pop up a list of download sites than. Choose one nerby and confirm. After the message that the library was sucessfully downloaded, you can close are via "q()". In the library folder of R should a new folder Rserve appear now.</br>
+6. If you received a message that the package Rserve needs to be installed you need to start R.exe directly from its installation folder. In the R console enter "install.packages('Rserve')" and press enter. There should pop up a list of download sites than. Choose one nerby and confirm. After the message that the library was sucessfully downloaded, you can close are via "q()". In the library folder of R should a new folder Rserve appear now.
 
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/Rserve.png" alt="" width="627" height="248" class="aligncenter size-full wp-image-1982" />
  
  <h3>Example files</h3>
  
