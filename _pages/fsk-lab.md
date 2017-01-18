@@ -15,7 +15,7 @@ published: true
 
 FSK-Lab is an open-source extension plugin to the Konstanz Information Miner (<a href="https://knime.org">KNIME</a>). FSK-Lab enables KNIME users to work with FSK models within KNIME.
 <h2>Installation</h2>
-A running instance of KNIME is a prerequisite. It can be downloaded <a href="https://www.knime.org/downloads/overview">here</a> and installed following these <a href="https://tech.knime.org/installation-0">instructions</a>.
+A running instance of KNIME is a prerequisite. It can be downloaded <a href="https://www.knime.org/downloads/overview" target="_blank">here</a> and installed following these <a href="https://tech.knime.org/installation-0">instructions</a>.
 In addition, there is the option to modify the KNIME.ini in the installation folder of KNIME while the program is not running:</br>
 1. In order to extend the RAM available in KNIME, simply change the value in the line '-Xmx1024m'. An example would be '-Xmx4g' if 4GB (=4x1024m) of 8GB RAM should be used.
 2. If the connection to a KNIME-Server through KNIME fails, it might help to increase the response time. Simply add the line '-Dcom.knime.enterprise.client.connect-timeout=10000' to the ini-file. 
@@ -46,7 +46,7 @@ In addition, there is the option to modify the KNIME.ini in the installation fol
 
 <img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/R.png" alt="" width="622" height="419" class="aligncenter size-full wp-image-1979" />
 
-6. If you received a message that the package Rserve needs to be installed you need to start R.exe directly from its installation folder. In the R console enter "install.packages('Rserve')" and press enter. There should pop up a list of download sites than. Choose one nerby and confirm. After the message that the library was sucessfully downloaded, you can close are via "q()". In the library folder of R should a new folder Rserve appear now.
+6. If you received a message that the package Rserve needs to be installed you need to start R.exe directly from its installation folder. In the R console enter "install.packages('Rserve')" and press enter. There should pop up a list of download sites than. Choose one nearby and confirm. After the message that the library was sucessfully downloaded, you can close are via "q()". In the library folder of R should a new folder Rserve appear now.
 
 <img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/Rserve.png" alt="" width="627" height="248" class="aligncenter size-full wp-image-1982" />
  
