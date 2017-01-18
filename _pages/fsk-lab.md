@@ -40,7 +40,10 @@ In addition, there is the option to modify the KNIME.ini in the installation fol
 <div>FSK-Lab is based on R (<a href="https://www.r-project.org" target="_blank">https://www.r-project.org</a>), which can also be installed as a KNIME feature through the FSK-Lab update site under WINDOWS (<a href="https://www.knime.org/downloads/update" target="_blank">more info here</a>). If you want to integrate your own R version or the one <a href="https://dl.bintray.com/silebat/FSK_example_models/R-3.3.0working.7z">used</a> by us, please continue with step 5 applying your R installation path:</br>
 
 1. The R repository should be already available in the installation menu via Help &gt; Install New Software &gt; if All Available Sites is choosen in the 'Work with'-pull down menu.</br>
-2. Fold open KNIME & Extensions and tick KNIME R Statistics Integration (Windows binarys).</br>
+2. Fold open KNIME & Extensions and tick KNIME R Statistics Integration (Windows binarys).
+
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/R_install.png" alt="" width="930" height="579" class="aligncenter size-full wp-image-1988" />
+
 3. Follow the promts after pressing Next and after a reboot, the R binary feature should appear in KNIME under Help &gt; Installation Details.</br>
 4. In this last step, KNIME needs to know were the R binarys are installed via File > Preferences. In the menu choose KNIME > BfR R settings and on the right site Browse to the local path of the binarys. If installed via the update site they are located in the KNIME installation folder > plugins > org.knime.ext.r3.bin.win32.x86_...R-Inst. Don't use a subfolder of R-Inst! Press Apply and enter the same path in the Menu under KNIME > R and press ok. HINT: If a seperate R version is used and the KNIME message 'no R.exe file found in the R-folder' appears, even if its there, the reason might be a wrong bit version was installed. The 32bit version can be found in the folder 'bin/i386' and the 64bit version in 'bin/x64'.  </br>
 
