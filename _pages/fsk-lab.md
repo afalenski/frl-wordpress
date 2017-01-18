@@ -43,6 +43,9 @@ In addition, there is the option to modify the KNIME.ini in the installation fol
 3. Fold open KNIME & Extensions and tick KNIME R Statistics Integration (Windows binarys).</br>
 4. Follow the promts after pressing Next and after a reboot, the R binary feature should appear in KNIME under Help &gt; Installation Details.</br>
 5. In this last step, KNIME needs to know were the R binarys are installed via File > Preferences. In the menu choose KNIME > BfR R settings and on the right site Browse to the local path of the binarys. If installed via the update site they are located in the KNIME installation folder > plugins > org.knime.ext.r3.bin.win32.x86_...R-Inst. Don't use a subfolder of R-Inst! Press Apply and enter the same path in the Menu under KNIME > R and press ok. HINT: If a seperate R version is used and the KNIME message 'no R.exe file found in the R-folder' appears, even if its there, the reason might be a wrong bit version was installed. The 32bit version can be found in the folder 'bin/i386' and the 64bit version in 'bin/x64'.  </br>
+
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/R.png" alt="" width="622" height="419" class="aligncenter size-full wp-image-1979" />
+
 6. If you received a message that the package Rserve needs to be installed you need to start R.exe directly from its installation folder. In the R console enter "install.packages('Rserve')" and press enter. There should pop up a list of download sites than. Choose one nerby and confirm. After the message that the library was sucessfully downloaded, you can close are via "q()". In the library folder of R should a new folder Rserve appear now.</br>
 
  
