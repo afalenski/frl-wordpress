@@ -15,6 +15,7 @@ published: true
 
 FSK-Lab is an open-source extension plugin to the Konstanz Information Miner (<a href="https://knime.org" target="_blank">KNIME</a>). FSK-Lab enables KNIME users to work with FSK models within KNIME.
 <h2>Installation</h2>
+<h3>Installing KNIME</h3>
 A running instance of KNIME is a prerequisite. It can be downloaded <a href="https://www.knime.org/downloads/overview" target="_blank">here</a> and installed following these <a href="https://tech.knime.org/installation-0" target="_blank">instructions</a>.
 In addition, there is the option to modify the KNIME.ini in the installation folder of KNIME while the program is not running:</br>
 1. In order to extend the RAM available in KNIME, simply change the value in the line '-Xmx1024m'. An example would be '-Xmx4g' if 4GB (=4x1024m) of 8GB RAM should be used.</br>
