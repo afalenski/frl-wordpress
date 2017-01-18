@@ -32,7 +32,7 @@ In addition, there is the option to modify the KNIME.ini in the installation fol
 
 3. Tick FSK Lab nodes and follow the promts after pressing Next.</br>
 4. After a reboot, FSK-Lab Feature should appear now in KNIME under Help &gt; Installation Details.</div>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSKlabinstall2.png" alt="" width="756" height="363" class="aligncenter size-full wp-image-1974" />
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSKlabinstall2-1.png" alt="" width="888" height="359" class="aligncenter size-full wp-image-1977" />
 
 <h3>Installing R</h3>
 
