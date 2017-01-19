@@ -72,7 +72,7 @@ Fsk-Lab provides an additional port object called <code>FskPortObject</code> tha
  	<li>R workspace</li>
  	<li>Model metadata</li>
 </ul>
-<img src="https://silebat.github.io/FSK-Lab/port.png" />
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Creator_node.png" alt="" width="123" height="122" class="aligncenter size-full wp-image-2004" />
 <h3>Model metadata</h3>
 The model metadata involved in the FSK models comprises the following.
 <table class="table table-condensed">
@@ -231,26 +231,7 @@ Settings:
 <ul>
  	<li>Location to file. May be an <i>absolute URL</i>, a <i>mountpoint relative URL</i> or <i>local path</i>.</li>
 </ul>
-Behaviour. Creates an FSK object with the scripts, metadata and libraries in the referred FSKX file.
-
-</div>
-</div>
-<div class="panel panel-primary">
-<div class="panel-heading">
-<h3 class="panel-title">FSKX Writer</h3>
-</div>
-<div class="panel-body">
-
-Writes an FSK object into an FSKX file. <img src="https://silebat.github.io/FSK-Lab/fskxwriter.png" />
-<ul>
- 	<li>Inputs: FSK object</li>
- 	<li>Outputs: none</li>
-</ul>
-Settings:
-<ul>
- 	<li>Location to file. May be an <i>absolute URL</i>, a <i>mountpoint relative URL</i> or a <i>local path</i>.</li>
-</ul>
-Behaviour. Creates an FSKX file with the scripts, metadata and libraries in the FSK object.
+Behaviour: Creates an FSK object with the scripts, metadata and libraries in the referred FSKX file.
 
 </div>
 </div>
@@ -272,10 +253,30 @@ Settings:
  	<li>Location to visualization script (optional)</li>
  	<li>Location to XLSX file with metadata (optional)</li>
 </ul>
-Behaviour. Creates an FSK object with the script and metadata provided by the user.
+Behaviour: Creates an FSK object with the script and metadata provided by the user.
 
 </div>
 </div>
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">FSKX Writer</h3>
+</div>
+<div class="panel-body">
+
+Writes an FSK object into an FSKX file. <img src="https://silebat.github.io/FSK-Lab/fskxwriter.png" />
+<ul>
+ 	<li>Inputs: FSK object</li>
+ 	<li>Outputs: none</li>
+</ul>
+Settings:
+<ul>
+ 	<li>Location to file. May be an <i>absolute URL</i>, a <i>mountpoint relative URL</i> or a <i>local path</i>.</li>
+</ul>
+Behaviour: Creates an FSKX file with the scripts, metadata and libraries in the FSK object.
+
+</div>
+</div>
+
 <div class="panel panel-primary">
 <div class="panel-heading">
 <h3 class="panel-title">FSK Runner</h3>
@@ -287,7 +288,7 @@ This node runs an FSK model <img src="https://silebat.github.io/FSK-Lab/fskrunne
  	<li>Inputs: FSK object and optional metadata table</li>
  	<li>Outputs: FSK object and generated image</li>
 </ul>
-Behaviour. Runs the input model and updates its workspace with the model results. A chart or plot is generated if a visualization script is provided.
+Behaviour: Runs the input model and updates its workspace with the model results. A chart or plot is generated if a visualization script is provided.
 
 </div>
 </div>
@@ -302,7 +303,7 @@ Edit the metadata in an FSK object. <img src="https://silebat.github.io/FSK-Lab/
  	<li>Inputs: FSK object</li>
  	<li>Outputs: FSK object</li>
 </ul>
-Behaviour. Modifies the metadata in an FSK object.
+Behaviour: Modifies the metadata in an FSK object.
 
 </div>
 </div>
@@ -317,7 +318,7 @@ Extracts the R workspace out of an FSK object. The R workspace may be used with 
  	<li>Inputs: FSK object</li>
  	<li>Output: RPortObject</li>
 </ul>
-Behaviour. Extracts the R workspace out of an FSK object and places it into the output RPortObject. If the R workspace is null or non-existent (as when the model has not been run), the generated RPortObject would be null.
+Behaviour: Extracts the R workspace out of an FSK object and places it into the output RPortObject. If the R workspace is null or non-existent (as when the model has not been run), the generated RPortObject would be null.
 
 </div>
 </div>
@@ -332,7 +333,7 @@ Extracts metadata from an FSK object. <img src="https://silebat.github.io/FSK-La
  	<li>Inputs: FSK object</li>
  	<li>Outputs: KNIME table with metadata</li>
 </ul>
-Behaviour. Extracts the metadata in an FSK object into a KNIME table
+Behaviour: Extracts the metadata in an FSK object into a KNIME table
 
 </div>
 </div>
