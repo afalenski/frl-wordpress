@@ -17,6 +17,6 @@ Der SiLeBAT NewsRadar bietet eine Möglichkeit, sich über tagesaktuelle Meldung
 Unten ist das Webportal für das NewsRadar verlinkt und die Logindaten angegeben. Im Webportal gibt es für den Nutzer die zwei Optionen "SiLeBAT_UserConfiguration" und "SiLeBAT_NewsReport".</br>"SiLeBAT_UserConfiguration" erlaubt es ein eigenes Nutzerprofil anzulegen, bzw. zu ändern. Auf Basis der dort angelegten Auswahlkonfiguration erhält der Nutzer dann jeden Morgen eine Email mit den relevanten Funden in den ausgewählten Quellen.</br> Mit dem "SiLeBAT_NewsReport" hingegen wird sofort ein NewsReport auf Basis der hinterlegten Auswahl erstellt (Anpassungen der Suche sind möglich).
 
 &nbsp;
-<p style="text-align: center;"><a title="NewsRadar Webportal" href="https://knime.bfrlab.de/com.knime.enterprise.server/#/SiLeBAT/" target="_blank">News Radar-Abfrage</a></p>
+<p style="text-align: center;"><a title="Link zum NewsRadar Webportal" href="https://knime.bfrlab.de/com.knime.enterprise.server/#/SiLeBAT/" target="_blank">Link zum NewsRadar Webportal</a></p>
 <p style="text-align: center;">Username: silebat</p><p style="text-align: center;">Passwort: gesamtverbund</p>
 <p style="text-align: center;"></p>
