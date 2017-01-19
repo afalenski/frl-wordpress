@@ -10,10 +10,11 @@ permalink: >
 published: true
 ---
 <a href="https://knime.bfrlab.de/com.knime.enterprise.server/#/SiLeBAT/"><img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Icon-NewsRadar4-1.png" alt="Logo NewsRadar" width="148" height="150" class="aligncenter size-full wp-image-1897" /></a>
+</br>
 
 Der SiLeBAT NewsRadar bietet eine Möglichkeit, sich über tagesaktuelle Meldungen im Bereich Gesundheit und Verbraucherschutz zu informieren und wurde im Projekt "Sicherstellung der Futter- und Lebensmittelwarenkette bei bio- und agro-terroristischen (BAT)-Schadenslagen (SiLeBAT)" am <a title="Bundesinstitut für Risikobewertung" href="http://www.bfr.bund.de/de/start.html" target="_blank">Bundesinstitut für Risikobewertung</a> entwickelt.
 
-Unten ist das Webportal für das NewsRadar verlinkt und die Logindaten angegeben. Im Webportal gibt es für den Nutzer die zwei Optionen "SiLeBAT_UserConfiguration" und "SiLeBAT_NewsReport". "SiLeBAT_UserConfiguration" erlaubt es ein eigenes Nutzerprofil anzulegen, bzw. zu ändern. Auf Basis der dort angelegten Auswahlkonfiguration erhält der Nutzer dann jeden Morgen eine Email mit den relevanten Funden in den ausgewählten Quellen. Mit dem "SiLeBAT_NewsReport" hingegen wird sofort ein NewsReport auf Basis der hinterlegten Auswahl erstellt (Anpassungen der Suche sind möglich).
+Unten ist das Webportal für das NewsRadar verlinkt und die Logindaten angegeben. Im Webportal gibt es für den Nutzer die zwei Optionen "SiLeBAT_UserConfiguration" und "SiLeBAT_NewsReport".</br>"SiLeBAT_UserConfiguration" erlaubt es ein eigenes Nutzerprofil anzulegen, bzw. zu ändern. Auf Basis der dort angelegten Auswahlkonfiguration erhält der Nutzer dann jeden Morgen eine Email mit den relevanten Funden in den ausgewählten Quellen.</br> Mit dem "SiLeBAT_NewsReport" hingegen wird sofort ein NewsReport auf Basis der hinterlegten Auswahl erstellt (Anpassungen der Suche sind möglich).
 
 &nbsp;
 <p style="text-align: center;"><a title="NewsRadar Webportal" href="https://knime.bfrlab.de/com.knime.enterprise.server/#/SiLeBAT/" target="_blank">News Radar-Abfrage</a></p>
