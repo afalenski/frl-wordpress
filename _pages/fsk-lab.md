@@ -365,3 +365,21 @@ Behaviour: Edit the scripts in an FSK object: model, parameters and visualizatio
 
 </div>
 </div>
+
+
+
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">FSK Editor JS</h3>
+</div>
+<div class="panel-body">
+
+Edit the scripts in an FSK object.</br>
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Editor_node.png" alt="" width="120" height="122" class="alignnone size-full wp-image-2020" /></br>
+<ul>
+ 	<li>Inputs: FSK object</li>
+ 	<li>Outputs: FSK object</li>
+</ul>
+Behaviour: Edit the scripts in an FSK object: model, parameters and visualization scripts. JavaScript based, its user interface may be also used in a browser in the KNIME web server.
+</div>
+</div>
