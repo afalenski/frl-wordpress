@@ -72,7 +72,7 @@ Fsk-Lab provides an additional port object called <code>FskPortObject</code> tha
  	<li>R workspace</li>
  	<li>Model metadata</li>
 </ul>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Creator_node.png" alt="" width="123" height="122" class="aligncenter size-full wp-image-2004" />
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Creator_node.png" alt="" width="123" height="122" class="alignleft size-full wp-image-2004" />
 <h3>Model metadata</h3>
 The model metadata involved in the FSK models comprises the following.
 <table class="table table-condensed">
@@ -240,6 +240,26 @@ Behaviour: Creates an FSK object with the script and metadata provided by the us
 </div>
 <div class="panel panel-primary">
 <div class="panel-heading">
+<h3 class="panel-title">FSKX Writer</h3>
+</div>
+<div class="panel-body">
+
+Writes an FSK object into an FSKX file. <img src="https://silebat.github.io/FSK-Lab/fskxwriter.png" />
+<ul>
+ 	<li>Inputs: FSK object</li>
+ 	<li>Outputs: none</li>
+</ul>
+Settings:
+<ul>
+ 	<li>Location to file. May be an <i>absolute URL</i>, a <i>mountpoint relative URL</i> or a <i>local path</i>.</li>
+</ul>
+Behaviour: Creates an FSKX file with the scripts, metadata and libraries in the FSK object.
+
+</div>
+</div>
+
+<div class="panel panel-primary">
+<div class="panel-heading">
 <h3 class="panel-title">FSKX Reader</h3>
 </div>
 <div class="panel-body">
@@ -258,25 +278,6 @@ Behaviour: Creates an FSK object with the scripts, metadata and libraries in the
 </div>
 </div>
 
-<div class="panel panel-primary">
-<div class="panel-heading">
-<h3 class="panel-title">FSKX Writer</h3>
-</div>
-<div class="panel-body">
-
-Writes an FSK object into an FSKX file. <img src="https://silebat.github.io/FSK-Lab/fskxwriter.png" />
-<ul>
- 	<li>Inputs: FSK object</li>
- 	<li>Outputs: none</li>
-</ul>
-Settings:
-<ul>
- 	<li>Location to file. May be an <i>absolute URL</i>, a <i>mountpoint relative URL</i> or a <i>local path</i>.</li>
-</ul>
-Behaviour: Creates an FSKX file with the scripts, metadata and libraries in the FSK object.
-
-</div>
-</div>
 
 <div class="panel panel-primary">
 <div class="panel-heading">
