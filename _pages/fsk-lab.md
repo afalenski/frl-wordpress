@@ -222,7 +222,8 @@ The model metadata involved in the FSK models comprises the following.
 </div>
 <div class="panel-body">
 
-Creates an FSK object. <img src="https://silebat.github.io/FSK-Lab/fskcreator.png" />
+Creates an FSK object.
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Creator_node.png" alt="" width="123" height="122" class="alignleft size-full wp-image-2004" />
 <ul>
  	<li>Inputs: none</li>
  	<li>Outputs: FSK object</li>
