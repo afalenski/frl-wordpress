@@ -222,9 +222,8 @@ The model metadata involved in the FSK models comprises the following.
 </div>
 <div class="panel-body">
 
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Creator_node.png" alt="" width="123" height="122" class="alignnone size-full wp-image-2004" /></br>
 Creates an FSK object.</br>
-
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Creator_node.png" alt="" width="123" height="122" class="alignnone size-full wp-image-2004" /></br>
 <ul>
  	<li>Inputs: none</li>
  	<li>Outputs: FSK object</li>
@@ -247,7 +246,7 @@ Behaviour: Creates an FSK object with the script and metadata provided by the us
 <div class="panel-body">
 
 Writes an FSK object into an FSKX file.</br>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSKX_Writer_node.png" alt="" width="120" height="121" class="alignleft size-full wp-image-2009" /></br>
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSKX_Writer_node.png" alt="" width="120" height="121" class="alignnone size-full wp-image-2009" /></br>
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Outputs: none</li>
@@ -268,7 +267,7 @@ Behaviour: Creates an FSKX file with the scripts, metadata and libraries in the 
 <div class="panel-body">
 
 Reads an FSK object from an FSKX file.</br> 
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSKX_Reader_node.png" alt="" width="121" height="122" class="alignleft size-full wp-image-2010" /></br>
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSKX_Reader_node.png" alt="" width="121" height="122" class="alignnone size-full wp-image-2010" /></br>
 <ul>
  	<li>Inputs: None</li>
  	<li>Outputs: FSK object</li>
@@ -289,7 +288,8 @@ Behaviour: Creates an FSK object with the scripts, metadata and libraries in the
 </div>
 <div class="panel-body">
 
-This node runs an FSK model <img src="https://silebat.github.io/FSK-Lab/fskrunner.png" />
+This node runs an FSK model</br>
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Runner_node.png" alt="" width="122" height="121" class="alignnone size-full wp-image-2015" /></br>
 <ul>
  	<li>Inputs: FSK object and optional metadata table</li>
  	<li>Outputs: FSK object and generated image</li>
@@ -304,7 +304,8 @@ Behaviour: Runs the input model and updates its workspace with the model results
 </div>
 <div class="panel-body">
 
-Edit the metadata in an FSK object. <img src="https://silebat.github.io/FSK-Lab/fskmetadataeditor.png" />
+Edit the metadata in an FSK object.</br>
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Metadata_Editor_node.png" alt="" width="127" height="119" class="alignnone size-full wp-image-2016" /></br>
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Outputs: FSK object</li>
@@ -319,7 +320,8 @@ Behaviour: Modifies the metadata in an FSK object.
 </div>
 <div class="panel-body">
 
-Extracts the R workspace out of an FSK object. The R workspace may be used with KNIME R nodes. <img src="https://silebat.github.io/FSK-Lab/fsk2r.png" />
+Extracts the R workspace out of an FSK object. The R workspace may be used with KNIME R nodes.</br>
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSK_to-R_node.png" alt="" width="121" height="122" class="alignnone size-full wp-image-2017" /></br>
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Output: RPortObject</li>
@@ -334,7 +336,8 @@ Behaviour: Extracts the R workspace out of an FSK object and places it into the 
 </div>
 <div class="panel-body">
 
-Extracts metadata from an FSK object. <img src="https://silebat.github.io/FSK-Lab/fsk2metadata.png" />
+Extracts metadata from an FSK object.</br>
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSK_to_Metadata_node.png" alt="" width="121" height="120" class="alignnone size-full wp-image-2018" /></br>
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Outputs: KNIME table with metadata</li>
