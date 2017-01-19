@@ -16,7 +16,7 @@ Der SiLeBAT News Radar wurde im Projekt "Sicherstellung der Futter- und Lebensmi
 Vor der Abfrage wird nunächst ein <a title="News Radar (Konfiguration zum regelmäßigen Erhalt)" href="https://knime.bfrlab.de/com.knime.enterprise.server/#/SiLeBAT/SiLeBAT_UserConfiguration" target="_blank">Nutzerkonto </a>angelegt, das die E-Mail-Adresse und die gewünschten Quellen enthält. Anschließend kann die Abfrage konfiguriert werden.
 
 &nbsp;
-<p style="text-align: center;"><a title="News Radar (einmalige Abfrage)" href="https://knime.bfrlab.de/com.knime.enterprise.server/#/SiLeBAT/SiLeBAT_NewsReport&amp;single&amp;run" target="_blank">News Radar-Abfrage</a></p>
+<p style="text-align: center;"><a title="News Radar" href="https://knime.bfrlab.de/com.knime.enterprise.server/#/SiLeBAT/SiLeBAT_NewsReport" target="_blank">News Radar-Abfrage</a></p>
 <p style="text-align: center;">Username: silebat</p>
 <p style="text-align: center;">Passwort: gesamtverbund</p>
 <p style="text-align: center;"></p>
