@@ -13,7 +13,7 @@ Der SiLeBAT News Radar bietet eine Möglichkeit, sich über tagesaktuelle Meldun
 
 Der SiLeBAT News Radar wurde im Projekt "Sicherstellung der Futter- und Lebensmittelwarenkette bei bio- und agro-terroristischen (BAT)-Schadenslagen (SiLeBAT)" am <a title="Bundesinstitut für Risikobewertung" href="http://www.bfr.bund.de/de/start.html" target="_blank">Bundesinstitut für Risikobewertung</a> entwickelt.
 
-Vor der Abfrage wird nunächst ein <a title="News Radar (Konfiguration zum regelmäßigen Erhalt)" href="https://knime.bfrlab.de/com.knime.enterprise.server/#/SiLeBAT/SiLeBAT_UserConfiguration" target="_blank">Nutzerkonto </a>angelegt, das die E-Mail-Adresse und die gewünschten Quellen enthält. Anschließend kann die Abfrage konfiguriert werden.
+Unten ist die das Webportal für das NewsRadar verlinkt und die Logindaten angegeben. Im Webportal gibt es derzeit die zwei Optionen "SiLeBAT_UserConfiguration" und "SiLeBAT_NewsReport" im Menü auf der linken Seite. SiLeBAT_UserConfiguration erlaubt es ein eigenes Nutzerprofil anzulegen, bzw. zu ändern. Auf Basis der dort angelegten Auswahlkonfiguration erhält man dann jeden Morgen eine Email mit den relevanten Funden in den ausgewählten Quellen. Mit SiLeBAT_NewsReport hingegen wird sofort ein NewsReport auf Basis der hinterlegten Auswahl erstellt (Anpassungen der Suche sind möglich).
 
 &nbsp;
 <p style="text-align: center;"><a title="News Radar" href="https://knime.bfrlab.de/com.knime.enterprise.server/#/SiLeBAT/" target="_blank">News Radar-Abfrage</a></p>
