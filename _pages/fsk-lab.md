@@ -218,25 +218,6 @@ The model metadata involved in the FSK models comprises the following.
 <h2>Included nodes</h2>
 <div class="panel panel-primary">
 <div class="panel-heading">
-<h3 class="panel-title">FSKX Reader</h3>
-</div>
-<div class="panel-body">
-
-Reads an FSK object from an FSKX file. <img src="https://silebat.github.io/FSK-Lab/fskxreader.png" />
-<ul>
- 	<li>Inputs: None</li>
- 	<li>Outputs: FSK object</li>
-</ul>
-Settings:
-<ul>
- 	<li>Location to file. May be an <i>absolute URL</i>, a <i>mountpoint relative URL</i> or <i>local path</i>.</li>
-</ul>
-Behaviour: Creates an FSK object with the scripts, metadata and libraries in the referred FSKX file.
-
-</div>
-</div>
-<div class="panel panel-primary">
-<div class="panel-heading">
 <h3 class="panel-title">FSK Creator</h3>
 </div>
 <div class="panel-body">
@@ -257,6 +238,26 @@ Behaviour: Creates an FSK object with the script and metadata provided by the us
 
 </div>
 </div>
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">FSKX Reader</h3>
+</div>
+<div class="panel-body">
+
+Reads an FSK object from an FSKX file. <img src="https://silebat.github.io/FSK-Lab/fskxreader.png" />
+<ul>
+ 	<li>Inputs: None</li>
+ 	<li>Outputs: FSK object</li>
+</ul>
+Settings:
+<ul>
+ 	<li>Location to file. May be an <i>absolute URL</i>, a <i>mountpoint relative URL</i> or <i>local path</i>.</li>
+</ul>
+Behaviour: Creates an FSK object with the scripts, metadata and libraries in the referred FSKX file.
+
+</div>
+</div>
+
 <div class="panel panel-primary">
 <div class="panel-heading">
 <h3 class="panel-title">FSKX Writer</h3>
