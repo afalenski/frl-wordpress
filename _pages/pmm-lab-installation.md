@@ -16,7 +16,7 @@ We provide a precompiled KNIME-PMM-Lab bundle for Windows users. You can downloa
 
 <a href="https://sourceforge.net/projects/pmmlab/files/latest/download" target="_blank"><img class="aligncenter size-full wp-image-157" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/03/Button_Download_PMM-Lab.png" alt="Button_Download_PMM-Lab" width="212" height="59" /></a>
 
-After unzipping the downloaded file you will see a new folder called "knime_#.#.#". Inside is an executable file called "pmmlab.exe" which starts KNIME with PMM-Lab.
+After unzipping the downloaded file you will see a new folder called "knime_...". Inside is an executable file called "knime.exe" which starts KNIME with PMM-Lab.
 
 (2)
 + Visit <a href="http://www.knime.org/downloads/overview/" rel="nofollow">http://www.knime.org/downloads/overview/.</a>
