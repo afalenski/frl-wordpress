@@ -330,6 +330,7 @@ Behaviour: Extracts the R workspace out of an FSK object and places it into the 
 
 </div>
 </div>
+
 <div class="panel panel-primary">
 <div class="panel-heading">
 <h3 class="panel-title">FSK to metadata</h3>
@@ -343,6 +344,24 @@ Extracts metadata from an FSK object.</br>
  	<li>Outputs: KNIME table with metadata</li>
 </ul>
 Behaviour: Extracts the metadata in an FSK object into a KNIME table
+
+</div>
+</div>
+
+
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">FSK Editor</h3>
+</div>
+<div class="panel-body">
+
+Edit the scripts in an FSK object.</br>
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Editor_node.png" alt="" width="120" height="122" class="alignnone size-full wp-image-2020" /></br>
+<ul>
+ 	<li>Inputs: FSK object (Optional)</li>
+ 	<li>Outputs: FSK object</li>
+</ul>
+Behaviour: Edit the scripts in an FSK object: model, parameters and visualization scripts. In case there is no input model connected then it will create a new model from the user interface.
 
 </div>
 </div>
