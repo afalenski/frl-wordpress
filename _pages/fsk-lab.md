@@ -224,7 +224,7 @@ The model metadata involved in the FSK models comprises the following.
 
 Creates an FSK object.</br>
 
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Creator_node.png" alt="" width="123" height="122" class="alignleft size-full wp-image-2004" />
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Creator_node.png" alt="" width="123" height="122" class="alignleft size-full wp-image-2004" /></br>
 <ul>
  	<li>Inputs: none</li>
  	<li>Outputs: FSK object</li>
@@ -247,7 +247,7 @@ Behaviour: Creates an FSK object with the script and metadata provided by the us
 <div class="panel-body">
 
 Writes an FSK object into an FSKX file.</br>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSKX_Writer_node.png" alt="" width="120" height="121" class="alignleft size-full wp-image-2009" />
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSKX_Writer_node.png" alt="" width="120" height="121" class="alignleft size-full wp-image-2009" /></br>
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Outputs: none</li>
@@ -268,7 +268,7 @@ Behaviour: Creates an FSKX file with the scripts, metadata and libraries in the 
 <div class="panel-body">
 
 Reads an FSK object from an FSKX file.</br> 
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSKX_Reader_node.png" alt="" width="121" height="122" class="alignleft size-full wp-image-2010" />
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSKX_Reader_node.png" alt="" width="121" height="122" class="alignleft size-full wp-image-2010" /></br>
 <ul>
  	<li>Inputs: None</li>
  	<li>Outputs: FSK object</li>
