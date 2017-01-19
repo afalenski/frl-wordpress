@@ -18,5 +18,5 @@ Unten ist das Webportal für das NewsRadar verlinkt und die Logindaten angegeben
 
 &nbsp;
 <p style="text-align: center;"><a title="NewsRadar Webportal" href="https://knime.bfrlab.de/com.knime.enterprise.server/#/SiLeBAT/" target="_blank">News Radar-Abfrage</a></p>
-<p style="text-align: center;">Username: silebat</p></br><p style="text-align: center;">Passwort: gesamtverbund</p>
+<p style="text-align: center;">Username: silebat</p><p style="text-align: center;">Passwort: gesamtverbund</p>
 <p style="text-align: center;"></p>
