@@ -375,7 +375,7 @@ Behaviour: Edit the scripts in an FSK object: model, parameters and visualizatio
 <div class="panel-body">
 
 Edit the scripts in an FSK object.</br>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Editor_node.png" alt="" width="120" height="122" class="alignnone size-full wp-image-2020" /></br>
+<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Editor_JS_node.png" alt="" width="121" height="122" class="alignnone size-full wp-image-2023" /></br>
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Outputs: FSK object</li>
