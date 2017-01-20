@@ -10,15 +10,7 @@ permalink: >
 published: true
 ---
 In this Section we will go through the steps of installing PMM-Lab.
-There are two options:
-(1)
-We provide a precompiled KNIME-PMM-Lab bundle for Windows users. You can download the complete PMM-Lab package here:
 
-<a href="https://sourceforge.net/projects/pmmlab/files/latest/download" target="_blank"><img class="aligncenter size-full wp-image-157" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/03/Button_Download_PMM-Lab.png" alt="Button_Download_PMM-Lab" width="212" height="59" /></a>
-
-After unzipping the downloaded file you will see a new folder called "knime_...". Inside is an executable file called "knime.exe" which starts KNIME with PMM-Lab.
-
-(2)
 + Visit <a href="http://www.knime.org/downloads/overview/" rel="nofollow">http://www.knime.org/downloads/overview/.</a>
 + Download the KNIME distribution that fits to your Operating System.
 + Locate the downloaded KNIME self-extracting archive file and execute it. You will be asked to specify a location where, on your hard disk, you wish to install KNIME.
