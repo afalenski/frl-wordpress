@@ -14,7 +14,7 @@ published: true
 Weiser AA, Thoens C, Falenski A, Appel B, Filter M, Kaesbohrer A.
 <a href="http://www.sciencedirect.com/science/article/pii/S2211601X16000985" target="_blank"><strong>FoodChain-lab: Tracing Software Supporting Foodborne Disease Outbreak Investigations</strong></a>
 Procedia Food Science. 2016, 7: 101-104.
-doi: http://dx.doi.org/10.1016/j.profoo.2016.02.097
+doi: 10.1016/j.profoo.2016.02.097
 
 Weiser AA, Thöns C, Filter M, Falenski A, Appel B, Käsbohrer A.
 <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151977" target="_blank"><strong>Foodchain-Lab: A Trace-Back and Trace-Forward Tool Developed and Applied During Food-Borne Disease Outbreak Investigations in Germany and Europe</strong></a>
