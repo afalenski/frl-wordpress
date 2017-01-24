@@ -54,6 +54,26 @@ In addition, there is the option to modify the KNIME.ini in the installation fol
 
 <img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/Rserve.png" alt="" width="627" height="248" class="aligncenter size-full wp-image-1982" />
  
+
+<h3>Installing R on MacOS</h3>
+FSK-Lab requires the R packages: Rserve, miniCRAN and Cairo, which may be install with the install.packages() command.
+
+install.packages('Rserve')
+install.packages('miniCRAN')
+install.packages('Cairo')
+
+Besides these three packages, MacOS requires also the XQuartz software which can be obtained at XQuartz http://xquartz.macosforge.org.
+
+The path to the R folder is: /Library/Frameworks/R.framework/Resources/
+
+<h3>Installing R on Linux (Ubuntu)</h3>
+First, Linux requires some development libraries for the R packages which can be installed through apt-get in Ubuntu: sudo apt-get install libcurl4-openssl-dev libssl-dev libxml2-dev. 
+
+FSK-Lab requires the R packages: Rserve and miniCRAN, which may be installed with the install.packages() like in the installation for MacOS.
+
+The path to the R folder is: /usr/lib/R
+
+
  <h3>Example files</h3>
  
  <div>In order to test the FSK-Lab nodes in KNIME, there is a <a href="https://dl.bintray.com/silebat/FSK_example_models/example_models.zip">zip-file provided here</a>. It contains the needed files to create FSKX-model-files by using the FSKX-Creator-node in KNIME. Please, make sure to assign the corresponding files in the configuration dialogue of the Creator-node.
