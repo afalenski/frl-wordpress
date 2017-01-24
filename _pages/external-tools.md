@@ -19,5 +19,11 @@ published: true
 <tr>
 <td><a href="https://www.eclipse.org/stem/"><img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/STEM_Logo-1.gif" alt="" width="300" height="172" class="aligncenter size-full wp-image-1944" /></a></td>
 </tr>
+
+
+<tr>
+<td><a href="https://www.r-project.org/"><img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/Rlogo.png" alt="" width="200" height="155" class="aligncenter size-full wp-image-2044" /></a></td>
+</tr>
+
 </tbody>
 </table>
