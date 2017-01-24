@@ -58,7 +58,7 @@ In addition, there is the option to modify the KNIME.ini in the installation fol
 <h3>Installing R on MacOS</h3>
 
 For R running in MACOS, there is a specific R version for MacOS required which may be <a href="http://mirrors.dotsrc.org/cran/" target="_blank">downloaded from here</a>.
-FSK-Lab requires the R packages: 'Rserve', 'miniCRAN' and 'Cairo', which may be install with the install.packages() command within the R-console:
+FSK-Lab requires the R packages: 'Rserve', 'miniCRAN' and 'Cairo', which may be installed with the install.packages() command within the R-console:
 
 install.packages('Rserve')
 install.packages('miniCRAN')
@@ -66,7 +66,7 @@ install.packages('Cairo')
 
 Besides these three packages, MacOS requires also the XQuartz software which can be obtained at <a href="http://xquartz.macosforge.org">http://xquartz.macosforge.org</a>.
 
-The path to the R folder to be entered in KNIME (as described for WINDOWS) should be:
+The path to the R folder to be entered in KNIME (as described for WINDOWS) should be:</br>
 /Library/Frameworks/R.framework/Resources/
 
 <h3>Installing R on Linux (Ubuntu)</h3>
