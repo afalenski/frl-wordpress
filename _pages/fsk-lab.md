@@ -62,7 +62,7 @@ install.packages('Rserve')
 install.packages('miniCRAN')
 install.packages('Cairo')
 
-Besides these three packages, MacOS requires also the XQuartz software which can be obtained at XQuartz http://xquartz.macosforge.org.
+Besides these three packages, MacOS requires also the XQuartz software which can be obtained at <a href="http://xquartz.macosforge.org">http://xquartz.macosforge.org</a>.
 
 The path to the R folder is: /Library/Frameworks/R.framework/Resources/
 
@@ -72,7 +72,6 @@ First, Linux requires some development libraries for the R packages which can be
 FSK-Lab requires the R packages: Rserve and miniCRAN, which may be installed with the install.packages() like in the installation for MacOS.
 
 The path to the R folder is: /usr/lib/R
-
 
  <h3>Example files</h3>
  
