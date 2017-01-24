@@ -69,18 +69,21 @@ Besides these three packages, MacOS requires also the XQuartz software which can
 The path to the R folder to be entered in KNIME (as described for WINDOWS) should be:</br>
 /Library/Frameworks/R.framework/Resources/
 
-<h3>Installing R on Linux (Ubuntu)</h3>
+<h3>Installing R on Linux (UBUNTU)</h3>
 
-First, Linux requires some development libraries for the R packages which can be installed through the apt-get command in the console under Ubuntu via: </br>
+First, Linux requires some development libraries for the R packages which can be installed through the apt-get command in the console under UBUNTU via: </br>
 sudo apt-get install libcurl4-openssl-dev libssl-dev libxml2-dev
 
 The R-binarys may be also installed via apt-get:</br>
 sudo apt-get install r-base
 
-Furthermore, FSK-Lab requires the R packages: 'Rserve' and 'miniCRAN', which may be installed with the install.packages() command within the R-console:
+In order to install the R packages for FSKlab, please make sure to start R in the UBUNTU console with the sudo command to avoid writing right problems:</br>
+sudo R
 
+The R packages 'Rserve' and 'miniCRAN' are required, which may be installed with the install.packages() command within the R-console: </br>
 install.packages('Rserve')
 install.packages('miniCRAN')
+
 
 
 The path to the R folder to be entered in KNIME (as described for WINDOWS) should be: </br>
