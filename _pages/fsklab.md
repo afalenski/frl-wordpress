@@ -57,7 +57,8 @@ In addition, there is the option to modify the KNIME.ini in the installation fol
 
 <h3>Installing R on MacOS</h3>
 
-FSK-Lab requires the R packages: 'Rserve', 'miniCRAN' and 'Cairo', which may be install with the install.packages() command whithin the R-console:
+For R running in MACOS, there is a specific R version for MacOS required which may be <a href="http://mirrors.dotsrc.org/cran/" target="_blank">downloaded from here</a>.
+FSK-Lab requires the R packages: 'Rserve', 'miniCRAN' and 'Cairo', which may be install with the install.packages() command within the R-console:
 
 install.packages('Rserve')
 install.packages('miniCRAN')
@@ -72,7 +73,10 @@ The path to the R folder to be entered in KNIME (as described for WINDOWS) shoul
 First, Linux requires some development libraries for the R packages which can be installed through the apt-get command in the console under Ubuntu via: </br>
 sudo apt-get install libcurl4-openssl-dev libssl-dev libxml2-dev
 
-Furthermore, FSK-Lab requires the R packages: 'Rserve' and 'miniCRAN', which may be installed with the install.packages() command:
+The R-binarys may be also installed via apt-get:
+sudo apt-get install r-base
+
+Furthermore, FSK-Lab requires the R packages: 'Rserve' and 'miniCRAN', which may be installed with the install.packages() command within the R-console:
 
 install.packages('Rserve')
 install.packages('miniCRAN')
