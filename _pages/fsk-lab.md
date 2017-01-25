@@ -16,7 +16,7 @@ published: true
 FSK-Lab is an open-source extension plugin to the Konstanz Information Miner (<a href="https://knime.org" target="_blank">KNIME</a>). FSK-Lab enables KNIME users to work with FSK models within KNIME.
 <h2>Installation</h2>
 <h3>Installing KNIME</h3>
-A running instance of KNIME is a prerequisite. It can be downloaded <a href="https://www.knime.org/downloads/overview" target="_blank">here.</a> Due to avoid installing issues under WINDOWS the provided zip-version should be used and unzipped then. The KNIME folder itself can be placed and run from anywhere under Windows. KNIME will store all the workflows inside a KNIME-WORKSPACE. Please make sure to choose the right one to access your files. HINT: In order to avoid later issues, never copy the KNIME_WORKSPACE, import it only!
+A running instance of KNIME is a prerequisite. It can be downloaded <a href="https://www.knime.org/downloads/overview" target="_blank">here.</a> Due to avoid installing issues under WINDOWS, the provided zip-version should be used and unzipped then. The KNIME folder itself can be placed and run from anywhere under Windows without admin rights. After starting KNIME, the user will be asked to create the KNIME-WORKSPACE, were all the workflows will be stored. After restarting KNIME, please make sure to select the right one to access your files (it will be preselected). </br>HINT: In order to avoid later issues, never copy the KNIME_WORKSPACE, import it only!</br>
 
 Please following these <a href="https://tech.knime.org/installation-0" target="_blank">instructions</a> to get further instructions how to install knime .
 In addition, there is the option to modify the KNIME.ini in the installation folder of KNIME while the program is not running:</br>
