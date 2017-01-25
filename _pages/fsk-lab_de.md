@@ -6,7 +6,7 @@ post_date: 2017-01-16 18:54:03
 post_excerpt: ""
 layout: page
 permalink: >
-  https://foodrisklabs.bfr.bund.de/index.php/fsklab/
+  https://foodrisklabs.bfr.bund.de/index.php/fsk-lab_de/
 published: true
 ---
 <img class="size-full wp-image-1858 aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FSKlab7-1.png" alt="FSK-Lab Logo" width="150" height="150" />
