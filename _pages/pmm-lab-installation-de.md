@@ -31,7 +31,7 @@ Then, the PMM-Lab plugin needs to be added to the KNIME instance. To achieve tha
 </ul>
 <img src="https://sourceforge.net/p/pmmlab/wiki/Installation/attachment/step_add_local_small.jpg" alt="Add repository window" />
 <ul>
- 	<li>In the text field ‘Location:’ please enter the following link: https://dl.bintray.com/silebat/pmmlab/</li>
+ 	<li>In the text field ‘Location:’ please enter the following URL: https://dl.bintray.com/silebat/pmmlab/</li>
  	<li>Click Button ‘OK’.</li>
  	<li>Make sure all PMM-Lab items are selected in the table below the ‘Work with:’ section.</li>
 </ul>
