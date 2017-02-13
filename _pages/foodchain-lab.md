@@ -15,9 +15,9 @@ Food may contain hazards (e. g. viruses or bacteria) which can be harmful for hu
 
 Supply chain data can be imported to FoodChain-Lab via Excel templates as shown in the <a href="https://foodrisklabs.bfr.bund.de/index.php/data-collection-in-foodchain-lab/">Data Collection Tutorial</a>. To get a first impression of what you can do with FoodChain-Lab please watch the video demonstration below or download our flyer.
 
-<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/videos/foodchain_lab_demo.mp4" target="_blank">Video Demonstration</a>
+<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/media/foodchain_lab_demo.mp4" target="_blank">Video Demonstration</a>
 
-<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/videos/Flyer_FoodChain_Druck_v02.pdf" target="_blank">Flyer</a>
+<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/media/Flyer_FoodChain_Druck_v02.pdf" target="_blank">Flyer</a>
 
 In 2013 and 2014 FoodChain-Lab was used in a multinational hepatitis A virus outbreak in Europe.
 
