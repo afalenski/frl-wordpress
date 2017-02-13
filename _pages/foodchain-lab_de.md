@@ -15,9 +15,9 @@ FoodChain-Lab ist eine Erweiterung für KNIME, die die Rückverfolgung von verd�
 
 Lieferdaten können mit Hilfe von Excel Templates nach FoodChain-Lab importiert werden. Dies wird im <a href="https://foodrisklabs.bfr.bund.de/index.php/erfassen-von-daten-in-foodchain-lab/">Datererfassungs-Tutorial</a> beschrieben. Um einen ersten Eindruck über FoodChain-Lab zu erhalten, können Sie sich das folgende Video ansehen oder unseren Flyer herunterladen:
 
-<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/videos/foodchain_lab_demo.mp4" target="_blank">Video über FoodChain-Lab</a>
+<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/media/foodchain_lab_demo.mp4" target="_blank">Video über FoodChain-Lab</a>
 
-<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/videos/Flyer_FoodChain_Druck_v02.pdf" target="_blank">Flyer</a>
+<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/media/Flyer_FoodChain_Druck_v02.pdf" target="_blank">Flyer</a>
 
 In den Jahren 2013 und 2014 trug FoodChain-Lab während des multinationalen Hepatitis A-Ausbruchs in Europa zur Aufklärung bei.
 
