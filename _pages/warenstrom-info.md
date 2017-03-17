@@ -13,5 +13,6 @@ published: true
 <p style="text-align: left;">Die Warenstrom-Info wurde im Projekt "Zoonosen und Lebensmittelsicherheit entlang globaler Warenketten (ZooGloW)" am <a title="Bundesinstitut für Risikobewertung" href="http://www.bfr.bund.de/de/start.html" target="_blank">Bundesinstitut für Risikobewertung</a> entwickelt.</p>
 &nbsp;
 <p style="text-align: center;"><a title="Zugang zur Warenstrom-Info-Datenbank über einen Server-basierten KNIME-Workflow" href="https://knime.bfrlab.de/com.knime.enterprise.server/#/ZooGloW/Warenstrom-Info&amp;user=zooglow&amp;pw=gesamtverbund&amp;single&amp;run" target="_blank">Zugang zur Warenstrom-Datenbankabfrage</a></p>
-<p style="text-align: center;"> Username: zooglow</p>
+<p style="text-align: center;">Sollte der automatische Login nicht funktionieren:</p>
+<p style="text-align: center;">Username: zooglow</p>
 <p style="text-align: center;">Passwort: gesamtverbund</p>
