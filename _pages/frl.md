@@ -50,7 +50,7 @@ Checkliste zur Einschätzung von möglichen Gefahren in Lebensmittelunternehmen 
 <tr>
 <td style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/index.php/fsk-lab/"><img class="wp-image-1836 size-full aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FSKlab7.png" alt="FSKlab" width="150" height="150" /></a>Food Safety Knowledge Lab (FSK-Lab)</td>
 <td>
-<p style="text-align: center;"><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#/ZooGloW/&amp;user=zooglow&amp;pw=gesamtverbund"><img class="size-full wp-image-1883 aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/csm_Logo_ZooGlow_204e539273.jpg" alt="" width="180" height="148" /></a>Link zu den Services die im Rahmen des ZooGloW-Projektes entstanden sind</p>
+<p style="text-align: center;"><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#/ZooGloW/&amp;user=zooglow&amp;pw=gesamtverbund" target="_blank"><img class="size-full wp-image-1883 aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/csm_Logo_ZooGlow_204e539273.jpg" alt="" width="180" height="148" /></a>Link zu den Services die im Rahmen des ZooGloW-Projektes entstanden sind</p>
 </td>
 <td>
 <p style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/index.php/externe-tools/"><img class="size-full wp-image-1894 aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Logo-externTool3.png" alt="" width="150" height="150" /> </a>Liste externer Tools</p>
