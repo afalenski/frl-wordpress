@@ -14,51 +14,47 @@ published: true
 &nbsp;
 
 FSK-Lab is an open-source extension plugin to the Konstanz Information Miner (<a href="https://knime.org" target="_blank">KNIME</a>). FSK-Lab enables KNIME users to work with FSK models within KNIME.
+
+<strong>Source code:</strong> <a href="https://github.com/SiLeBAT/FSK-Lab">https://github.com/SiLeBAT/FSK-Lab</a>
 <h2>Installation</h2>
 <h3>Installing KNIME</h3>
-A running instance of KNIME is a prerequisite. It can be downloaded <a href="https://www.knime.org/downloads/overview" target="_blank">here.</a> Due to avoid installing issues under WINDOWS, the provided zip-version should be used and unzipped then. The KNIME folder itself can be placed and run from anywhere under Windows without admin rights. After starting KNIME, the user will be asked to create the KNIME-WORKSPACE, were all the workflows will be stored. After restarting KNIME, please make sure to select the right one to access your files (it will be preselected). </br>HINT: In order to avoid later issues, never copy the KNIME_WORKSPACE, import it only!</br>
+A running instance of KNIME is a prerequisite. It can be downloaded <a href="https://www.knime.org/downloads/overview" target="_blank">here.</a> Due to avoid installing issues under WINDOWS, the provided zip-version should be used and unzipped then. The KNIME folder itself can be placed and run from anywhere under Windows without admin rights. After starting KNIME, the user will be asked to create the KNIME-WORKSPACE, were all the workflows will be stored. After restarting KNIME, please make sure to select the right one to access your files (it will be preselected). HINT: In order to avoid later issues, never copy the KNIME_WORKSPACE, import it only!
 
 Please following these <a href="https://tech.knime.org/installation-0" target="_blank">instructions</a> to get further instructions how to install knime .
-In addition, there is the option to modify the KNIME.ini in the installation folder of KNIME while the program is not running:</br>
-1. The amount of RAM available in KNIME might be extended by changing the value in the line '-Xmx1024m'. An example would be '-Xmx4g', if 4GB (=4x1024m) of 8GB RAM should be used.</br>
-2. If the connection to a KNIME-Server through KNIME fails, it might help to increase the response time. Simply add the line '-Dcom.knime.enterprise.client.connect-timeout=10000' to the ini-file. 
-
+In addition, there is the option to modify the KNIME.ini in the installation folder of KNIME while the program is not running:
+1. The amount of RAM available in KNIME might be extended by changing the value in the line '-Xmx1024m'. An example would be '-Xmx4g', if 4GB (=4x1024m) of 8GB RAM should be used.
+2. If the connection to a KNIME-Server through KNIME fails, it might help to increase the response time. Simply add the line '-Dcom.knime.enterprise.client.connect-timeout=10000' to the ini-file.
 <h3>Installing FSK-Lab</h3>
+<div>FSK-Lab needs to be installed as a KNIME feature through the FSK-Lab update site (<a href="https://www.knime.org/downloads/update" target="_blank">more info here</a>):
+1. Add the repository to KNIME via Help &gt; Install New Software &gt; Add. The corresponding URL (https://dl.bintray.com/silebat/fsklab) should be entered in the 'Add Repository' dialogue along with a meaningful name.<img class="aligncenter size-full wp-image-1972" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSKlabinstall0.png" alt="" width="757" height="580" />
 
-<div>FSK-Lab needs to be installed as a KNIME feature through the FSK-Lab update site (<a href="https://www.knime.org/downloads/update" target="_blank">more info here</a>):</br>
-1. Add the repository to KNIME via Help &gt; Install New Software &gt; Add. The corresponding URL (https://dl.bintray.com/silebat/fsklab) should be entered in the 'Add Repository' dialogue along with a meaningful name.
+2. Now this repository can be selected in the installation menu via Help &gt; Install New Software &gt; 'Work with'-pull down menu. Tick 'FSK Lab Feature' and follow the prompts after pressing Next.
 
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSKlabinstall0.png" alt="" width="757" height="580" class="aligncenter size-full wp-image-1972" />
+<img class="aligncenter size-full wp-image-1973" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSKlabinstall1.png" alt="" width="757" height="580" />
 
-2. Now this repository can be selected in the installation menu via Help &gt; Install New Software &gt; 'Work with'-pull down menu. Tick 'FSK Lab Feature' and follow the prompts after pressing Next.</br>
+3. After restarting KNIME, FSK-Lab Feature should appear now in KNIME under Help &gt; Installation Details.
 
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSKlabinstall1.png" alt="" width="757" height="580" class="aligncenter size-full wp-image-1973" />
-
-
-3. After restarting KNIME, FSK-Lab Feature should appear now in KNIME under Help &gt; Installation Details.</div>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSKlabinstall2-1.png" alt="" width="888" height="359" class="aligncenter size-full wp-image-1977" />
-
+</div>
+<img class="aligncenter size-full wp-image-1977" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSKlabinstall2-1.png" alt="" width="888" height="359" />
 <h3>Installing R</h3>
+<div>
 
-<div>FSK-Lab is based on R (<a href="https://www.r-project.org" target="_blank">https://www.r-project.org</a>), which can also be installed as a KNIME feature through the FSK-Lab update site under WINDOWS (<a href="https://www.knime.org/downloads/update" target="_blank">more info here</a>). If you want to integrate your own R version or the one <a href="https://dl.bintray.com/silebat/FSK_example_models/R-3.3.0working.7z">used</a> by us, please continue with step 5 applying your R installation path:</br>
+FSK-Lab is based on R (<a href="https://www.r-project.org" target="_blank">https://www.r-project.org</a>), which can also be installed as a KNIME feature through the FSK-Lab update site under WINDOWS (<a href="https://www.knime.org/downloads/update" target="_blank">more info here</a>). If you want to integrate your own R version or the one <a href="https://dl.bintray.com/silebat/FSK_example_models/R-3.3.0working.7z">used</a> by us, please continue with step 5 applying your R installation path:
 
-1. The R repository should be already available in the installation menu via Help &gt; Install New Software &gt; if All Available Sites is chosen in the 'Work with'-pull down menu.</br>
-2. Fold open KNIME & Extensions and tick KNIME R Statistics Integration (Windows binarys).
+1. The R repository should be already available in the installation menu via Help &gt; Install New Software &gt; if All Available Sites is chosen in the 'Work with'-pull down menu.
+2. Fold open KNIME &amp; Extensions and tick KNIME R Statistics Integration (Windows binarys).
 
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/R_install.png" alt="" width="930" height="579" class="aligncenter size-full wp-image-1988" />
+<img class="aligncenter size-full wp-image-1988" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/R_install.png" alt="" width="930" height="579" />
 
-3. Follow the prompts after pressing Next and after a reboot, the R binary feature should appear in KNIME under Help &gt; Installation Details.</br>
-4. In this last step, KNIME needs to know were the R binarys are installed via File > Preferences. In the menu choose KNIME > BfR R settings and on the right site browse to the local path of the binarys. If installed via the update site they are located in the KNIME installation folder > plugins > org.knime.ext.r3.bin.win32.x86_...R-Inst. Don't use a subfolder of R-Inst! Press Apply and enter the same path in the Menu under KNIME > R and press ok.</br>HINT1: If a seperate R version is used and the KNIME message 'no R.exe file found in the R-folder' appears, even if its there, the reason might be a wrong bit version was installed. The 32bit version should be present in the subfolder 'bin/i386' and the 64bit version in 'bin/x64'.</br>HINT2: The 'BfR R settings' exists only for the use along with FSK-Lab and in parallel to the regular'R'-setting of KNIME. This allows to use different R folders/versions if needed.</br>
+3. Follow the prompts after pressing Next and after a reboot, the R binary feature should appear in KNIME under Help &gt; Installation Details.
+4. In this last step, KNIME needs to know were the R binarys are installed via File &gt; Preferences. In the menu choose KNIME &gt; BfR R settings and on the right site browse to the local path of the binarys. If installed via the update site they are located in the KNIME installation folder &gt; plugins &gt; org.knime.ext.r3.bin.win32.x86_...R-Inst. Don't use a subfolder of R-Inst! Press Apply and enter the same path in the Menu under KNIME &gt; R and press ok.HINT1: If a seperate R version is used and the KNIME message 'no R.exe file found in the R-folder' appears, even if its there, the reason might be a wrong bit version was installed. The 32bit version should be present in the subfolder 'bin/i386' and the 64bit version in 'bin/x64'.HINT2: The 'BfR R settings' exists only for the use along with FSK-Lab and in parallel to the regular'R'-setting of KNIME. This allows to use different R folders/versions if needed.
 
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/R.png" alt="" width="622" height="419" class="aligncenter size-full wp-image-1979" />
+<img class="aligncenter size-full wp-image-1979" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/R.png" alt="" width="622" height="419" />
 
 5. If you received a message that the package Rserve needs to be installed you need to start R.exe directly from its installation folder. In the R console enter "install.packages('Rserve')" and press enter. There should pop up a list of download sites then. Choose one nearby and confirm. After the message that the library was sucessfully downloaded, you can close it via "q()". In the library folder of R should a new folder Rserve appear now.
 
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/Rserve.png" alt="" width="627" height="248" class="aligncenter size-full wp-image-1982" />
- 
-
+<img class="aligncenter size-full wp-image-1982" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/Rserve.png" alt="" width="627" height="248" />
 <h3>Installing R on MacOS</h3>
-
 For R running in MACOS, there is a specific R version for MacOS required which may be <a href="http://mirrors.dotsrc.org/cran/" target="_blank">downloaded from here</a>.
 FSK-Lab requires the R packages: 'Rserve', 'miniCRAN' and 'Cairo', which may be installed with the install.packages() command within the R-console:
 
@@ -68,37 +64,27 @@ install.packages('Cairo')
 
 Besides these three packages, MacOS requires also the XQuartz software which can be obtained at <a href="http://xquartz.macosforge.org">http://xquartz.macosforge.org</a>.
 
-The path to the R folder to be entered in KNIME (as described for WINDOWS) should be:</br>
+The path to the R folder to be entered in KNIME (as described for WINDOWS) should be:
 /Library/Frameworks/R.framework/Resources/
-
 <h3>Installing R on Linux (UBUNTU)</h3>
-
-First, Linux requires some development libraries for the R packages which can be installed through the apt-get command in the console under UBUNTU via: </br>
+First, Linux requires some development libraries for the R packages which can be installed through the apt-get command in the console under UBUNTU via:
 sudo apt-get install libcurl4-openssl-dev libssl-dev libxml2-dev
 
-The R-binarys may be also installed via apt-get:</br>
+The R-binarys may be also installed via apt-get:
 sudo apt-get install r-base
 
-In order to install the R packages for FSKlab, please make sure to start R in the UBUNTU console with the sudo command to avoid writing right problems:</br>
+In order to install the R packages for FSKlab, please make sure to start R in the UBUNTU console with the sudo command to avoid writing right problems:
 sudo R
 
-The R packages 'Rserve' and 'miniCRAN' are required, which may be installed with the install.packages() command within the R-console: </br>
+The R packages 'Rserve' and 'miniCRAN' are required, which may be installed with the install.packages() command within the R-console:
 install.packages('Rserve')
 install.packages('miniCRAN')
 
-
-
-The path to the R folder to be entered in KNIME (as described for WINDOWS) should be: </br>
+The path to the R folder to be entered in KNIME (as described for WINDOWS) should be:
 /usr/lib/R
-
- <h3>Example files</h3>
- 
- <div>In order to test the FSK-Lab nodes in KNIME, there is a <a href="https://dl.bintray.com/silebat/FSK_example_models/example_models.zip">zip-file provided here</a>. It contains the needed files to create FSKX-model-files by using the FSKX-Creator-node in KNIME. Please, make sure to assign the corresponding files in the configuration dialogue of the Creator-node.
- </div>
- 
- 
-  
- <h2>Details on FSK-Lab</h2> 
+<h3>Example files</h3>
+<div>In order to test the FSK-Lab nodes in KNIME, there is a <a href="https://dl.bintray.com/silebat/FSK_example_models/example_models.zip">zip-file provided here</a>. It contains the needed files to create FSKX-model-files by using the FSKX-Creator-node in KNIME. Please, make sure to assign the corresponding files in the configuration dialogue of the Creator-node.</div>
+<h2>Details on FSK-Lab</h2>
 <h3>FSK port object</h3>
 Fsk-Lab provides an additional port object called <code>FskPortObject</code> that expresses in deep detail an FSK model. It is composed of:
 <ul>
@@ -109,7 +95,7 @@ Fsk-Lab provides an additional port object called <code>FskPortObject</code> tha
  	<li>R workspace</li>
  	<li>Model metadata</li>
 </ul>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Creator_node.png" alt="" width="123" height="122" class="alignleft size-full wp-image-2004" />
+<img class="alignleft size-full wp-image-2004" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Creator_node.png" alt="" width="123" height="122" />
 <h3>Model metadata</h3>
 The model metadata involved in the FSK models comprises the following.
 <table class="table table-condensed">
@@ -259,8 +245,8 @@ The model metadata involved in the FSK models comprises the following.
 </div>
 <div class="panel-body">
 
-Creates an FSK object.</br>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Creator_node.png" alt="" width="123" height="122" class="alignnone size-full wp-image-2004" /></br>
+Creates an FSK object.
+<img class="alignnone size-full wp-image-2004" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Creator_node.png" alt="" width="123" height="122" />
 <ul>
  	<li>Inputs: none</li>
  	<li>Outputs: FSK object</li>
@@ -282,8 +268,8 @@ Behaviour: Creates an FSK object with the script and metadata provided by the us
 </div>
 <div class="panel-body">
 
-Writes an FSK object into an FSKX file.</br>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSKX_Writer_node.png" alt="" width="120" height="121" class="alignnone size-full wp-image-2009" /></br>
+Writes an FSK object into an FSKX file.
+<img class="alignnone size-full wp-image-2009" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSKX_Writer_node.png" alt="" width="120" height="121" />
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Outputs: none</li>
@@ -296,15 +282,14 @@ Behaviour: Creates an FSKX file with the scripts, metadata and libraries in the 
 
 </div>
 </div>
-
 <div class="panel panel-primary">
 <div class="panel-heading">
 <h3 class="panel-title">FSKX Reader</h3>
 </div>
 <div class="panel-body">
 
-Reads an FSK object from an FSKX file.</br> 
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSKX_Reader_node.png" alt="" width="121" height="122" class="alignnone size-full wp-image-2010" /></br>
+Reads an FSK object from an FSKX file.
+<img class="alignnone size-full wp-image-2010" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSKX_Reader_node.png" alt="" width="121" height="122" />
 <ul>
  	<li>Inputs: None</li>
  	<li>Outputs: FSK object</li>
@@ -317,16 +302,14 @@ Behaviour: Creates an FSK object with the scripts, metadata and libraries in the
 
 </div>
 </div>
-
-
 <div class="panel panel-primary">
 <div class="panel-heading">
 <h3 class="panel-title">FSK Runner</h3>
 </div>
 <div class="panel-body">
 
-This node runs an FSK model</br>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Runner_node.png" alt="" width="122" height="121" class="alignnone size-full wp-image-2015" /></br>
+This node runs an FSK model
+<img class="alignnone size-full wp-image-2015" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Runner_node.png" alt="" width="122" height="121" />
 <ul>
  	<li>Inputs: FSK object and optional metadata table</li>
  	<li>Outputs: FSK object and generated image</li>
@@ -341,8 +324,8 @@ Behaviour: Runs the input model and updates its workspace with the model results
 </div>
 <div class="panel-body">
 
-Edit the metadata in an FSK object.</br>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Metadata_Editor_node.png" alt="" width="127" height="119" class="alignnone size-full wp-image-2016" /></br>
+Edit the metadata in an FSK object.
+<img class="alignnone size-full wp-image-2016" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Metadata_Editor_node.png" alt="" width="127" height="119" />
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Outputs: FSK object</li>
@@ -357,8 +340,8 @@ Behaviour: Modifies the metadata in an FSK object.
 </div>
 <div class="panel-body">
 
-Extracts the R workspace out of an FSK object. The R workspace may be used with KNIME R nodes.</br>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSK_to-R_node.png" alt="" width="121" height="122" class="alignnone size-full wp-image-2017" /></br>
+Extracts the R workspace out of an FSK object. The R workspace may be used with KNIME R nodes.
+<img class="alignnone size-full wp-image-2017" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSK_to-R_node.png" alt="" width="121" height="122" />
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Output: RPortObject</li>
@@ -367,15 +350,14 @@ Behaviour: Extracts the R workspace out of an FSK object and places it into the 
 
 </div>
 </div>
-
 <div class="panel panel-primary">
 <div class="panel-heading">
 <h3 class="panel-title">FSK to metadata</h3>
 </div>
 <div class="panel-body">
 
-Extracts metadata from an FSK object.</br>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSK_to_Metadata_node.png" alt="" width="121" height="120" class="alignnone size-full wp-image-2018" /></br>
+Extracts metadata from an FSK object.
+<img class="alignnone size-full wp-image-2018" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_FSK_to_Metadata_node.png" alt="" width="121" height="120" />
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Outputs: KNIME table with metadata</li>
@@ -384,16 +366,14 @@ Behaviour: Extracts the metadata in an FSK object into a KNIME table
 
 </div>
 </div>
-
-
 <div class="panel panel-primary">
 <div class="panel-heading">
 <h3 class="panel-title">FSK Editor</h3>
 </div>
 <div class="panel-body">
 
-Edit the scripts in an FSK object.</br>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Editor_node.png" alt="" width="120" height="122" class="alignnone size-full wp-image-2020" /></br>
+Edit the scripts in an FSK object.
+<img class="alignnone size-full wp-image-2020" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Editor_node.png" alt="" width="120" height="122" />
 <ul>
  	<li>Inputs: FSK object (Optional)</li>
  	<li>Outputs: FSK object</li>
@@ -402,21 +382,20 @@ Behaviour: Edit the scripts in an FSK object: model, parameters and visualizatio
 
 </div>
 </div>
-
-
-
 <div class="panel panel-primary">
 <div class="panel-heading">
 <h3 class="panel-title">FSK Editor JS</h3>
 </div>
 <div class="panel-body">
 
-Edit the scripts in an FSK object.</br>
-<img src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Editor_JS_node.png" alt="" width="121" height="122" class="alignnone size-full wp-image-2023" /></br>
+Edit the scripts in an FSK object.
+<img class="alignnone size-full wp-image-2023" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK_Editor_JS_node.png" alt="" width="121" height="122" />
 <ul>
  	<li>Inputs: FSK object</li>
  	<li>Outputs: FSK object</li>
 </ul>
 Behaviour: Edit the scripts in an FSK object: model, parameters and visualization scripts. JavaScript based, its user interface may be also used in a browser in the KNIME web server.
+
+</div>
 </div>
 </div>
