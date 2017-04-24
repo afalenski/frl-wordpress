@@ -9,8 +9,11 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/index.php/veranstaltungen/
 published: true
 ---
-Im Folgenden sind die deutschsprachigen Veranstaltungen aufgeführt, bei denen Tools des <a href="http://www.bfr.bund.de/de/start.html" target="_blank">Bundesinstitut für Risikobewertung</a> präsentiert wurden (Vorträge, Workshops). Weitere Veranstaltungen finden Sie auf der <a href="https://foodrisklabs.bfr.bund.de/index.php/events/">englischsprachigen Website</a>.
+Im Folgenden sind die deutschsprachigen Veranstaltungen aufgeführt, bei denen Tools des <a href="http://www.bfr.bund.de/de/start.html" target="_blank" rel="noopener noreferrer">Bundesinstitut für Risikobewertung</a> präsentiert wurden (Vorträge, Workshops). Weitere Veranstaltungen finden Sie auf der <a href="https://foodrisklabs.bfr.bund.de/index.php/events/">englischsprachigen Website</a>.
+<h4>BfR-Training STEM-Workshop</h4>
+(6.02.2017-07.02.2017 in Berlin, Deutschland)
 
+<a href="https://foodrisklabs.bfr.bund.de/index.php/events/bfr-training-stem-workshop/" target="_blank" rel="noopener noreferrer">Programme</a>
 <h4>Einführung in die Software FoodChainLab -
 Ein innovatives Werkzeug für mehr Lebensmittelsicherheit durch Warenkettenanalysen</h4>
 (12.05.2015 - 13.05.2015 in Bern, Schweiz)
@@ -23,7 +26,7 @@ FoodChain-Lab ist eine frei verfügbare, leicht zu handhabende Open-Source Softw
 
 Im Workshop werden konkrete Anwendungen demonstriert und der Umgang mit der Software praktisch geübt. Dafür ist es notwendig, ein eigenes internetfähiges Notebook mitzubringen.
 
-<a href="http://www.bfr.bund.de/cm/343/food-chain-lab.pdf" target="_blank">Programm</a>
+<a href="http://www.bfr.bund.de/cm/343/food-chain-lab.pdf" target="_blank" rel="noopener noreferrer">Programm</a>
 <h4>Fortbildungsveranstaltung für den Öffentlichen Gesundheitsdienst 2015</h4>
 (25.03.2015 - 27.03.2015 in Berlin)
 
@@ -35,4 +38,4 @@ Mittwoch, 25.03.2015, 16.15–16.45 Uhr
 <a href="http://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/11/weiser_tracing_150325_internet.pdf"><strong>Tracing the Bug – Vorwärts- und Rückverfolgung von Lebensmitteln</strong></a>
 Dr. Armin Weiser (BfR)
 
-<a href="http://www.bfr.bund.de/cm/343/oegd-2015-programm.pdf" target="_blank">Programm</a>
+<a href="http://www.bfr.bund.de/cm/343/oegd-2015-programm.pdf" target="_blank" rel="noopener noreferrer">Programm</a>
