@@ -9,7 +9,7 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/index.php/events/bfr-training-stem-workshop/
 published: true
 ---
-<h3 style="text-align: left;">Menu</h3>
+<h3 style="text-align: left;">Navigation</h3>
 <ul>
  	<li style="text-align: left;"><a href="#Links">Links</a></li>
  	<li style="text-align: left;"><a href="#Installation">Installation</a></li>
