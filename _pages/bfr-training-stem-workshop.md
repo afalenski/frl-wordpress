@@ -9,8 +9,21 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/index.php/events/bfr-training-stem-workshop/
 published: true
 ---
-<h1 style="text-align: center;">BfR-Training STEM-Workshop
-Program Mo, February 06th, 2017</h1>
+<h3 style="text-align: left;">Menu</h3>
+<ul>
+ 	<li style="text-align: left;"><a href="#Links">Links</a></li>
+ 	<li style="text-align: left;"><a href="#Installation">Installation</a></li>
+ 	<li style="text-align: left;"><a href="#Presentation">Presentation</a></li>
+ 	<li style="text-align: left;"><a href="#Import_a_STEM_Scenario">Import a STEM Scenario</a></li>
+ 	<li style="text-align: left;"><a href="#Build_a_STEM_Scenario">Build a STEM Scenario</a></li>
+ 	<li style="text-align: left;"><a href="#Customizing_Graphs">Customizing Graphs</a></li>
+ 	<li style="text-align: left;"><a href="#Running_Simulations">Running Simulations</a></li>
+ 	<li style="text-align: left;"><a href="#Implementing_Interventions">Implementing Interventions</a></li>
+ 	<li style="text-align: left;"><a href="#Stem_Model_Generator">Stem Model Generator</a></li>
+</ul>
+<h3 style="text-align: left;">Program Mo, February 06th, 2017</h3>
+&nbsp;
+
 10:00 – 10:15 a.m. Welcome
 10:15 – 11:00 a.m. Introduction to BfR and the BfR FoodRisk-Labs toolbox Matthias Filter
 11:00 – 12:00 p.m. Introduction to Epidemiological modelling Taras Günther Introduction, basic concepts and live demo of STEM-based modelling Matthias Filter
@@ -67,7 +80,7 @@ Taras Günther &amp; BfR team
 <td></td>
 </tr>
 <tr>
-<td><a href="https://www.eclipse.org/stem/downloads.php " target="_blank ">Download-Site</a></td>
+<td><a href="https://www.eclipse.org/stem/downloads.php " target="_blank ">STEM-Download-Site</a></td>
 <td></td>
 </tr>
 <tr>
