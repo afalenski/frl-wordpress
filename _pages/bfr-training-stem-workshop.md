@@ -101,7 +101,7 @@ You can also download STEM on the official <a href="https://www.eclipse.org/stem
 </div>
 <div id="Presentation">
 <h3>Presentation</h3>
-<a href="https://docs.google.com/presentation/d/1j-VIANLi2XjNt5KEN35F8i8FzvEB7swHMFHG1YWq1yA/edit?usp=sharing" target="_blank ">View the introduction into epidemiological modelling</a>
+<a href="https://docs.google.com/presentation/d/1j-VIANLi2XjNt5KEN35F8i8FzvEB7swHMFHG1YWq1yA/edit?usp=sharing" target="_blank ">Take a look at the presenation to the epidemiological modeling introduction</a>
 
 </div>
 <div id="Update">
