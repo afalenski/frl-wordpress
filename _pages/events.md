@@ -9,8 +9,12 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/index.php/events/
 published: true
 ---
-<p style="text-align: left;">Below, events on which tools from the <a href="http://www.bfr.bund.de/en/home.html" target="_blank">Federal Institute for Risk Assessment</a> were presented are shown. For additional events (with German as presenting language) please have a look at the <a href="https://foodrisklabs.bfr.bund.de/index.php/veranstaltungen/">German webpage</a>.</p>
+<p style="text-align: left;">Below, events on which tools from the <a href="http://www.bfr.bund.de/en/home.html" target="_blank" rel="noopener noreferrer">Federal Institute for Risk Assessment</a> were presented are shown. For additional events (with German as presenting language) please have a look at the <a href="https://foodrisklabs.bfr.bund.de/index.php/veranstaltungen/">German webpage</a>.</p>
 
+<h4>BfR-Training STEM-Workshop</h4>
+(6.02.2017-07.02.2017 in Berlin, Germany)
+
+<a href="https://foodrisklabs.bfr.bund.de/index.php/events/bfr-training-stem-workshop/" target="_blank" rel="noopener noreferrer">Programme</a>
 <h4>Baltic Countries 2016 Workshop on Crisis preparedness</h4>
 (15.03.2016 - 17.03.2016 in Riga, Latvia)
 <a href="https://foodrisklabs.bfr.bund.de/index.php/baltic-countries-2016-workshop/">Programme</a>
@@ -30,6 +34,6 @@ In this workshop we will demonstrate specific applications of the software and p
 
 The target audience of this workshop is employees of risk management and assessment authorities from the European member states with IT-application experience. Ideally, the participant will be a contact point in future international tracing investigations and for their respective countries.
 
-<a href="http://www.bfr.bund.de/cm/349/bfr-academy-training-food-chain-lab.pdf" target="_blank">Programme</a>
+<a href="http://www.bfr.bund.de/cm/349/bfr-academy-training-food-chain-lab.pdf" target="_blank" rel="noopener noreferrer">Programme</a>
 
 <a href="https://foodrisklabs.bfr.bund.de/index.php/international-foodchain-lab-workshop-1213-11-2015/">Documents</a>
