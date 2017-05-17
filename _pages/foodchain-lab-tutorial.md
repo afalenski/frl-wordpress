@@ -35,7 +35,7 @@ published: true
 
 <a title="Geocoding in FoodChain-Lab" href="http://foodrisklabs.bfr.bund.de/index.php/geocoding-in-foodchain-lab/">Geocoding</a>
 
-<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/videos/foodchain_lab_demo.mp4">Video Demonstration</a>
+<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/media/foodchain_lab_demo.mp4">Video Demonstration</a>
 
 <h4>Example Data/Workflows</h4>
 
