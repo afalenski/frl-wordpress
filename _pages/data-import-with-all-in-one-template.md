@@ -1,7 +1,7 @@
 ---
 ID: 2102
 post_title: >
-  Data Import to FoodChain-Lab with
+  Data Import into FoodChain-Lab with
   All-in-one template
 author: cthoens
 post_date: 2017-05-24 16:16:46
