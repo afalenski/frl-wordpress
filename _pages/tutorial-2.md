@@ -18,6 +18,8 @@ published: true
 
 <a href="https://foodrisklabs.bfr.bund.de/index.php/daten-import-in-foodchain-lab-mit-all-in-one-template/">Datenerfassung mit All-in-one Template</a>
 
+<a href="https://foodrisklabs.bfr.bund.de/index.php/daten-import-aus-externen-quellen-nach-foodchain-lab/">Daten-Import aus externen Quellen</a>
+
 <a title="Import von Workflows in FoodChain-Lab" href="http://foodrisklabs.bfr.bund.de/index.php/import-von-workflows-in-foodchain-lab/">Wie importiere ich einen Workflow?</a>
 
 <a title="Erstellen eines Workflow in FoodChain-Lab Teil 1" href="http://foodrisklabs.bfr.bund.de/index.php/erstellen-eines-workflow-in-foodchain-lab-teil-1/">Wie erstelle ich einen Workflow (Teil 1)?</a>
