@@ -1,6 +1,8 @@
 ---
 ID: 2128
-post_title: SA1
+post_title: >
+  Map and Analyse Global Food and Feed
+  Supply Chains
 author: FRL_Admin
 post_date: 2017-06-01 14:06:45
 post_excerpt: ""
@@ -8,8 +10,6 @@ layout: page
 permalink: https://foodrisklabs.bfr.bund.de/sa1/
 published: true
 ---
-Map and Analyse Global Food and Feed Supply Chains
-
 1. Abstract
 In case of foodborne disease outbreaks, rapid identification of the causative food product is essential, since the medical and economic damages grow with the duration of the outbreak. Recent foodborne disease outbreaks in Europe illustrated that there is a need for a software system capable of supporting investigations on supply chains as well as exposure assessments in crisis situations. To address these needs and based on the experience from these real outbreaks FoodChain-Lab (FCL) has been developed (https://foodrisklabs.bfr.bund.de). It is additionally capable of comprehensive data integration and management assuring highest possible data quality and integrity at any point in time.
 The research project aims to disseminate the software FoodChain-Lab in Europe, to support on outbreak investigations and to develop more features of the software, especially on the domain of risk assessment.
