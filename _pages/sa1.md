@@ -52,8 +52,14 @@ You are warmly invited to contact us with all your questions and also to provide
 We want to know your opinion or questions!
 Please don’t hesitate to contact us:
 
+<tr>
+<td>
 Dr. Armin Weiser
 Federal Institute for Risk Assessment (BfR)
 Unit Epidemiology, Zoonoses and Antibiotic Resistance
 Department Biological Safety
 <a href="mailto:Armin.Weiser@bfr.bund.de">Armin.Weiser@bfr.bund.de</a>
+</td>
+<td>
+</td>
+</tr>
