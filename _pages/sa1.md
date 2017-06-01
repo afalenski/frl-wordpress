@@ -52,19 +52,19 @@ You are warmly invited to contact us with all your questions and also to provide
 We want to know your opinion or questions!
 Please don’t hesitate to contact us:
 
+<table style="height: 1114px;" width="586">
+<tbody>
 <tr>
-<td>
-Dr. Armin Weiser
+<td>Dr. Armin Weiser
 Federal Institute for Risk Assessment (BfR)
 Unit Epidemiology, Zoonoses and Antibiotic Resistance
 Department Biological Safety
-<a href="mailto:Armin.Weiser@bfr.bund.de">Armin.Weiser@bfr.bund.de</a>
-</td>
-<td>
-Olaf Mosbach-Schulz
+<a href="mailto:Armin.Weiser@bfr.bund.de">Armin.Weiser@bfr.bund.de</a></td>
+<td>Olaf Mosbach-Schulz
 European Food Safety Authority (EFSA)
 Assessment and Methodological 
 Support Unit (AMU)
-Olaf.MOSBACH-SCHULZ@efsa.europa.eu
-</td>
+<a href="mailto:Olaf.MOSBACH-SCHULZ@efsa.europa.eu">Olaf.MOSBACH-SCHULZ@efsa.europa.eu</a></td></td>
 </tr>
+</tbody>
+</table>
