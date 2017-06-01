@@ -35,7 +35,7 @@ Do you face sometimes a huge and confusing amount of tracing data within an outb
 </ul>
 <img class="aligncenter wp-image-2150 size-full" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/06/EFSA-Kooperation-Grafik-Flyer.png" alt="" width="960" height="720" />
 <h3>4. The work plan</h3>
-Figure 2 shows a general overview of the different tasks that will be carried out during the project. These tasks fall into the following areas:
+The figure above shows a general overview of the different tasks that will be carried out during the project. These tasks fall into the following areas:
 Execution of workshops for tracing based on FoodChain-Lab
 The FoodChain-Lab team offers to train Member States in the handling of the software FCL. There will be basic training courses that will be announced regularly by the FoodChain-Lab team.
 And there will be specific training courses by request of a MS. These courses will offer the opportunity to address general, but also MS specific questions and needs.
