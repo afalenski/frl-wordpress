@@ -10,13 +10,12 @@ layout: page
 permalink: https://foodrisklabs.bfr.bund.de/sa1/
 published: true
 ---
-1. Abstract
+<h3>1. Abstract</h3>
 In case of foodborne disease outbreaks, rapid identification of the causative food product is essential, since the medical and economic damages grow with the duration of the outbreak. Recent foodborne disease outbreaks in Europe illustrated that there is a need for a software system capable of supporting investigations on supply chains as well as exposure assessments in crisis situations. To address these needs and based on the experience from these real outbreaks FoodChain-Lab (FCL) has been developed (https://foodrisklabs.bfr.bund.de). It is additionally capable of comprehensive data integration and management assuring highest possible data quality and integrity at any point in time.
 The research project aims to disseminate the software FoodChain-Lab in Europe, to support on outbreak investigations and to develop more features of the software, especially on the domain of risk assessment.
 
 <img class="aligncenter wp-image-2149 size-large" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/06/FCL_Mac-Grafik_klein-1024x544.png" alt="" width="660" height="351" />
-
-2. Why our initiative is of interest to you?
+<h3>2. Why our initiative is of interest to you?</h3>
 Do you face sometimes a huge and confusing amount of tracing data within an outbreak investigation? Is that a reason for you to decide not to trace back? Do you wonder whether visualisation and analysis of such data could be accomplished faster and easier?
 <ul>
  	<li style="list-style-type: none;">
@@ -27,7 +26,7 @@ Do you face sometimes a huge and confusing amount of tracing data within an outb
 </ul>
 </li>
 </ul>
-3. What can you expect from the project?
+<h3>3. What can you expect from the project?</h3>
 <ul>
  	<li>You can participate in workshops about the use of FoodChain-Lab and general tracing aspects. Additionally you can apply for special workshops for and in your country.</li>
  	<li>You will have the opportunity to be part of a network of tracing experts from the MS for experience exchange.</li>
@@ -35,8 +34,7 @@ Do you face sometimes a huge and confusing amount of tracing data within an outb
  	<li>You can ask for technical support on data collection, handling, analysis and interpretation using FoodChain-Lab during outbreak investigations.</li>
 </ul>
 <img class="aligncenter wp-image-2150 size-full" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/06/EFSA-Kooperation-Grafik-Flyer.png" alt="" width="960" height="720" />
-
-4. The work plan
+<h3>4. The work plan</h3>
 Figure 2 shows a general overview of the different tasks that will be carried out during the project. These tasks fall into the following areas:
 Execution of workshops for tracing based on FoodChain-Lab
 The FoodChain-Lab team offers to train Member States in the handling of the software FCL. There will be basic training courses that will be announced regularly by the FoodChain-Lab team.
@@ -48,11 +46,9 @@ Identified new feature requests will subsequently be implemented into FoodChain-
 FoodChain-Lab is easy to use, but it is necessary to install this software as well as the software framework KNIME. To be able to profit from FCL analyses and visualizations faster and on any computer without installation issues, a browser-ready version of FCL will be created. The confidentiality of data will always be guaranteed.
 Define appropriate data exchange formats to connect with traceability systems of food chain partners, MS and EC databases.
 Many different data formats for the description of supply chains (e.g. flow of food ingredients and food products) exist on the market. To be able to easily import these data into FoodChain-Lab it is necessary to support many exchange formats. It is planned to identify together with interested MS predefined data formats and to implement the automatic import of them into FoodChain-Lab.
-
-5. The invitation
+<h3>5. The invitation</h3>
 You are warmly invited to contact us with all your questions and also to provide us with contact details of interested experts within your organisations, so that we can establish the necessary communication channels. We plan to create a network of tracing experts which will regularly exchange experiences and push forward the feasibility of tracing investigations. Besides that we will provide your experts with workshops and any kind of support around the world of FoodChain-Lab. We would also be very happy to consider your way of collecting tracing data for integration into or linkage with the software.
-
-6. We want you to be involved
+<h3>6. We want you to be involved</h3>
 We want to know your opinion or questions!
 Please don’t hesitate to contact us:
 
