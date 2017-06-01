@@ -9,7 +9,7 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/safetytools-efsa/
 published: true
 ---
-<h2 style="text-align: center;">Framework Partnership Agreement</h2>
+<h6 style="text-align: center;">Framework Partnership Agreement</h6>
 SA1
 
 SA2
