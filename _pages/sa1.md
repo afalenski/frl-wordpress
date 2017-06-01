@@ -61,5 +61,10 @@ Department Biological Safety
 <a href="mailto:Armin.Weiser@bfr.bund.de">Armin.Weiser@bfr.bund.de</a>
 </td>
 <td>
+Olaf Mosbach-Schulz
+European Food Safety Authority (EFSA)
+Assessment and Methodological 
+Support Unit (AMU)
+Olaf.MOSBACH-SCHULZ@efsa.europa.eu
 </td>
 </tr>
