@@ -1,6 +1,6 @@
 ---
 ID: 2120
-post_title: '<style="text-align: center;">BfR &#038; EFSA Safety Tools'
+post_title: 'BfR &#038; EFSA Safety Tools'
 author: FRL_Admin
 post_date: 2017-06-01 13:39:36
 post_excerpt: ""
@@ -27,6 +27,7 @@ These working areas were identified during several preparatory meetings as conco
  	<li>will benefit from coordination and collaboration of their tasks.</li>
 </ul>
 It is intended to use the full range of processes for collaboration, including grants, events, training, and exchange of staff.
+
 In addition it is envisaged to disseminate and communicate the project results in a comprehensive and consistent way with third parties, such as international organisations, industry, national or international funding programs, and scientific networks. For this a specific work package (Area 0) on reporting and communication will be defined.
 <table style="height: 45px;" width="658">
 <tbody>
