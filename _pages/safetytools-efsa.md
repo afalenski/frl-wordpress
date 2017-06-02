@@ -1,6 +1,6 @@
 ---
 ID: 2120
-post_title: 'BfR &#038; EFSA Safety Tools'
+post_title: '<style="text-align: center;">BfR &#038; EFSA Safety Tools'
 author: FRL_Admin
 post_date: 2017-06-01 13:39:36
 post_excerpt: ""
