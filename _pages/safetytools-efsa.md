@@ -18,17 +18,21 @@ Area 2: Establishment of a European food and feed safety model repository
 Area 3: Implementing uncertainty analysis in food and feed safety assessment
 Area 4: Strengthen regional networks for crisis preparedness and communication in times of crisis
 These working areas were identified during several preparatory meetings as concordant areas of expertise and priorities in both institutes in the sense that both institutes</li>
- 	<ol>
+ 	<ul>
  	<li>have sound experience and expertise in these areas;</li>
  	<li>can underpin the collaboration with former or ongoing projects or mandates;</li>
- 	<li>will benefit from coordination and collaboration of their tasks.</li></ol>
- 	<li>It is intended to use the full range of processes for collaboration, including grants, events, training, and exchange of staff.
+ 	<li>will benefit from coordination and collaboration of their tasks.</li></ul>
+It is intended to use the full range of processes for collaboration, including grants, events, training, and exchange of staff.
 In addition it is envisaged to disseminate and communicate the project results in a comprehensive and consistent way with third parties, such as international organisations, industry, national or international funding programs, and scientific networks. For this a specific work package (Area 0) on reporting and communication will be defined.</li>
 
-<a href="https://foodrisklabs.bfr.bund.de/safetytools-efsa-sa1/">SA1</a>
-
-<a href="https://foodrisklabs.bfr.bund.de/sa2/">SA2</a>
-
-<a href="https://foodrisklabs.bfr.bund.de/sa3/">SA3</a>
-
-<a href="https://foodrisklabs.bfr.bund.de/sa4/">SA4</a>
+<table style="height: 216px;" width="653">
+<tbody>
+<tr>
+<td><a href="https://foodrisklabs.bfr.bund.de/safetytools-efsa-sa1/">SA1</a></td>
+<td>
+<a href="https://foodrisklabs.bfr.bund.de/sa2/">SA2</a></td>
+<td><a href="https://foodrisklabs.bfr.bund.de/sa3/">SA3</a></td>
+<td><a href="https://foodrisklabs.bfr.bund.de/sa4/">SA4</a></td>
+</tr>
+</tbody>
+</table>
