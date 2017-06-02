@@ -1,8 +1,6 @@
 ---
 ID: 2128
-post_title: >
-  Map and Analyse Global Food and Feed
-  Supply Chains
+post_title: 'SA1: Map and Analyse Global Food and Feed Supply Chains'
 author: FRL_Admin
 post_date: 2017-06-01 14:06:45
 post_excerpt: ""
