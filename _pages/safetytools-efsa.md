@@ -18,9 +18,9 @@ Area 2: Establishment of a European food and feed safety model repository
 Area 3: Implementing uncertainty analysis in food and feed safety assessment
 Area 4: Strengthen regional networks for crisis preparedness and communication in times of crisis
 These working areas were identified during several preparatory meetings as concordant areas of expertise and priorities in both institutes in the sense that both institutes
-<ul>have sound experience and expertise in these areas;</ul>
-<ul>can underpin the collaboration with former or ongoing projects or mandates;</ul>
-<ul>will benefit from coordination and collaboration of their tasks.</ul>
+have sound experience and expertise in these areas;
+can underpin the collaboration with former or ongoing projects or mandates;
+will benefit from coordination and collaboration of their tasks.
 It is intended to use the full range of processes for collaboration, including grants, events, training, and exchange of staff.
 In addition it is envisaged to disseminate and communicate the project results in a comprehensive and consistent way with third parties, such as international organisations, industry, national or international funding programs, and scientific networks. For this a specific work package (Area 0) on reporting and communication will be defined.
 
