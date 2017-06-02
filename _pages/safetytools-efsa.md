@@ -10,10 +10,10 @@ permalink: >
 published: true
 ---
 <h6 style="text-align: center;">Framework Partnership Agreement</h6>
-SA1
+<a href="https://foodrisklabs.bfr.bund.de/safetytools-efsa-sa1/">SA1</a>
 
-SA2
+<a href="https://foodrisklabs.bfr.bund.de/sa2/">SA2</a>
 
-SA3
+<a href="https://foodrisklabs.bfr.bund.de/sa3/">SA3</a>
 
-SA4
+<a href="https://foodrisklabs.bfr.bund.de/sa4/">SA4</a>
