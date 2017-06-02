@@ -5,7 +5,8 @@ author: FRL_Admin
 post_date: 2017-06-01 14:06:45
 post_excerpt: ""
 layout: page
-permalink: https://foodrisklabs.bfr.bund.de/sa1/
+permalink: >
+  https://foodrisklabs.bfr.bund.de/safetytools-efsa-sa1/
 published: true
 ---
 <h3>1. Abstract</h3>
