@@ -53,7 +53,7 @@ Please don’t hesitate to contact us:
 <table style="height: 216px;" width="653">
 <tbody>
 <tr>
-<td><strong>Dr. Armin Weiser</strong>
+<td><strong>Armin Weiser</strong>
 Federal Institute for Risk Assessment
 (BfR)
 Unit Epidemiology, Zoonoses and Antibiotic Resistance
