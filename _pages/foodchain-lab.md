@@ -6,7 +6,7 @@ post_date: 2015-02-09 12:23:39
 post_excerpt: ""
 layout: page
 permalink: >
-  https://foodrisklabs.bfr.bund.de/index.php/foodchain-lab/
+  https://foodrisklabs.bfr.bund.de/foodchain-lab/
 published: true
 ---
 <img class="aligncenter size-full wp-image-1269" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FoodChain-Lab-Logo1.png" alt="FoodChain-Lab Logo" width="300" height="300" />
@@ -15,18 +15,18 @@ Food may contain hazards (e. g. viruses or bacteria) which can be harmful for hu
 
 Supply chain data can be imported to FoodChain-Lab via Excel templates as shown in the <a href="https://foodrisklabs.bfr.bund.de/index.php/data-collection-in-foodchain-lab/">Data Collection Tutorial</a>. To get a first impression of what you can do with FoodChain-Lab please watch the video demonstration below or download our flyer.
 
-<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/media/foodchain_lab_demo.mp4" target="_blank">Video Demonstration</a>
+<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/media/foodchain_lab_demo.mp4" target="_blank" rel="noopener noreferrer">Video Demonstration</a>
 
-<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/media/Flyer_FoodChain_Druck_v02.pdf" target="_blank">Flyer</a>
+<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/media/Flyer_FoodChain_Druck_v02.pdf" target="_blank" rel="noopener noreferrer">Flyer</a>
 
 In 2013 and 2014 FoodChain-Lab was used in a multinational hepatitis A virus outbreak in Europe.
 
-<a href="http://www.efsa.europa.eu/en/efsajournal/doc/3821.pdf" target="_blank">EFSA report of hepatitis A outbreak</a>
+<a href="http://www.efsa.europa.eu/en/efsajournal/doc/3821.pdf" target="_blank" rel="noopener noreferrer">EFSA report of hepatitis A outbreak</a>
 
-<a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2016/04/20160315_Riga_FoodChainLab.pdf" target="_blank">Recent Presentation of FoodChain-Lab</a>
+<a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2016/04/20160315_Riga_FoodChainLab.pdf" target="_blank" rel="noopener noreferrer">Presentation on FoodChain-Lab</a>
 
-<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151977" target="_blank">Recent Publication of FoodChain-Lab</a>
+<a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151977" target="_blank" rel="noopener noreferrer">Publication on FoodChain-Lab</a>
 
-<a href="https://github.com/SiLeBAT/BfROpenLab" target="_blank">FoodChain-Lab@GitHub (Sources, Ticket System, ...)</a>
+<a href="https://github.com/SiLeBAT/BfROpenLab" target="_blank" rel="noopener noreferrer">FoodChain-Lab@GitHub (Sources, Ticket System, ...)</a>
 <h4><a id="license" class="anchor" href="http://silebat.github.io/BfROpenLab/#license"></a>License</h4>
 BfROpenLab is released under the GNU General Public License v3.0.
