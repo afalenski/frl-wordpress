@@ -6,7 +6,7 @@ post_date: 2015-02-27 16:59:34
 post_excerpt: ""
 layout: page
 permalink: >
-  https://foodrisklabs.bfr.bund.de/index.php/foodchain-lab_de/
+  https://foodrisklabs.bfr.bund.de/foodchain-lab_de/
 published: true
 ---
 <img class="aligncenter size-full wp-image-1254" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FoodChain-Lab-Logo.png" alt="FoodChain-Lab Logo" width="300" height="300" />
@@ -28,5 +28,8 @@ In den Jahren 2013 und 2014 trug FoodChain-Lab während des multinationalen Hepa
 <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151977" target="_blank">Publikation von FoodChain-Lab</a>
 
 <a href="https://github.com/SiLeBAT/BfROpenLab" target="_blank">FoodChain-Lab auf GitHub (Source Code, Ticket System, ...)</a>
+
+<a href="https://silebat.github.io/fcl-web-app" target="_blank" rel="noopener noreferrer">FoodChain-Lab Web App</a>
+
 <h4>Lizenz</h4>
 BfROpenLab wurde unter der GNU General Public License v3.0 veröffentlicht.
