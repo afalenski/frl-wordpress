@@ -28,5 +28,8 @@ In 2013 and 2014 FoodChain-Lab was used in a multinational hepatitis A virus out
 <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151977" target="_blank" rel="noopener noreferrer">Publication on FoodChain-Lab</a>
 
 <a href="https://github.com/SiLeBAT/BfROpenLab" target="_blank" rel="noopener noreferrer">FoodChain-Lab@GitHub (Sources, Ticket System, ...)</a>
+
+<a href="https://silebat.github.io/fcl-web-app" target="_blank" rel="noopener noreferrer">FoodChain Web App</a>
+
 <h4><a id="license" class="anchor" href="http://silebat.github.io/BfROpenLab/#license"></a>License</h4>
 BfROpenLab is released under the GNU General Public License v3.0.
