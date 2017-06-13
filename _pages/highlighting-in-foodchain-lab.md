@@ -6,18 +6,18 @@ post_date: 2015-03-18 10:17:05
 post_excerpt: ""
 layout: page
 permalink: >
-  https://foodrisklabs.bfr.bund.de/index.php/highlighting-in-foodchain-lab/
+  https://foodrisklabs.bfr.bund.de/highlighting-in-foodchain-lab/
 published: true
 ---
 <h4>Tasks</h4>
 <ul>
-<li>Open the following workflow: <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/workflows/Small_Example.zip" target="_blank">https://github.com/SiLeBAT/BfROpenLab...</a>.</li>
+<li>Open the following workflow: <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/workflows/Small_Example.zip" target="_blank">https://github.com/SiLeBAT/BfROpenLa...</a>.</li>
 <li>Change the color of <b>Outbreak</b> stations in the <b>Tracing View</b> from red to turquoise.</li>
 <li>Add the label "node" to each station.</li>
 </ul>
 <h5>1</h5>
 <ul>
-<li>Import the Small Example Workflow from <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/workflows/Small_Example.zip" target="_blank">https://github.com/SiLeBAT/BfROpenLab...</a>.</li>
+<li>Import the Small Example Workflow from <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/workflows/Small_Example.zip" target="_blank">https://github.com/SiLeBAT/BfROpenLa...</a>.</li>
 <li>Open the <b>Tracing View</b> by double-clicking on it.</li>
 </ul>
 <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/documents/foodchainlab_highlighting/1.png"><img class="aligncenter size-full" src="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/documents/foodchainlab_highlighting/1.png"/></a>
@@ -92,7 +92,7 @@ published: true
 <h5>14</h5>
 <ul>
 <li>Set the <b>Name</b> to "Labeling" (just for documentation).</li>
-<li>Uncheck <b>Use Color</b>, since we just want to create labels with coloring.</li>
+<li>Uncheck <b>Use Color</b>, since we just want to create labels without coloring.</li>
 <li>Set the <b>Label</b> to "node", since that is the column with station names.</li>
 <li>Press <b>OK</b> to create the highlight condition.</li>
 </ul>
@@ -111,6 +111,6 @@ published: true
 <h5>17</h5>
 <ul>
 <li>FoodChain-Lab also allows to color or label deliveries the same way.</li>
-<li>To open the dialog for editing delivery highlight conditions right click in the graph and select <b>Delivery Highlighting > Edit</b>.</li>
+<li>To open the dialog for editing delivery highlight conditions right click in the graph, select <b>Delivery Highlighting > Edit</b> and proceed in the same way as you have just done with the stations.</li>
 </ul>
 <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/documents/foodchainlab_highlighting/17.png"><img class="aligncenter size-full" src="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/documents/foodchainlab_highlighting/17.png"/></a>
