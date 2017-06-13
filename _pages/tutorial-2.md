@@ -9,7 +9,7 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/tutorial-2/
 published: true
 ---
-<h4>Tutorials (<a href="http://foodrisklabs.bfr.bund.de/wp-content/uploads/2016/03/tutorials_DE.zip">Als PDFs herunterladen</a>)</h4>
+<h4>Tutorials (<a href="http://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/06/tutorials_DE.zip">Als PDFs herunterladen</a>)</h4>
 <a title="Überblick über die FoodChain-Lab-Knoten" href="http://foodrisklabs.bfr.bund.de/index.php/foodchain-lab-uberblick/">FoodChain-Lab Einführung</a>
 
 <a href="https://foodrisklabs.bfr.bund.de/index.php/erfassen-von-daten-in-foodchain-lab/">Datenerfassung (Teil 1)</a>
