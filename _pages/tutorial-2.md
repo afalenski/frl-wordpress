@@ -26,7 +26,7 @@ published: true
 
 <a title="Erstellen eines Workflows in FoodChain-Lab Teil 2" href="http://foodrisklabs.bfr.bund.de/index.php/erstellen-eines-workflows-in-foodchain-lab-teil-2/">Wie erstelle ich einen Workflow (Teil 2)?</a>
 
-<a title="Tracing in FoodChain-Lab" href="http://foodrisklabs.bfr.bund.de/tracing-in-foodchain-lab-2/">Tracing</a>
+<a title="Tracing in FoodChain-Lab" href="http://foodrisklabs.bfr.bund.de/tut-tracing-in-foodchain-lab-2/">Tracing</a>
 
 <a title="Highlighting in FoodChain-Lab" href="http://foodrisklabs.bfr.bund.de/index.php/highlighting-in-foodchain-lab-2/">Highlighting</a>
 
