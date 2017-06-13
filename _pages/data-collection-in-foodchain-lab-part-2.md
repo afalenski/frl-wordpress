@@ -115,7 +115,8 @@ published: true
 <ul>
 <li>Scroll down to the section where you can enter the outgoing deliveries.</li>
 <li>There was one delivery of "Frozen Strawberries" of lot "108" to "Caterer 3".</li>
-<li>Since lot "108" has three ingredients, we have to enter the delivery three times as shown on the screenshot (red box).</li>
+<li>Since lot "108" already exists, we do not have to define any ingredients and can leave the first cell empty.</li>
+<li>Enter the delivery as shown on the screenshot (red box).</li>
 <li>After entering the data save and close the document.</li>
 </ul>
 <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/documents/foodchainlab_datacollecting_2/17.png"><img class="aligncenter size-full" src="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/documents/foodchainlab_datacollecting_2/17.png"/></a>
