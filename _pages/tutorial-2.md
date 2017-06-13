@@ -6,7 +6,7 @@ post_date: 2015-02-27 17:16:58
 post_excerpt: ""
 layout: page
 permalink: >
-  https://foodrisklabs.bfr.bund.de/index.php/tutorial-2/
+  https://foodrisklabs.bfr.bund.de/tutorial-2/
 published: true
 ---
 <h4>Tutorials (<a href="http://foodrisklabs.bfr.bund.de/wp-content/uploads/2016/03/tutorials_DE.zip">Als PDFs herunterladen</a>)</h4>
@@ -26,7 +26,7 @@ published: true
 
 <a title="Erstellen eines Workflows in FoodChain-Lab Teil 2" href="http://foodrisklabs.bfr.bund.de/index.php/erstellen-eines-workflows-in-foodchain-lab-teil-2/">Wie erstelle ich einen Workflow (Teil 2)?</a>
 
-<a title="Tracing in FoodChain-Lab" href="http://foodrisklabs.bfr.bund.de/index.php/tracing-in-foodchain-lab-2/">Tracing</a>
+<a title="Tracing in FoodChain-Lab" href="http://foodrisklabs.bfr.bund.de/tracing-in-foodchain-lab-2/">Tracing</a>
 
 <a title="Highlighting in FoodChain-Lab" href="http://foodrisklabs.bfr.bund.de/index.php/highlighting-in-foodchain-lab-2/">Highlighting</a>
 
