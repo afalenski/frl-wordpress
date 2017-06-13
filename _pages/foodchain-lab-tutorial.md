@@ -46,4 +46,4 @@ published: true
 
 <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/workflows/Geocoding.zip">Geocoding Workflow</a>
 <h4>Fictional Scenarios</h4>
-<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/documents/Scenario.zip">Food-Related Norovirus Outbreak in Southern Germany</a>
+<a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Scenario_2017.zip">Food-Related Norovirus Outbreak in Southern Germany</a>
