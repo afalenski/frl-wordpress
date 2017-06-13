@@ -8,7 +8,7 @@ post_date: 2017-05-24 16:16:46
 post_excerpt: ""
 layout: page
 permalink: >
-  https://foodrisklabs.bfr.bund.de/index.php/data-import-with-all-in-one-template/
+  https://foodrisklabs.bfr.bund.de/data-import-with-all-in-one-template/
 published: true
 ---
 <h4>Tasks</h4>
@@ -16,6 +16,7 @@ published: true
 <li>In this tutorial we'll show you how to import delivery data to FoodChain-Lab via our All-in-one Excel template.</li>
 <li>All data will be entered in one file.</li>
 <li>The All-in-one template can be download from here: <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/templates/All_In_One_Template.xlsx" target="_blank">https://github.com/SiLeBAT/BfROpenLa...</a></li>
+<li>If you do not want to fill the template yourself, you can download the filled out result of this tutorial from here: <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/documents/All_In_One_Template_Example.xlsx" target="_blank">https://github.com/SiLeBAT/BfROpenLa...</a></li>
 </ul>
 <h5>1</h5>
 <ul>
