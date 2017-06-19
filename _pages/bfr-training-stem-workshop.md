@@ -6,7 +6,7 @@ post_date: 2017-04-24 10:34:13
 post_excerpt: ""
 layout: page
 permalink: >
-  https://foodrisklabs.bfr.bund.de/index.php/events/bfr-training-stem-workshop/
+  https://foodrisklabs.bfr.bund.de/events/bfr-training-stem-workshop/
 published: true
 ---
 <h3 style="text-align: left;">Navigation</h3>
@@ -101,10 +101,14 @@ You can also download STEM on the official <a href="https://www.eclipse.org/stem
 </div>
 <div id="Presentation">
 <h3>Presentation</h3>
-<a href="https://docs.google.com/presentation/d/1j-VIANLi2XjNt5KEN35F8i8FzvEB7swHMFHG1YWq1yA/edit?usp=sharing" target="_blank ">Take a look at the presenation to the epidemiological modeling introduction</a>
+<p>Take a look at the presenations of the workshop:</p> 
+<a href="https://docs.google.com/presentation/d/1j-VIANLi2XjNt5KEN35F8i8FzvEB7swHMFHG1YWq1yA/edit?usp=sharing" target="_blank ">Epidemiological Modeling: Introduction by Taras Günther</a>
 
+<a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/04/20170206_Filter-STEM-E.pdf">STEM - Spatiotemporal Epidemiological Modeler: A Framework for Epidemiological Modelling by Matthias Filter</a>
+
+<a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/04/20170207_Filter-STEM-advanced-E.pdf">STEM - Spatiotemporal Epidemiological Modeler: Overview on Advanced Features by Matthias Filter</a>
 </div>
-<div id="Update">
+<div id="Update-Link">
 <h3>Update</h3>
 <table class="table ">
 <tbody>
