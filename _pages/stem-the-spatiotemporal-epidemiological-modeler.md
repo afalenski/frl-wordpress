@@ -15,4 +15,4 @@ STEM is an OS-independent open-source-software project founded by IBM. It allows
 <h3>Events</h3>
 <a href="https://foodrisklabs.bfr.bund.de/events/bfr-training-stem-workshop/">BfR-training-stem-workshop (6.02.2017-07.02.2017 in Berlin, Germany)</a>
 <h3>Presentations</h3>
-<a href="https://foodrisklabs.bfr.bund.de/sa4/">BfR-training-STEM-workshop presentations by Matthias Filter and Taras Günther </a>
+<a href="https://foodrisklabs.bfr.bund.de/events/bfr-training-stem-workshop/#Presentation">BfR-training-STEM-workshop presentations by Matthias Filter and Taras Günther </a>
