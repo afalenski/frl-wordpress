@@ -94,7 +94,9 @@ Olaf Mosbach-Schulz, EFSA</em>
 4:15–5:00 p.m.
 <strong>Discussion</strong>
 <em>All</em>
+
 <h4><span style="color: #000000;">Friday, June 16, 2017 – Advanced training and next steps</span></h4>
+
 9:00–9.15 a.m.
 <strong>Outline of STEC O157 PT34 outbreak and traceability exercise</strong>
 <em>Richard Elson, PHE;
