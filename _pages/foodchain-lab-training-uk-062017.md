@@ -30,6 +30,10 @@ Philip</em>
 <strong>Lunch break</strong></em>
 
 1:00–2:00 p.m.
+<strong>Practical work with FCL: Data visualisation, running simulations, geographical visualisation and regional analysis</strong>
+<em>Christian Thöns, BfR</em>
+
+2:00–2:45 p.m.
 <strong>Hands-on Training (chosen tutorials from website)</strong>
 <em>All</em>
 
