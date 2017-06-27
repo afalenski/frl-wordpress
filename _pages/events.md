@@ -12,17 +12,23 @@ published: true
 
 <h4>FoodChain-Lab Training</h4>
 (25.09.2017-27.09.2017 in Berlin, Germany)
+
 <h4>FoodChain-Lab Training</h4>
 (14.06.2017-16.06.2017 in London, United Kingdom)
+<a href="https://foodrisklabs.bfr.bund.de/foodchain-lab-training-uk/" target="_blank" rel="noopener noreferrer">Programme</a>
+
 <h4>BfR-Training STEM-Workshop</h4>
 (6.02.2017-07.02.2017 in Berlin, Germany)
 <a href="https://foodrisklabs.bfr.bund.de/index.php/events/bfr-training-stem-workshop/" target="_blank" rel="noopener noreferrer">Programme</a>
+
 <h4>Baltic Countries 2016 Workshop on Crisis preparedness</h4>
 (15.03.2016 - 17.03.2016 in Riga, Latvia)
 <a href="https://foodrisklabs.bfr.bund.de/index.php/baltic-countries-2016-workshop/">Programme</a>
+
 <h4>HoA workshop: Tools supporting food chain safety assessments</h4>
 (08.02.2016 - 09.02.2016 in Berlin, Germany)
 <a href="https://foodrisklabs.bfr.bund.de/index.php/hoa-workshop-0809-02-2016/">Programme</a>
+
 <h4>BfR-Academy Training FoodChain-Lab</h4>
 (12.11.2015 - 13.11.2015)
 
