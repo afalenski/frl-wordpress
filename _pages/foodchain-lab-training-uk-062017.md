@@ -78,7 +78,7 @@ Olaf Mosbach-Schulz, EFSA</em>
 <strong>Lunch Break</strong></em>
 
 1:00–2:30 p.m.
-<strong>Scenario Session 1</strong>
+<strong><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Scenario_2017.zip">Scenario</a> Session 1</strong>
 <em>Alexander Falenski, Armin Weiser, Christian Thöns, BfR;
 Olaf Mosbach-Schulz, EFSA</em>
 
