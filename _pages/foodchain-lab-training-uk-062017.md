@@ -12,6 +12,7 @@ permalink: >
 published: true
 ---
 <h4><span style="color: #000000;"><strong>Wednesday, June 14, 2017 – Basic Training</strong></span></h4>
+
 10:00–10:30 a.m.
 <strong>Welcome and Introduction</strong>
 <em>Drazenka Tubin-Delic, FSA;
@@ -19,7 +20,7 @@ Richard Elson, PHE;
 Philip Randles, FSA</em>
 
 10:30–11:00 a.m.
-<strong>Introduction to Food Chain-Lab (FCL)</strong>
+<strong><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/06/20170614_FoodChainLab_Workshop_UK_Intro_pub_AAW.pdf">Introduction to Food Chain-Lab (FCL)</a></strong>
 <em>Armin Weiser, BfR</em>
 
 11:00–12:00 p.m.
