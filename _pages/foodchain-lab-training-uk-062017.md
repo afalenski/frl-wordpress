@@ -32,7 +32,10 @@ Philip Randles, FSA</em>
 1:00–2:00 p.m.
 <strong>Practical work with FCL: Data visualisation, running simulations, <a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/06/20170614_FoodChainLab_Workshop_UK_Geoanalysis_CT.pdf">geographical visualisation and regional analysis</a></strong>
 <em>Christian Thöns, BfR</em>
-
+<ul style="margin-left: 50px;">
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/06/20170614_FoodChainLab_Workshop_UK_Introduction_CT.pdf">Introduction FCL</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/06/20170614_FoodChainLab_Workshop_UK_KNIME_CT.pdf">Introduction KNIME</a></li>
+</ul>
 2:00–2:45 p.m.
 <strong>Hands-on Training (chosen tutorials from website)</strong>
 <em>All</em>
