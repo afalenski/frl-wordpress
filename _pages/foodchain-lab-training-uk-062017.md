@@ -16,7 +16,7 @@ published: true
 <strong>Welcome and Introduction</strong>
 <em>Drazenka Tubin-Delic, FSA;
 Richard Elson, PHE;
-Philip</em>
+Philip Randles, FSA</em>
 
 10:30–11:00 a.m.
 <strong>Introduction to Food Chain-Lab (FCL)</strong>
