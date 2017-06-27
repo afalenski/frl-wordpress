@@ -1,12 +1,14 @@
 ---
 ID: 2235
-post_title: FoodChain-Lab Training
+post_title: >
+  FoodChain-Lab Training, London (UK),
+  June 2017
 author: Marion Gottschald
 post_date: 2017-06-27 08:39:24
 post_excerpt: ""
 layout: page
 permalink: >
-  https://foodrisklabs.bfr.bund.de/foodchain-lab-training-uk/
+  https://foodrisklabs.bfr.bund.de/eventsfoodchain-lab-training-uk-062017/
 published: true
 ---
 <h4><span style="color: #000000;"><strong>Wednesday, June 14, 2017 – Basic Training</strong></span></h4>
