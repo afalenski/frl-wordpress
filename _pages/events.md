@@ -12,6 +12,7 @@ published: true
 
 <h4>FoodChain-Lab Training</h4>
 (25.09.2017-27.09.2017 in Berlin, Germany)
+<a href="https://foodrisklabs.bfr.bund.de/foodchain-lab-training-germany-092017/" target="_blank" rel="noopener noreferrer">Programme</a>
 
 <h4>FoodChain-Lab Training</h4>
 (14.06.2017-16.06.2017 in London, United Kingdom)
