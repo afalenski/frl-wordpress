@@ -12,7 +12,6 @@ permalink: >
 published: true
 ---
 <h4><span style="color: #000000;"><strong>Wednesday, June 14, 2017 – Basic Training</strong></span></h4>
-
 10:00–10:30 a.m.
 <strong>Welcome and Introduction</strong>
 <em>Drazenka Tubin-Delic, FSA;
@@ -27,22 +26,22 @@ Philip Randles, FSA</em>
 <strong>Live demonstration of FCL</strong>
 <em>Armin Weiser, Christian Thöns, Alexander Falenski, BfR</em>
 
-<em>12:00–1:00 p.m. 
+<em>12:00–1:00 p.m.
 <strong>Lunch break</strong></em>
 
 1:00–2:00 p.m.
-<strong>Practical work with FCL: Data visualisation, running simulations, geographical visualisation and regional analysis</strong>
+<strong>Practical work with FCL: Data visualisation, running simulations, <a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/06/20170614_FoodChainLab_Workshop_UK_Geoanalysis_CT.pdf">geographical visualisation and regional analysis</a></strong>
 <em>Christian Thöns, BfR</em>
 
 2:00–2:45 p.m.
 <strong>Hands-on Training (chosen tutorials from website)</strong>
 <em>All</em>
 
-<em>2:45–3:00 p.m. 
+<em>2:45–3:00 p.m.
 <strong>Coffee break</strong></em>
 
 3:00–4:00 p.m.
-<strong>Data Structures, Data Collection, Templates (Start-Tracing, Back-/Forward), Web-View and Web-Edit</strong>
+<strong><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/06/20170614_FoodChainLab_Workshop_UK_Data_pub_AAW.pdf"> Data Structures, Data Collection, Templates (Start-Tracing, Back-/Forward), Web-View and Web-Edit </a> </strong>
 <em>Armin Weiser, Christian Thöns, BfR</em>
 
 4:00–4:30 p.m.
@@ -53,11 +52,9 @@ Philip Randles, FSA</em>
 <strong>Open Questions</strong>
 <em>All</em>
 
-<em>from 6:00 p.m. 
+<em>from 6:00 p.m.
 <strong>Drinks and dinner</strong></em>
-
 <h4><span style="color: #000000;">Thursday, June 15, 2017 – Basic Training</span></h4>
-
 9:00–9.15 a.m.
 <strong>Recap of Day 1 and examples of raw data from real outbreaks (Cryptosporidium parvum 2015 and STEC O157 PT34 2016)</strong>
 <em>Richard Elson, PHE</em>
@@ -72,10 +69,10 @@ Olaf Mosbach-Schulz, EFSA</em>
 <em>Armin Weiser, Christian Thöns, BfR;
 Olaf Mosbach-Schulz, EFSA</em>
 
-<em>10:30–10:45 a.m. 
+<em>10:30–10:45 a.m.
 <strong>Coffee Break</strong></em>
 
-<em>12:00–1:00 p.m. 
+<em>12:00–1:00 p.m.
 <strong>Lunch Break</strong></em>
 
 1:00–2:30 p.m.
@@ -83,7 +80,7 @@ Olaf Mosbach-Schulz, EFSA</em>
 <em>Alexander Falenski, Armin Weiser, Christian Thöns, BfR;
 Olaf Mosbach-Schulz, EFSA</em>
 
-<em>2:30–2.45 p.m. 
+<em>2:30–2.45 p.m.
 <strong>Coffee Break</strong></em>
 
 2.45–4:15 p.m.
@@ -115,10 +112,10 @@ Olaf Mosbach-Schulz, EFSA</em>
  	<li>Tracing individual leaves through the chain from source to outbreak premises.</li>
  	<li>Geocoding and regional analysis.</li>
 </ul>
-<em>10:30–10:45 a.m. 
+<em>10:30–10:45 a.m.
 <strong>Coffee Break</strong></em>
 
-<em>12:30–1:00 p.m. 
+<em>12:30–1:00 p.m.
 <strong>Lunch Break</strong></em>
 
 1:00-2:00 p.m.
@@ -138,5 +135,5 @@ Olaf Mosbach-Schulz, EFSA</em>
  	<li>Inclusion of SNP distances</li>
  	<li>Transition probabilities and further roll out.</li>
 </ul>
-3:30 p.m. 
-<strong>Finish</strong>
+3:30 p.m.
+<strong>End of the workshop</strong>
