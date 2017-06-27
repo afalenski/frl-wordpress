@@ -122,4 +122,4 @@ published: true
  	<li>Transition probabilities and further roll out.</li>
 </ul>
 3:30 p.m. 
-<strong>Finish</strong>
+<strong>End of the workshop</strong>
