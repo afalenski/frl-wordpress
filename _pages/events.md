@@ -15,7 +15,7 @@ published: true
 
 <h4>FoodChain-Lab Training</h4>
 (14.06.2017-16.06.2017 in London, United Kingdom)
-<a href="https://foodrisklabs.bfr.bund.de/foodchain-lab-training-uk/" target="_blank" rel="noopener noreferrer">Programme</a>
+<a href="https://foodrisklabs.bfr.bund.de/foodchain-lab-training-uk-062017/" target="_blank" rel="noopener noreferrer">Programme</a>
 
 <h4>BfR-Training STEM-Workshop</h4>
 (6.02.2017-07.02.2017 in Berlin, Germany)
