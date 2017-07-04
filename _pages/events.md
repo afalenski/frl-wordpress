@@ -18,7 +18,7 @@ published: true
 <a href="https://foodrisklabs.bfr.bund.de/foodchain-lab-training-uk-062017/" rel="noopener noreferrer">Programme</a>
 <h4>BfR-Training STEM-Workshop</h4>
 (6.02.2017-07.02.2017 in Berlin, Germany)
-<a href="https://foodrisklabs.bfr.bund.de/index.php/events/bfr-training-stem-workshop/" target="_blank" rel="noopener noreferrer">Programme</a>
+<a href="https://foodrisklabs.bfr.bund.de/index.php/events/bfr-training-stem-workshop/" rel="noopener noreferrer">Programme</a>
 <h4>Baltic Countries 2016 Workshop on Crisis preparedness</h4>
 (15.03.2016 - 17.03.2016 in Riga, Latvia)
 <a href="https://foodrisklabs.bfr.bund.de/index.php/baltic-countries-2016-workshop/">Programme</a>
