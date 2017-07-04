@@ -39,7 +39,11 @@ Philip Randles, FSA</em>
 2:00–2:45 p.m.
 <strong>Hands-on Training (chosen tutorials from website)</strong>
 <em>All</em>
-
+<ul>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/tut-tracing-in-foodchain-lab/">Tracing</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/highlighting-in-foodchain-lab/">Highlighting</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/geo-clustering-in-foodchain-lab/">Geo-Clustering</a></li>
+</ul>
 <em>2:45–3:00 p.m.
 <strong>Coffee break</strong></em>
 
@@ -94,9 +98,7 @@ Olaf Mosbach-Schulz, EFSA</em>
 4:15–5:00 p.m.
 <strong>Discussion</strong>
 <em>All</em>
-
 <h4><span style="color: #000000;">Friday, June 16, 2017 – Advanced training and next steps</span></h4>
-
 9:00–9.15 a.m.
 <strong>Outline of STEC O157 PT34 outbreak and traceability exercise</strong>
 <em>Richard Elson, PHE;
