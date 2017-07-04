@@ -76,6 +76,11 @@ Olaf Mosbach-Schulz, EFSA</em>
 <em>Armin Weiser, Christian Thöns, BfR;
 Olaf Mosbach-Schulz, EFSA</em>
 
+<ul style="margin-left: 50px;">
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/data-collection-in-foodchain-lab/">Data Collection (Part 1)</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/data-collection-in-foodchain-lab-part-2/">Data Collection (Part 2)</a></li>
+</ul>
+
 <em>10:30–10:45 a.m.
 <strong>Coffee Break</strong></em>
 
