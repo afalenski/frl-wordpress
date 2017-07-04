@@ -39,7 +39,7 @@ Philip Randles, FSA</em>
 2:00–2:45 p.m.
 <strong>Hands-on Training (chosen tutorials from website)</strong>
 <em>All</em>
-<ul>
+<ul style="margin-left: 50px;">
  	<li><a href="https://foodrisklabs.bfr.bund.de/tut-tracing-in-foodchain-lab/">Tracing</a></li>
  	<li><a href="https://foodrisklabs.bfr.bund.de/highlighting-in-foodchain-lab/">Highlighting</a></li>
  	<li><a href="https://foodrisklabs.bfr.bund.de/geo-clustering-in-foodchain-lab/">Geo-Clustering</a></li>
