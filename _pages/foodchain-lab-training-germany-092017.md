@@ -2,7 +2,7 @@
 ID: 2242
 post_title: >
   FoodChain-Lab Training, Berlin
-  (Germany), September 2017
+  (Germany), Autumn 2017
 author: Marion Gottschald
 post_date: 2017-06-27 10:24:26
 post_excerpt: ""
@@ -11,7 +11,7 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/foodchain-lab-training-germany-092017/
 published: true
 ---
-<h4><span style="color: #000000;"><strong>Monday, September 25, 2017 – Basic Training</strong></span></h4>
+<h4><span style="color: #000000;"><strong>Day 1 – Basic Training</strong></span></h4>
 10:00–10:30 a.m.
 <strong>Welcome and Introduction</strong>
 <em></em>
@@ -53,7 +53,7 @@ published: true
 <em>from 6:00 p.m. 
 <strong>Drinks and dinner</strong></em>
 
-<h4><span style="color: #000000;">Tuesday, September 26, 2017 – Basic Training</span></h4>
+<h4><span style="color: #000000;">Day 2 – Basic Training</span></h4>
 
 9:00–9.15 a.m.
 <strong>Recap of Day 1 and examples of raw data from real outbreaks</strong>
@@ -88,7 +88,7 @@ published: true
 <strong>Discussion</strong>
 <em></em>
 
-<h4><span style="color: #000000;">Wednesday, September 27, 2017 – Advanced training and next steps</span></h4>
+<h4><span style="color: #000000;">Day 3 – Advanced training and next steps</span></h4>
 
 9:00–9.15 a.m.
 <strong>to be determined (tbd)</strong>
