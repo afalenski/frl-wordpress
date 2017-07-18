@@ -32,7 +32,7 @@ In addition it is envisaged to disseminate and communicate the project results i
 <tbody>
 <tr>
 <td style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/safetytools-efsa-sa1/">Area </a><a href="https://foodrisklabs.bfr.bund.de/safetytools-efsa-sa1/">1</a></td>
-<td style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/safetytools-efsa-sa1/">Area </a><a href="https://foodrisklabs.bfr.bund.de/sa2/">2</a></td>
+<td style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/safetytools-efsa-sa1/">Area </a><a href="https://foodrisklabs.bfr.bund.de/safetytools-efsa-sa2/">2</a></td>
 <td style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/safetytools-efsa-sa1/">Area </a><a href="https://foodrisklabs.bfr.bund.de/sa3/">3</a></td>
 <td style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/safetytools-efsa-sa1/">Area </a><a href="https://foodrisklabs.bfr.bund.de/sa4/">4</a></td>
 </tr>
