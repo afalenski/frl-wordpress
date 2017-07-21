@@ -85,7 +85,7 @@ Olaf Mosbach-Schulz, EFSA</em>
 <strong>Coffee Break</strong></em>
 
 11:00–12:00 p.m.
-<strong><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/07/20170614_AMU_FPABfR_UKFCL_Presentation_DEMOS_v01_kompr.pdf">The challenge to trace the source of contamination in the international food and feed supply chain</a></strong>
+<strong><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/07/20170614_AMU_FPABfR_UKFCL_Presentation_DEMOS_v01_kompr.pdf">The challenge to trace the source of contamination in the international food and feed supply chain </a> </strong>
 <em>Olaf Mosbach-Schulz, EFSA</em>
 
 <em>12:00–1:00 p.m.
