@@ -61,6 +61,7 @@ Philip Randles, FSA</em>
 
 <em>from 6:00 p.m.
 <strong>Drinks and dinner</strong></em>
+
 <h4><span style="color: #000000;">Thursday, June 15, 2017 – Basic Training</span></h4>
 9:00–9.15 a.m.
 <strong>Recap of Day 1 and examples of raw data from real outbreaks (Cryptosporidium parvum 2015 and STEC O157 PT34 2016)</strong>
@@ -71,18 +72,21 @@ Philip Randles, FSA</em>
 <em>Armin Weiser, Christian Thöns, BfR;
 Olaf Mosbach-Schulz, EFSA</em>
 
-10:00–12:00 p.m.
+10:00–10:45 a.m.
 <strong>Hands-On Training data collection and training on RASFF notifications (chosen tutorials from website)</strong>
-<em>Armin Weiser, Christian Thöns, BfR;
-Olaf Mosbach-Schulz, EFSA</em>
+<em>Armin Weiser, Christian Thöns, BfR</em>
 
 <ul style="margin-left: 50px;">
  	<li><a href="https://foodrisklabs.bfr.bund.de/data-collection-in-foodchain-lab/">Data Collection (Part 1)</a></li>
  	<li><a href="https://foodrisklabs.bfr.bund.de/data-collection-in-foodchain-lab-part-2/">Data Collection (Part 2)</a></li>
 </ul>
 
-<em>10:30–10:45 a.m.
+<em>10:45–11:00 a.m.
 <strong>Coffee Break</strong></em>
+
+11:00–12:00 p.m.
+<strong><a href="">The challenge to trace the source of contamination in the international food and feed supply chain</a></strong>
+<em>Olaf Mosbach-Schulz, EFSA</em>
 
 <em>12:00–1:00 p.m.
 <strong>Lunch Break</strong></em>
