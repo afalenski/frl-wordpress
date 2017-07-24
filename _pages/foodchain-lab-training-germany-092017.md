@@ -2,7 +2,7 @@
 ID: 2242
 post_title: >
   FoodChain-Lab Training, Berlin
-  (Germany), 08.11.2017-10.11.2017 2017
+  (Germany), November 2017
 author: Marion Gottschald
 post_date: 2017-06-27 10:24:26
 post_excerpt: ""
