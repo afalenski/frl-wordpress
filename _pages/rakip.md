@@ -18,7 +18,7 @@ The RAKIP solutions are designed to support the whole risk assessment community 
 In this sense, the end-users will find in the RAKIP portal a web-based risk assessment model repository that can be freely assessed and searched, and where models can be downloaded, combined and executed. In addition, modellers can contribute their models to the repository by sharing their own models in the harmonized format. It is important to clarify that the RAKIP portal is not primarily intended to be a new “press-the-button” model simulation software. It will be designed such that experts and non-experts can make use of it.
 
 <img class="aligncenter size-full wp-image-2306" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/07/RAKIP-Model-Sharing.png" alt="" width="580" height="461" />
-<h4 style="text-align: center;"><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#/RAKIP-Web-Portal" target="_blank" rel="noopener">Access to RAKIP web-portal</a></h4>
+<h4 style="text-align: center;"><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#/RAKIP-Web-Portal" target="_blank" rel="noopener">Access to RAKIP-Web-Portal</a></h4>
 <p style="text-align: center;">Login: RAKIP</p>
 <p style="text-align: center;">Password: RAKIP2017!</p>
 <p style="text-align: center;"><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#/RAKIP-Web-Portal/FSKX-Webportal-V2-Demonstrator&amp;user=RAKIP&amp;pw=RAKIP2017!" target="_blank" rel="noopener">Direct login without password</a></p>
