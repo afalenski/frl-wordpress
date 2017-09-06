@@ -9,3 +9,6 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/rakip-web-portal/
 published: true
 ---
+You can find the KNIME WebPortal with RAKIP KNIME Workflows here:
+
+<a href="https://knime.bfrlab.de/com.knime.enterprise.server/" target="_blank" rel="noopener">https://knime.bfrlab.de/com.knime.enterprise.server/</a>
