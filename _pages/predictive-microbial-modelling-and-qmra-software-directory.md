@@ -13,7 +13,7 @@ published: true
 ---
 <div id="top"></div>
 A listing of tools available for predictive modelling in foods and quantitative microbial risk assessment
-<h4>Model repositorys</h4>
+<h4>Model Repositories</h4>
 <ul>
  	<li><a class="" href="http://www.baselineapp.com/" target="_blank" rel="noopener">Baseline Software Tool</a></li>
  	<li><a class="" href="http://www.combase.cc/" target="_blank" rel="noopener">ComBase</a></li>
