@@ -13,13 +13,13 @@ published: true
 
 Models and data need to be annotated in a harmonized way. For this, we have defined a structured list of metadata that are relevant for describing data or models in the risk assessment and predictive microbial modelling domains. For each metadata concept it has also been defined if this concept is considered mandatory or not and what cardinality each metadata concept has.
 
-The “generic metadata schema” contains the complete list of metadata concepts that allow to describe in detail all models or data. Appart from the ”generic metadata schema”, we have defined dedicated metadata schema for specific model / data classes, using relevant subset of the generic metadata schema.
+The “generic metadata schema” contains the complete list of metadata concepts that allow to describe in detail all models or data. Apart from the “generic metadata schema”, we have defined dedicated metadata schema for specific model / data classes, using relevant subset of the generic metadata schema.
 
 <em>The proposed metadata schema can be accessed via:</em>
 
 <a href="https://docs.google.com/spreadsheets/d/1R5ofJAIqAywN97cnBY9R9kqj10AvQOs3Gq472n6iDyc/edit?usp=sharing" target="_blank" rel="noopener">https://docs.google.com/spreadsheets/d/1R5ofJAIqAywN97cnBY9R9kqj10AvQOs3Gq472n6iDyc/edit?usp=sharing</a>
 
-<strong> </strong>
+&nbsp;
 
 <strong>Community driven Controlled Vocabularies </strong>
 
