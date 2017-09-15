@@ -9,3 +9,4 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/rakip-roadmap-whitepaper/
 published: true
 ---
+The RAKIP project partners currently develop a roadmap on future activities that will be carried out to maintain the RAKIP Web Portal as a long-term community-driven resource helping to bridge and complement existing resources in the risk assessment domain.
