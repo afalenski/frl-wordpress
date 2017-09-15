@@ -11,10 +11,10 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/predictive-microbial-modelling-and-qmra-software-directory/
 published: true
 ---
-<h1>Predictive Microbial Modelling and QMRA Software Directory</h1>
-A listing of tools available for predictive modelling in foods and quantitative microbial risk assessment
-<h4>Model repositories</h4>
-<ul>
+<p style="text-align: justify;">A listing of tools available for predictive modelling in foods and quantitative microbial risk assessment</p>
+
+<h4 style="text-align: justify;">Model repositories</h4>
+<ul style="text-align: justify;">
  	<li><a href="http://www.baselineapp.com/">Baseline Software Tool</a></li>
  	<li><a href="http://www.combase.cc/">ComBase</a></li>
  	<li><a href="http://www.aua.gr/psomas/gropin">GroPIN</a></li>
@@ -23,9 +23,10 @@ A listing of tools available for predictive modelling in foods and quantitative 
  	<li><a href="https://sites.google.com/site/openfsmr/">openFSMR – a community driven search engine for predictive microbial models</a></li>
  	<li><a href="https://knime.bfrlab.de/com.knime.enterprise.server/#/RAKIP-Web-Portal/FSKX-Webportal-V2-Demonstrator&amp;user=RAKIP&amp;pw=RAKIP2017%21">RAKIP Web Portal</a></li>
 </ul>
-<h4>Predictive microbial modelling</h4>
-<strong>Fitting tools</strong>
-<ul>
+<h4 style="text-align: justify;">Predictive microbial modelling</h4>
+<p style="text-align: justify;"><strong>Fitting tools</strong></p>
+
+<ul style="text-align: justify;">
  	<li>DMFit</li>
  	<li>FILTREX</li>
  	<li><a href="http://frisbeetool.eu/GInaFit/What-is-GInaFiT.html">GInaFiT</a></li>
@@ -35,8 +36,9 @@ A listing of tools available for predictive modelling in foods and quantitative 
  	<li><a href="http://www.optipa.be">OptiPa</a></li>
  	<li><a href="https://sourceforge.net/projects/pmmlab">PMM-Lab</a></li>
 </ul>
-<strong>Prediction tools</strong>
-<ul>
+<p style="text-align: justify;"><strong>Prediction tools</strong></p>
+
+<ul style="text-align: justify;">
  	<li><a href="http://www.baselineapp.com/">Baseline Software Tool</a></li>
  	<li><a href="https://opada-upct.shinyapps.io/bioinactivation_SE/">Bioinactivation SE</a></li>
  	<li><a href="http://www.combase.cc">ComBase Predictor</a></li>
@@ -62,8 +64,8 @@ A listing of tools available for predictive modelling in foods and quantitative 
  	<li><a href="http://www.symprevius.org/">Sym’Previus</a></li>
  	<li><a href="http://www.meathaccp.wisc.edu/pathogen_modeling/therm.html">Therm 2.0</a></li>
 </ul>
-<h4>Tools for quantitative microbial risk assessment</h4>
-<ul>
+<h4 style="text-align: justify;">Tools for quantitative microbial risk assessment</h4>
+<ul style="text-align: justify;">
  	<li><a href="http://foodrisk.org/exclusives/sqmra/">A swift Quantitative Microbiological Risk Assessment tool (sQMRA)</a></li>
  	<li><a href="http://foodrisk.org/exclusives/fda-irisk-a-comparative-risk-assessment-tool/">FDA-iRISK</a></li>
  	<li><a href="https://foodrisklabs.bfr.bund.de/fsk-lab/">FSK-Lab</a></li>
@@ -71,8 +73,8 @@ A listing of tools available for predictive modelling in foods and quantitative 
  	<li><a href="http://www.foodsafetycentre.com.au/riskranger.php">Risk Ranger</a></li>
  	<li>@Risk</li>
 </ul>
-<h4>Other resources</h4>
-<ul>
+<h4 style="text-align: justify;">Other resources</h4>
+<ul style="text-align: justify;">
  	<li><a href="http://www.combase.cc/">ComBase</a></li>
  	<li><a href="http://ezips.rivm.nl/">Emerging Zoonoses Information and Priority systems (EZIPs)</a></li>
  	<li><a href="http://www.efsa.europa.eu/en/datexfoodcdb/datexfooddb.htm">EFSA Comprehensive European Food Consumption Database</a></li>
@@ -87,4 +89,4 @@ A listing of tools available for predictive modelling in foods and quantitative 
  	<li>The European Surveillance System (TESSy)</li>
  	<li><a href="http://tools.food.dtu.dk/trimicri">Tool for Risk based Microbiological Criteria (TRiMiCri)</a></li>
 </ul>
-<a href="https://foodrisklabs.bfr.bund.de/microbial-modeling-exchange-wiki/#Top">Top</a>
+<p style="text-align: justify;"><a href="https://foodrisklabs.bfr.bund.de/microbial-modeling-exchange-wiki/#Top">Top</a></p>
