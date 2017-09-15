@@ -9,7 +9,7 @@ permalink: >
   https://foodrisklabs.bfr.bund.de/rakip-model-repository-web-services/
 published: true
 ---
-<h1 style="text-align: justify;">Demonstrators</h1>
+<h3 style="text-align: justify;">Demonstrators</h3>
 <p style="text-align: justify;">The RAKIP Model Repository &amp; Web Services Demonstrators contain:</p>
 
 <ul style="text-align: justify;">
