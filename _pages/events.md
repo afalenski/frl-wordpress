@@ -15,7 +15,7 @@ published: true
 
 We offer an intensive practical course on how to trace contaminated foods in foodborne outbreak events with FoodChain-Lab. The workshop is especially for risk managers and risk assessors with IT-application experience.
 
-<table style="height: 1114px;" width="586">
+<table style=width="586">
 <tbody>
 <tr>
 <td><p style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/foodchain-lab-training-germany-092017/" target="_blank" rel="noopener">Preliminary Programme</a></td>
