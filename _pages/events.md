@@ -19,8 +19,7 @@ We offer an intensive practical course on how to trace contaminated foods in foo
 <tbody>
 <tr>
 <td><p style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/foodchain-lab-training-germany-092017/" target="_blank" rel="noopener">Preliminary Programme</a></td>
-<td></td>
-<td><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FoodChain-Lab-Workshop-Berlin-2017_Information-flyer.pdf" target="_blank" rel="noopener">Info-Flyer</a></p></td>
+<td><p style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FoodChain-Lab-Workshop-Berlin-2017_Information-flyer.pdf" target="_blank" rel="noopener">Info-Flyer</a></p></td>
 </tr>
 </tbody>
 </table>
