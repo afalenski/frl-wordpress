@@ -45,8 +45,7 @@ Please don’t hesitate to contact us:
 <tbody>
 <tr>
 <td><strong>Matthias Filter</strong>
-German Federal Institute for Risk Assessment
-(BfR)
+German Federal Institute for Risk Assessment (BfR)
 Unit Food Technologies, Supply Chains
 and Food Defence
 Department Biological Safety
