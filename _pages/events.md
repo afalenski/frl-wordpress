@@ -8,7 +8,7 @@ layout: page
 permalink: https://foodrisklabs.bfr.bund.de/events/
 published: true
 ---
-<p style="text-align: left;">Below, events on which tools from the <a href="http://www.bfr.bund.de/en/home.html" target="_blank" rel="noopener noreferrer">Federal Institute for Risk Assessment</a> were presented are shown. For additional events (with German as presenting language) please have a look at the <a href="https://foodrisklabs.bfr.bund.de/index.php/veranstaltungen/">German webpage</a>.</p>
+<p style="text-align: left;">Below, events on which tools from the <a href="http://www.bfr.bund.de/en/home.html" target="_blank" rel="noopener noreferrer">German Federal Institute for Risk Assessment</a> were presented are shown. For additional events (with German as presenting language) please have a look at the <a href="https://foodrisklabs.bfr.bund.de/index.php/veranstaltungen/">German webpage</a>.</p>
 
 <h4>FoodChain-Lab Training</h4>
 (08.11.2017-10.11.2017 in Berlin, Germany)
