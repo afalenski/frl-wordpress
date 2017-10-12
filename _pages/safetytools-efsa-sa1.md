@@ -58,8 +58,7 @@ Please don’t hesitate to contact us:
 <tbody>
 <tr>
 <td><strong>Armin Weiser</strong>
-German Federal Institute for Risk Assessment
-(BfR)
+German Federal Institute for Risk Assessment (BfR)
 Unit Epidemiology, Zoonoses and Antibiotic Resistance
 Department Biological Safety
 <a href="mailto:Armin.Weiser@bfr.bund.de">Armin.Weiser@bfr.bund.de</a></td>
