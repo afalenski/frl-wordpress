@@ -6,12 +6,12 @@ post_date: 2015-02-09 15:48:45
 post_excerpt: ""
 layout: page
 permalink: >
-  https://foodrisklabs.bfr.bund.de/index.php/foodrisk-labs/
+  https://foodrisklabs.bfr.bund.de/foodrisk-labs/
 published: true
 ---
 <img class="aligncenter wp-image-1243 size-full" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FoodRiskLabsLogo1.png" alt="FoodRiskLabsLogo1" width="624" height="90" />
 <p style="text-align: center;">FoodRisk-Labs is a portal to the following tools developed by the</p>
-<p style="text-align: center;"><a href="http://www.bfr.bund.de/en/home.html" target="_blank">Federal Institute for Risk Assessment (BfR)</a>:</p>
+<p style="text-align: center;"><a href="http://www.bfr.bund.de/en/home.html" target="_blank">German Federal Institute for Risk Assessment (BfR)</a>:</p>
 &nbsp;
 <table style="height: 1114px;" width="586">
 <tbody>
