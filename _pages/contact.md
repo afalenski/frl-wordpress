@@ -6,11 +6,11 @@ post_date: 2015-02-17 09:42:26
 post_excerpt: ""
 layout: page
 permalink: >
-  https://foodrisklabs.bfr.bund.de/index.php/contact/
+  https://foodrisklabs.bfr.bund.de/contact/
 published: true
 ---
 FoodRisk-Labs-Team
-Federal Institute for Risk Assessment
+German Federal Institute for Risk Assessment
 Department Biological Safety
 Max-Dohrn-Strasse 8-10
 10589 Berlin
