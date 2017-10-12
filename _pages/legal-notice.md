@@ -6,10 +6,10 @@ post_date: 2015-09-23 16:37:08
 post_excerpt: ""
 layout: page
 permalink: >
-  https://foodrisklabs.bfr.bund.de/index.php/legal-notice/
+  https://foodrisklabs.bfr.bund.de/legal-notice/
 published: true
 ---
-<h4>Federal Institute for Risk Assessment</h4>
+<h4>German Federal Institute for Risk Assessment</h4>
 
 President: Professor Dr. Dr. Andreas Hensel
 Supervisory agency: Federal Ministry of Food and Agriculture
@@ -17,7 +17,7 @@ VAT Reg No. of BfR: DE 165893448
 
 <h4>Internet projekt management</h4>
 
-Federal Institute for Risk Assessment
+German Federal Institute for Risk Assessment
 Department Biological Safety
 Unit Epidemiology, Zoonoses and Antibiotic Resistance
 Max-Dohrn-Str. 8-10
@@ -27,7 +27,7 @@ E-Mail: <a href="mailto:FoodRiskLabs@bfr.bund.de">FoodRiskLabs@bfr.bund.de</a>
 
 <h4>Technical execution and ongoing operation</h4>
 
-Federal Institute for Risk Assessment
+German Federal Institute for Risk Assessment
 Department Scientific Services
 Unit Information Technology
 Diedersdorfer Weg 1
