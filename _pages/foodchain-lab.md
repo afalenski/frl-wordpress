@@ -15,7 +15,7 @@ Food may contain hazards (e. g. viruses or bacteria) which can be harmful for hu
 
 Supply chain data can be imported to FoodChain-Lab via Excel templates as shown in the <a href="https://foodrisklabs.bfr.bund.de/index.php/data-collection-in-foodchain-lab/">Data Collection Tutorial</a>. To get a first impression of what you can do with FoodChain-Lab please watch the video demonstration below or download our flyer.
 
-<a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/media/foodchain_lab_demo.mp4" target="_blank" rel="noopener noreferrer">Video Demonstration</a>
+[video width="1280" height="720" mp4="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/foodchain_lab_demo.mp4"][/video]
 
 <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/media/Flyer_FoodChain_Druck_v02.pdf" target="_blank" rel="noopener noreferrer">Flyer</a>
 
@@ -30,6 +30,5 @@ In 2013 and 2014 FoodChain-Lab was used in a multinational hepatitis A virus out
 <a href="https://github.com/SiLeBAT/BfROpenLab" target="_blank" rel="noopener noreferrer">FoodChain-Lab@GitHub (Sources, Ticket System, ...)</a>
 
 <a href="https://silebat.github.io/fcl-web-app" target="_blank" rel="noopener noreferrer">FoodChain-Lab Web App</a>
-
 <h4><a id="license" class="anchor" href="http://silebat.github.io/BfROpenLab/#license"></a>License</h4>
 BfROpenLab is released under the GNU General Public License v3.0.
