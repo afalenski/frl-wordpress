@@ -2,11 +2,11 @@
 ID: 197
 post_title: Events
 author: FRL_Admin
-post_date: 2015-02-17 10:21:55
 post_excerpt: ""
 layout: page
 permalink: https://foodrisklabs.bfr.bund.de/events/
 published: true
+post_date: 2015-02-17 10:21:55
 ---
 <p style="text-align: left;">Below, events on which tools from the <a href="http://www.bfr.bund.de/en/home.html" target="_blank" rel="noopener noreferrer">German Federal Institute for Risk Assessment</a> were presented are shown. For additional events (with German as presenting language) please have a look at the <a href="https://foodrisklabs.bfr.bund.de/index.php/veranstaltungen/">German webpage</a>.</p>
 
@@ -14,16 +14,18 @@ published: true
 (08.11.2017-10.11.2017 in Berlin, Germany)
 
 We offer an intensive practical course on how to trace contaminated foods in foodborne outbreak events with FoodChain-Lab. The workshop is especially for risk managers and risk assessors with IT-application experience.
-
-<table style=width="586">
+<table>
 <tbody>
 <tr>
-<td><p style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/foodchain-lab-training-germany-092017/" target="_blank" rel="noopener">Preliminary Programme</a></td>
-<td><p style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FoodChain-Lab-Workshop-Berlin-2017_Information-flyer.pdf" target="_blank" rel="noopener">Info-Flyer</a></p></td>
+<td>
+<p style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/foodchain-lab-training-germany-092017/" rel="noopener">Preliminary Programme</a></p>
+</td>
+<td>
+<p style="text-align: center;"><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FoodChain-Lab-Workshop-Berlin-2017_Information-flyer.pdf" rel="noopener">Info-Flyer</a></p>
+</td>
 </tr>
 </tbody>
 </table>
-
 <h4>FoodChain-Lab Training</h4>
 (14.06.2017-16.06.2017 in London, United Kingdom)
 <a href="https://foodrisklabs.bfr.bund.de/foodchain-lab-training-uk-062017/" rel="noopener noreferrer">Programme</a>
