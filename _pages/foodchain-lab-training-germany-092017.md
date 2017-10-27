@@ -4,122 +4,127 @@ post_title: >
   FoodChain-Lab Training, Berlin
   (Germany), November 2017
 author: Marion Gottschald
-post_date: 2017-06-27 10:24:26
 post_excerpt: ""
 layout: page
 permalink: >
   https://foodrisklabs.bfr.bund.de/foodchain-lab-training-germany-092017/
 published: true
+post_date: 2017-06-27 10:24:26
 ---
 <h4><span style="color: #000000;"><strong>Wednesday, 08.11.2017 – Basic Training</strong></span></h4>
-10:00–10:30 a.m.
-<strong>Welcome and Introduction</strong>
-<em></em>
+10:00-11:00 a.m.
+<strong>Welcome and introduction</strong>
 
-10:30–11:00 a.m.
-<strong>Introduction to Food Chain-Lab (FCL)</strong>
-<em></em>
+11:00-11:30 a.m.
+<strong>Introduction to outbreak investigation</strong>
+Marion Gottschald (BfR)
 
-11:00–12:00 p.m.
-<strong>Live demonstration of FCL</strong>
-<em></em>
+11:30-12:30 p.m.
+<strong>The challenge to trace the source of contamination in the international food and feed supply chain</strong>
+Olaf Mosbach-Schulz (EFSA)
 
-<em>12:00–1:00 p.m. 
-<strong>Lunch break</strong></em>
+<em>12:30-1:30 p.m.</em>
+<strong><em>Lunch break</em></strong>
 
-1:00–2:00 p.m.
-<strong>Practical work with FCL: Data visualisation, running simulations, geographical visualisation and regional analysis</strong>
-<em></em>
-
-2:00–2:45 p.m.
-<strong>Hands-on Training (chosen tutorials from website)</strong>
-<em></em>
-
-<em>2:45–3:00 p.m. 
-<strong>Coffee break</strong></em>
-
-3:00–4:00 p.m.
-<strong>Data Structures, Data Collection, Templates (Start-Tracing, Back-/Forward), Web-View and Web-Edit</strong>
-<em></em>
-
-4:00–4:30 p.m.
-<strong>Live Demo</strong>
-<em></em>
-
-4:30–5:00 p.m.
-<strong>Open Questions</strong>
-<em></em>
-
-<em>from 6:00 p.m. 
-<strong>Drinks and dinner</strong></em>
-
-<h4><span style="color: #000000;">Thursday, 09.11.2017 – Basic Training</span></h4>
-
-9:00–9.15 a.m.
-<strong>Recap of Day 1 and examples of raw data from real outbreaks</strong>
-<em></em>
-
-9:15–10:00 a.m.
-<strong>Data Structures, Data Collection Templates (All-In-One, Simple), Web-View and Web-Edit, Potential data needs in detail</strong>
-<em></em>
-
-10:00–12:00 p.m.
-<strong>Hands-On Training data collection and training on RASFF notifications (chosen tutorials from website)</strong>
-<em></em>
-
-<em>10:30–10:45 a.m. 
-<strong>Coffee Break</strong></em>
-
-<em>12:00–1:00 p.m. 
-<strong>Lunch Break</strong></em>
-
-1:00–2:30 p.m.
-<strong>Scenario Session 1</strong>
-<em></em>
-
-<em>2:30–2.45 p.m. 
-<strong>Coffee Break</strong></em>
-
-2.45–4:15 p.m.
-<strong>Scenario Session 2</strong>
-<em></em>
-
-4:15–5:00 p.m.
-<strong>Discussion</strong>
-<em></em>
-
-<h4><span style="color: #000000;">Friday, 10.11.2017 – Advanced training and next steps</span></h4>
-
-9:00–9.15 a.m.
-<strong>to be determined (tbd)</strong>
-<em></em>
-
-9:15–12:30 a.m.
-<strong>tbd</strong>
-<em></em>
-
-<em>10:30–10:45 a.m. 
-<strong>Coffee Break</strong></em>
-
-<em>12:30–1:00 p.m. 
-<strong>Lunch Break</strong></em>
-
-1:00-2:00 p.m.
-<strong>Wider applications of KNIME tools</strong>
-<em></em>
+1:30-2:00 p.m.
+<strong>Introduction to FoodChain-Lab (FCL)</strong>
+Armin Weiser (BfR)
 
 2:00-2:30 p.m.
-<strong>tbd</strong>
-<em></em>
+<strong>Live demonstration of FCL</strong>
+Armin Weiser (BfR)
+
+2:30-2:50 p.m.
+<strong>Hands-on training (chosen tutorials from website)</strong>
+Armin Weiser, Alexander Falenski, Marion Gottschald, Marco Rügen (BfR)
+
+<em>2:50-3:05 p.m.</em>
+<em><strong>Coffee break</strong></em>
+
+3:05-4:30 p.m.
+<strong>Hands-on training (continued) (chosen tutorials from website)</strong>
+Armin Weiser, Alexander Falenski, Marion Gottschald, Marco Rügen (BfR)
+
+4:30-5:00 p.m.
+<strong>Open questions</strong>
+All
+
+<em>from 6 p.m.</em>
+<em><strong>Drinks and dinner – Alter Krug Dahlem</strong></em>
+
+&nbsp;
+<h4><span style="color: #000000;">Thursday, 09.11.2017 – Basic Training</span></h4>
+9:00-09:45 a.m.
+<strong>Data structures, data collection templates (start-tracing, back-/forward, all-in-one, simple), potential data needs in detail</strong>
+Alexander Falenski (BfR)
+
+<em>09:45-10.00 a.m.</em>
+<em><strong>Coffee break</strong></em>
+
+10:00-11:00 a.m.
+<strong>Data structures, data collection templates (start-tracing, back-/forward, all-in-one, simple), potential data needs in detail (continued)</strong>
+Alexander Falenski (BfR)
+
+11:00-12:00 a.m.
+<strong>Wider applications of KNIME tools</strong>
+Armin Weiser (BfR)
+
+<em>12:00-1:00 p.m.</em>
+<em><strong>Lunch break</strong></em>
+
+1:00-2:30 p.m.
+<strong>Scenario session 1</strong>
+Marion Gottschald, Alexander Falenski, Armin Weiser, Marco Rügen (BfR)
+Olaf Mosbach-Schulz (EFSA)
+
+<em>2:30-2.45 p.m.</em>
+<em><strong>Coffee break</strong></em>
+
+2.45-4:15 p.m.
+<strong>Scenario session 2</strong>
+Marion Gottschald, Alexander Falenski, Armin Weiser, Marco Rügen (BfR)
+Olaf Mosbach-Schulz (EFSA)
+
+4:15-5:00 p.m.
+<strong>Discussion and open questions</strong>
+All
+
+&nbsp;
+<h4><span style="color: #000000;">Friday, 10.11.2017 – Advanced training and next steps</span></h4>
+9:00-9:30 a.m.
+<strong>FCL web view and web edit</strong>
+Marco Rügen (BfR)
+
+9:30-12:00 p.m.
+<strong>Contributions of participants 1
+</strong>
+
+<em>10:30-10:45 a.m.</em>
+<em><strong>Coffee break</strong></em>
+
+10:45-12:00 a.m.
+<strong>Contributions of participants 2
+</strong>
+
+<em>12:00-1:00 p.m.</em>
+<em><strong>Lunch break</strong></em>
+
+<em>1:00-2:30 p.m.</em>
+<strong>Contributions of participants 3
+</strong>
+
+Group work on RASFF notifications
+Olaf Mosbach-Schulz (EFSA)
 
 2:30-3:30 p.m.
-<strong>What and where next? Group discussion chaired by (tbd) to cover: </strong>
-<ul style="margin-left: 50px;">
- 	<li>Feature requests</li>
- 	<li>Interfaces with other software</li>
- 	<li>Additional analyses</li>
- 	<li>Inclusion of SNP distances</li>
- 	<li>Transition probabilities and further roll out.</li>
-</ul>
-3:30 p.m. 
+<strong>What and where next? Group discussion to cover:</strong>
+- Feature requests
+- Interfaces with other software
+- Additional analyses
+- Transition probabilities and further roll out
+- Feedback
+
+3:30 p.m.
 <strong>End of the workshop</strong>
+
+&nbsp;
