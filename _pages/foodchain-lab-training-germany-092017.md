@@ -42,7 +42,7 @@ Armin Weiser, Alexander Falenski, Marion Gottschald, Marco Rügen (BfR)
 <em><strong>Coffee break</strong></em>
 
 3:05-4:30 p.m.
-<strong>Hands-on training (continued) (chosen tutorials from website)</strong>
+<strong>Hands-on training (chosen tutorials from website) (continued)</strong>
 Armin Weiser, Alexander Falenski, Marion Gottschald, Marco Rügen (BfR)
 
 4:30-5:00 p.m.
@@ -73,7 +73,7 @@ Armin Weiser (BfR)
 <em><strong>Lunch break</strong></em>
 
 1:00-2:30 p.m.
-<strong>Scenario session 1</strong>
+<strong>Scenario session</strong>
 Marion Gottschald, Alexander Falenski, Armin Weiser, Marco Rügen (BfR)
 Olaf Mosbach-Schulz (EFSA)
 
@@ -81,7 +81,7 @@ Olaf Mosbach-Schulz (EFSA)
 <em><strong>Coffee break</strong></em>
 
 2.45-4:15 p.m.
-<strong>Scenario session 2</strong>
+<strong>Scenario session (continued)</strong>
 Marion Gottschald, Alexander Falenski, Armin Weiser, Marco Rügen (BfR)
 Olaf Mosbach-Schulz (EFSA)
 
@@ -96,21 +96,21 @@ All
 Marco Rügen (BfR)
 
 9:30-12:00 p.m.
-<strong>Contributions of participants 1
+<strong>Contributions of participants
 </strong>
 
 <em>10:30-10:45 a.m.</em>
 <em><strong>Coffee break</strong></em>
 
 10:45-12:00 a.m.
-<strong>Contributions of participants 2
+<strong>Contributions of participants (continued)
 </strong>
 
 <em>12:00-1:00 p.m.</em>
 <em><strong>Lunch break</strong></em>
 
 <em>1:00-2:30 p.m.</em>
-<strong>Contributions of participants 3
+<strong>Contributions of participants (continued)
 </strong>
 
 Group work on RASFF notifications
