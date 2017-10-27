@@ -50,7 +50,7 @@ Armin Weiser, Alexander Falenski, Marion Gottschald, Marco Rügen (BfR)
 All
 
 <em>from 6 p.m.</em>
-<em><strong>Drinks and dinner – Alter Krug Dahlem</strong></em>
+<em><strong>Drinks and dinner</strong></em>
 
 &nbsp;
 <h4><span style="color: #000000;">Thursday, 09.11.2017 – Basic Training</span></h4>
