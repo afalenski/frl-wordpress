@@ -2,12 +2,12 @@
 ID: 754
 post_title: Tracing in FoodChain-Lab
 author: FRL_Admin
-post_date: 2015-03-18 10:18:25
 post_excerpt: ""
 layout: page
 permalink: >
   https://foodrisklabs.bfr.bund.de/tut-tracing-in-foodchain-lab/
 published: true
+post_date: 2015-03-18 10:18:25
 ---
 <h4>Tasks</h4>
 <ul>
@@ -64,6 +64,6 @@ published: true
 <h5>9</h5>
 <ul>
  	<li>Deactivating cross contamination changed the forward trace of the observed station.</li>
- 	<li>Now two of <b>Outbreak</b> stations, that were striped before, cannot be reached anymore.</li>
+ 	<li>Now two of the <b>Outbreak</b> stations, that were striped before, cannot be reached anymore.</li>
 </ul>
 <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/documents/foodchainlab_tracing/9.png"><img class="aligncenter size-full" src="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/documents/foodchainlab_tracing/9.png" /></a>
