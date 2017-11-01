@@ -95,7 +95,7 @@ All
 <strong>FCL web view and web edit</strong>
 Marco Rügen (BfR)
 
-9:30-12:00 p.m.
+9:30-10:30 p.m.
 <strong>Contributions of participants
 </strong>
 
@@ -113,7 +113,7 @@ Marco Rügen (BfR)
 <strong>Contributions of participants (continued)
 </strong>
 
-Group work on RASFF notifications
+<strong>Group work on RASFF notifications</strong>
 Olaf Mosbach-Schulz (EFSA)
 
 2:30-3:30 p.m.
