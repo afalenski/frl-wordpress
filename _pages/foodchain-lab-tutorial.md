@@ -2,12 +2,12 @@
 ID: 205
 post_title: 'FoodChain-Lab Tutorials &#038; Workflows'
 author: FRL_Admin
-post_date: 2015-02-24 08:11:39
 post_excerpt: ""
 layout: page
 permalink: >
   https://foodrisklabs.bfr.bund.de/foodchain-lab-tutorial/
 published: true
+post_date: 2015-02-24 08:11:39
 ---
 <h4>Tutorials (<a href="http://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/06/tutorials.zip">Download As PDFs</a>)</h4>
 <a title="FoodChain-Lab Introduction" href="http://foodrisklabs.bfr.bund.de/index.php/foodchain-lab-overview/">FoodChain-Lab Introduction</a>
@@ -36,7 +36,9 @@ published: true
 
 <a title="Geo-Clustering in FoodChain-Lab" href="http://foodrisklabs.bfr.bund.de/index.php/geo-clustering-in-foodchain-lab/">Geo-Clustering</a>
 
-<a title="Geocoding in FoodChain-Lab" href="http://foodrisklabs.bfr.bund.de/index.php/geocoding-in-foodchain-lab/">Geocoding</a>
+<a title="Geocoding in FoodChain-Lab" href="http://foodrisklabs.bfr.bund.de/index.php/geocoding-in-foodchain-lab/">Geocoding with MapQuest</a>
+
+<a title="Geocoding in FoodChain-Lab" href="http://foodrisklabs.bfr.bund.de/index.php/geocoding_photon-in-foodchain-lab/">Geocoding with Photon</a>
 
 <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/media/foodchain_lab_demo.mp4">Video Demonstration</a>
 <h4>Example Data/Workflows</h4>
