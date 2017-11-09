@@ -44,6 +44,8 @@ post_date: 2015-02-24 08:11:39
 
 <a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/16-Tracing-Backward-Template.pdf">16 Tracing Backward Template</a>
 
+<a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/17-Finding-and-removing-duplicates.pdf">17 Finding and removing duplicates</a>
+
 <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/media/foodchain_lab_demo.mp4">Video Demonstration</a>
 <h4>Example Data/Workflows</h4>
 <a href="https://github.com/SiLeBAT/BfROpenLabResources/raw/master/GitHubPages/documents/FCL_Example.xlsx">Excel template with fictional data</a>
