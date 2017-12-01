@@ -12,8 +12,10 @@ published: true
 post_date: 2017-06-27 10:24:26
 ---
 <h4><span style="color: #000000;"><strong>Wednesday, 08.11.2017 – Basic Training</strong></span></h4>
+
 10:00-11:00 a.m.
 <strong>Welcome and introduction</strong>
+Karsten Nöckler, Armin Weiser (BfR)
 
 11:00-11:30 a.m.
 <strong>Introduction to outbreak investigation</strong>
