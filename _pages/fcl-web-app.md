@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2017-12-03 22:28:34
 ---
-<object data=https://silebat.github.io/fcl-web-app/ width="650" height="500"> <embed src=https://silebat.github.io/fcl-web-app/ width="650" height="500"> </embed> </object>
+<object data="https://silebat.github.io/fcl-web-app/" width="100%" height="100%"> <embed src="https://silebat.github.io/fcl-web-app/" width="100%" height="100%" />  </object>
