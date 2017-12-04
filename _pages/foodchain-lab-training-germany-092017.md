@@ -18,11 +18,11 @@ post_date: 2017-06-27 10:24:26
 Karsten Nöckler, Armin Weiser (BfR)
 
 11:00-11:30 a.m.
-<strong>Introduction to outbreak investigation</strong>
+<strong><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/20171108_Gottschald_Introduction-outbreak-investigation_for-website.pdf">Introduction to outbreak investigation</a></strong>
 Marion Gottschald (BfR)
 
 11:30-12:30 p.m.
-<strong>The challenge to trace the source of contamination in the international food and feed supply chain</strong>
+<strong><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/20171108_AMU_FPABfR_FCLCourse_Presentation_DEMOS_v01.pdf">The challenge to trace the source of contamination in the international food and feed supply chain</a></strong>
 Olaf Mosbach-Schulz (EFSA)
 
 <em>12:30-1:30 p.m.</em>
@@ -39,6 +39,11 @@ Armin Weiser (BfR)
 2:30-2:50 p.m.
 <strong>Hands-on training (chosen tutorials from website)</strong>
 Armin Weiser, Alexander Falenski, Marion Gottschald, Marco Rügen (BfR)
+<ul style="margin-left: 50px;">
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/import-workflow-to-foodchain-lab/">How to import workflows?</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/create-foodchain-lab-workflow-part-1/">How to create a Workflow (Part 1)?</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/create-foodchain-lab-workflow-part-2/">How to create a Workflow (Part 2)?</a></li>
+</ul>
 
 <em>2:50-3:05 p.m.</em>
 <em><strong>Coffee break</strong></em>
@@ -46,6 +51,12 @@ Armin Weiser, Alexander Falenski, Marion Gottschald, Marco Rügen (BfR)
 3:05-4:30 p.m.
 <strong>Hands-on training (chosen tutorials from website) (continued)</strong>
 Armin Weiser, Alexander Falenski, Marion Gottschald, Marco Rügen (BfR)
+<ul style="margin-left: 50px;">
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/tut-tracing-in-foodchain-lab/">Tracing</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/highlighting-in-foodchain-lab/">Highlighting</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/geo-visualization-in-foodchain-lab/">Geo-Visualization</a></li>
+        <li><a href="https://foodrisklabs.bfr.bund.de/geocoding_photon-in-foodchain-lab/">Geocoding with Photon</a></li>
+</ul>
 
 4:30-5:00 p.m.
 <strong>Open questions</strong>
@@ -59,6 +70,12 @@ All
 9:00-09:45 a.m.
 <strong>Data structures, data collection templates (start-tracing, back-/forward, all-in-one, simple), potential data needs in detail</strong>
 Alexander Falenski (BfR)
+<ul style="margin-left: 50px;">
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/15-Data-collection-and-import.pdf">15 Data collection and import</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/16-Tracing-Backward-Template.pdf">16 Tracing Backward Template</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/17-Finding-and-removing-duplicates.pdf">17 Finding and removing duplicates</a></li>
+        <li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Data-for-tutorials-15-17.zip">Data-for-tutorials-15-17</a></li>
+</ul>
 
 <em>09:45-10.00 a.m.</em>
 <em><strong>Coffee break</strong></em>
@@ -75,7 +92,7 @@ Armin Weiser (BfR)
 <em><strong>Lunch break</strong></em>
 
 1:00-2:30 p.m.
-<strong>Scenario session</strong>
+<strong><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Scenario_2017.zip">Scenario</a> session </strong>
 Marion Gottschald, Alexander Falenski, Armin Weiser, Marco Rügen (BfR)
 Olaf Mosbach-Schulz (EFSA)
 
@@ -117,6 +134,10 @@ Marco Rügen (BfR)
 
 <strong>Group work on RASFF notifications</strong>
 Olaf Mosbach-Schulz (EFSA)
+<ul style="margin-left: 50px;">
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/20171110_AMU_FPABfR_FCLCourse_DeliveryDocs.pdf">Delivery documents</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/20171110_AMU_FPABfR_FCLCourse_Presentation_Practise_print.pdf">Questions</a></li>
+</ul>
 
 2:30-3:30 p.m.
 <strong>What and where next? Group discussion to cover:</strong>
