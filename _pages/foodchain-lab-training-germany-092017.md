@@ -29,7 +29,7 @@ Olaf Mosbach-Schulz (EFSA)
 <strong><em>Lunch break</em></strong>
 
 1:30-2:00 p.m.
-<strong>Introduction to FoodChain-Lab (FCL)</strong>
+<strong><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/20171108_FoodChainLab_Workshop_Introduction-to-FCL.pdf">Introduction to FoodChain-Lab (FCL)</a> and <a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/20171108_Workshop_KNIME_EN.pdf">KNIME</a></strong>
 Armin Weiser (BfR)
 
 2:00-2:30 p.m.
@@ -111,26 +111,34 @@ All
 &nbsp;
 <h4><span style="color: #000000;">Friday, 10.11.2017 – Advanced training and next steps</span></h4>
 9:00-9:30 a.m.
-<strong>FCL web view and web edit</strong>
+<strong><a href="https://foodrisklabs.bfr.bund.de/fcl-web-app/">FCL web view and web edit</a></strong>
 Marco Rügen (BfR)
 
 9:30-10:30 p.m.
-<strong>Contributions of participants
-</strong>
+<strong>Contributions of participants</strong>
+<ul style="margin-left: 50px;">
+ 	<li>Shaun Smith (FSAI): <a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/20171110_SS_Irish-HAV-outbreak_FoodChain-Lab.pdf">Multistate outbreak of hepatitis A virus (HAV) linked to frozen berries - a European case study</a></li>
+</ul>
+
 
 <em>10:30-10:45 a.m.</em>
 <em><strong>Coffee break</strong></em>
 
 10:45-12:00 a.m.
-<strong>Contributions of participants (continued)
-</strong>
+<strong>Contributions of participants (continued)</strong>
+<ul style="margin-left: 50px;">
+ 	<li>Tina Potter (FSA): Salmonella Enteritidis outbreak 2017 (working title)</li>
+</ul>
 
 <em>12:00-1:00 p.m.</em>
 <em><strong>Lunch break</strong></em>
 
 <em>1:00-2:30 p.m.</em>
-<strong>Contributions of participants (continued)
-</strong>
+<strong>Contributions of participants (continued)</strong>
+<ul style="margin-left: 50px;">
+ 	<li>Kata Kerekes (Nébih): Modelling transportation networks to identify potential African Swine Fever entry routes using FCL (working title)</li>
+        <li>Andrzej Jarynowski (Jagiellonian University Cracow): Spatiotemporal Epidemiological Modelling of African Swine Fever in Poland (working title)</li>
+</ul>
 
 <strong>Group work on RASFF notifications</strong>
 Olaf Mosbach-Schulz (EFSA)
