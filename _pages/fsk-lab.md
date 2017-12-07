@@ -2,44 +2,42 @@
 ID: 1849
 post_title: FSK-Lab
 author: laval
-post_date: 2017-01-16 18:58:01
 post_excerpt: ""
 layout: page
 permalink: >
-  https://foodrisklabs.bfr.bund.de/index.php/fsk-lab/
+  https://foodrisklabs.bfr.bund.de/fsk-lab/
 published: true
+post_date: 2017-01-16 18:58:01
 ---
 <img class="size-full wp-image-1858 aligncenter" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/FSKlab7-1.png" alt="FSK-Lab Logo" width="150" height="150" />
 
 &nbsp;
 
-FSK-Lab is an open-source extension plugin to the Konstanz Information Miner (<a href="https://knime.org" target="_blank">KNIME</a>). FSK-Lab enables KNIME users to work with FSK models within KNIME.
+Food Safety Knowledge Lab (FSK-Lab) is an open-source extension plugin to the Konstanz Information Miner (<a href="https://knime.org" target="_blank" rel="noopener">KNIME</a>). FSK-Lab enables KNIME users to work with FSK models within KNIME.
 
 <strong>Source code:</strong> <a href="https://github.com/SiLeBAT/FSK-Lab">https://github.com/SiLeBAT/FSK-Lab</a>
-<h2>Installation</h2>
-<h3>Installing KNIME</h3>
-A running instance of KNIME is a prerequisite. It can be downloaded <a href="https://www.knime.org/downloads/overview" target="_blank">here.</a> Due to avoid installing issues under WINDOWS, the provided zip-version should be used and unzipped then. The KNIME folder itself can be placed and run from anywhere under Windows without admin rights. After starting KNIME, the user will be asked to create the KNIME-WORKSPACE, were all the workflows will be stored. After restarting KNIME, please make sure to select the right one to access your files (it will be preselected). HINT: In order to avoid later issues, never copy the KNIME_WORKSPACE, import it only!
 
-Please following these <a href="https://tech.knime.org/installation-0" target="_blank">instructions</a> to get further instructions how to install knime .
+<strong>Food Safety Knowledge Markup Language (FSK-ML) Software Developer Guide:</strong> <a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSK-ML_guidance_document_021216.pdf">Download</a>
+
+<strong>Under development software developer guide:</strong> <a href="https://goo.gl/CbLbJm">Download</a>
+<h2>Installation</h2>
+<h3 id="InstallingKNIME">Installing KNIME</h3>
+A running instance of KNIME is a prerequisite. It can be downloaded <a href="https://www.knime.org/downloads/overview" target="_blank" rel="noopener">here.</a> Due to avoid installing issues under WINDOWS, the provided zip-version should be used and unzipped then. The KNIME folder itself can be placed and run from anywhere under Windows without admin rights. After starting KNIME, the user will be asked to create the KNIME-WORKSPACE, were all the workflows will be stored. After restarting KNIME, please make sure to select the right one to access your files (it will be preselected). HINT: In order to avoid later issues, never copy the KNIME_WORKSPACE, import it only!
+
+Please following these <a href="https://tech.knime.org/installation-0" target="_blank" rel="noopener">instructions</a> to get further instructions how to install knime .
 In addition, there is the option to modify the KNIME.ini in the installation folder of KNIME while the program is not running:
 1. The amount of RAM available in KNIME might be extended by changing the value in the line '-Xmx1024m'. An example would be '-Xmx4g', if 4GB (=4x1024m) of 8GB RAM should be used.
 2. If the connection to a KNIME-Server through KNIME fails, it might help to increase the response time. Simply add the line '-Dcom.knime.enterprise.client.connect-timeout=10000' to the ini-file.
-<h3>Installing FSK-Lab</h3>
-<div>FSK-Lab needs to be installed as a KNIME feature through the FSK-Lab update site (<a href="https://www.knime.org/downloads/update" target="_blank">more info here</a>):
-1. Add the repository to KNIME via Help &gt; Install New Software &gt; Add. The corresponding URL (https://dl.bintray.com/silebat/fsklab) should be entered in the 'Add Repository' dialogue along with a meaningful name.<img class="aligncenter size-full wp-image-1972" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSKlabinstall0.png" alt="" width="757" height="580" />
-
-2. Now this repository can be selected in the installation menu via Help &gt; Install New Software &gt; 'Work with'-pull down menu. Tick 'FSK Lab Feature' and follow the prompts after pressing Next.
-
-<img class="aligncenter size-full wp-image-1973" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSKlabinstall1.png" alt="" width="757" height="580" />
-
-3. After restarting KNIME, FSK-Lab Feature should appear now in KNIME under Help &gt; Installation Details.
+<h3 id="InstallingFSK-Lab">Installing FSK-Lab</h3>
+<div>FSK-Lab needs to be installed as a KNIME feature through the FSK-Lab update site (<a href="https://www.knime.org/downloads/update" target="_blank" rel="noopener">more info here</a>):
+1. Add the repository to KNIME via Help &gt; Install New Software &gt; Add. The corresponding URL (https://dl.bintray.com/silebat/fsklab) should be entered in the 'Add Repository' dialogue along with a meaningful name.<img class="aligncenter size-full wp-image-1972" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSKlabinstall0.png" alt="" width="757" height="580" />2. Now this repository can be selected in the installation menu via Help &gt; Install New Software &gt; 'Work with'-pull down menu. Tick 'FSK Lab Feature' and follow the prompts after pressing Next.<img class="aligncenter size-full wp-image-1973" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSKlabinstall1.png" alt="" width="757" height="580" />3. After restarting KNIME, FSK-Lab Feature should appear now in KNIME under Help &gt; Installation Details.
 
 </div>
 <img class="aligncenter size-full wp-image-1977" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/FSKlabinstall2-1.png" alt="" width="888" height="359" />
-<h3>Installing R</h3>
+<h3 id="InstallingR">Installing R</h3>
 <div>
 
-FSK-Lab is based on R (<a href="https://www.r-project.org" target="_blank">https://www.r-project.org</a>), which can also be installed as a KNIME feature through the FSK-Lab update site under WINDOWS (<a href="https://www.knime.org/downloads/update" target="_blank">more info here</a>). If you want to integrate your own R version or the one <a href="https://dl.bintray.com/silebat/FSK_example_models/R-3.3.0working.7z">used</a> by us, please continue with step 5 applying your R installation path:
+FSK-Lab is based on R (<a href="https://www.r-project.org" target="_blank" rel="noopener">https://www.r-project.org</a>), which can also be installed as a KNIME feature through the FSK-Lab update site under WINDOWS (<a href="https://www.knime.org/downloads/update" target="_blank" rel="noopener">more info here</a>). If you want to integrate your own R version or the one <a href="https://dl.bintray.com/silebat/FSK_example_models/R-3.3.0working.7z">used</a> by us, please continue with step 5 applying your R installation path:
 
 1. The R repository should be already available in the installation menu via Help &gt; Install New Software &gt; if All Available Sites is chosen in the 'Work with'-pull down menu.
 2. Fold open KNIME &amp; Extensions and tick KNIME R Statistics Integration (Windows binarys).
@@ -55,7 +53,7 @@ FSK-Lab is based on R (<a href="https://www.r-project.org" target="_blank">https
 
 <img class="aligncenter size-full wp-image-1982" src="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/01/Rserve.png" alt="" width="627" height="248" />
 <h3>Installing R on MacOS</h3>
-For R running in MACOS, there is a specific R version for MacOS required which may be <a href="http://mirrors.dotsrc.org/cran/" target="_blank">downloaded from here</a>.
+For R running in MACOS, there is a specific R version for MacOS required which may be <a href="http://mirrors.dotsrc.org/cran/" target="_blank" rel="noopener">downloaded from here</a>.
 FSK-Lab requires the R packages: 'Rserve', 'miniCRAN' and 'Cairo', which may be installed with the install.packages() command within the R-console:
 
 install.packages('Rserve')
@@ -82,9 +80,9 @@ install.packages('miniCRAN')
 
 The path to the R folder to be entered in KNIME (as described for WINDOWS) should be:
 /usr/lib/R
-<h3>Example files</h3>
+<h3 id="ExampleFiles">Example files</h3>
 <div>In order to test the FSK-Lab nodes in KNIME, there is a <a href="https://dl.bintray.com/silebat/FSK_example_models/example_models.zip">zip-file provided here</a>. It contains the needed files to create FSKX-model-files by using the FSKX-Creator-node in KNIME. Please, make sure to assign the corresponding files in the configuration dialogue of the Creator-node.</div>
-<h2>Details on FSK-Lab</h2>
+<h2 id="DetailsFSK-Lab">Details on FSK-Lab</h2>
 <h3>FSK port object</h3>
 Fsk-Lab provides an additional port object called <code>FskPortObject</code> that expresses in deep detail an FSK model. It is composed of:
 <ul>
