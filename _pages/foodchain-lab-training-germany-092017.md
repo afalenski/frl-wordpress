@@ -12,7 +12,6 @@ published: true
 post_date: 2017-06-27 10:24:26
 ---
 <h4><span style="color: #000000;"><strong>Wednesday, 08.11.2017 – Basic Training</strong></span></h4>
-
 10:00-11:00 a.m.
 <strong>Welcome and introduction</strong>
 Karsten Nöckler, Armin Weiser (BfR)
@@ -44,7 +43,6 @@ Armin Weiser, Alexander Falenski, Marion Gottschald, Marco Rügen (BfR)
  	<li><a href="https://foodrisklabs.bfr.bund.de/create-foodchain-lab-workflow-part-1/">How to create a Workflow (Part 1)?</a></li>
  	<li><a href="https://foodrisklabs.bfr.bund.de/create-foodchain-lab-workflow-part-2/">How to create a Workflow (Part 2)?</a></li>
 </ul>
-
 <em>2:50-3:05 p.m.</em>
 <em><strong>Coffee break</strong></em>
 
@@ -52,12 +50,11 @@ Armin Weiser, Alexander Falenski, Marion Gottschald, Marco Rügen (BfR)
 <strong>Hands-on training (chosen tutorials from website) (continued)</strong>
 Armin Weiser, Alexander Falenski, Marion Gottschald, Marco Rügen (BfR)
 <ul style="margin-left: 50px;">
- 	<li><a href="https://foodrisklabs.bfr.bund.de/tut-tracing-in-foodchain-lab/">Tracing</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/FoodChain-Lab-Tracing_Talk.pdf">Tracing Talk</a>, <a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/09-Tracing.pdf">Tracing Tutorial</a></li>
  	<li><a href="https://foodrisklabs.bfr.bund.de/highlighting-in-foodchain-lab/">Highlighting</a></li>
  	<li><a href="https://foodrisklabs.bfr.bund.de/geo-visualization-in-foodchain-lab/">Geo-Visualization</a></li>
-        <li><a href="https://foodrisklabs.bfr.bund.de/geocoding_photon-in-foodchain-lab/">Geocoding with Photon</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/geocoding_photon-in-foodchain-lab/">Geocoding with Photon</a></li>
 </ul>
-
 4:30-5:00 p.m.
 <strong>Open questions</strong>
 All
@@ -68,15 +65,14 @@ All
 &nbsp;
 <h4><span style="color: #000000;">Thursday, 09.11.2017 – Basic Training</span></h4>
 9:00-09:45 a.m.
-<strong>Data structures, data collection templates (start-tracing, back-/forward, all-in-one, simple), potential data needs in detail</strong>
+<a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/FoodChain-Lab_Data-Tutorial_FCL-Workshop_Berlin_2017.pdf"><strong>Data structures, data collection templates (start-tracing, back-/forward, all-in-one, simple), potential data needs in detail</strong></a>
 Alexander Falenski (BfR)
 <ul style="margin-left: 50px;">
  	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/15-Data-collection-and-import.pdf">15 Data collection and import</a></li>
  	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/16-Tracing-Backward-Template.pdf">16 Tracing Backward Template</a></li>
  	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/17-Finding-and-removing-duplicates.pdf">17 Finding and removing duplicates</a></li>
-        <li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Data-for-tutorials-15-17.zip">Data-for-tutorials-15-17</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Data-for-tutorials-15-17.zip">Data-for-tutorials-15-17</a></li>
 </ul>
-
 <em>09:45-10.00 a.m.</em>
 <em><strong>Coffee break</strong></em>
 
@@ -87,12 +83,16 @@ Alexander Falenski (BfR)
 11:00-12:00 a.m.
 <strong>Wider applications of KNIME tools</strong>
 Armin Weiser (BfR)
-
+<ul style="margin-left: 50px;">
+ 	<li>Network analysis</li>
+ 	<li>Geocoding with Photon</li>
+ 	<li>PlayGround</li>
+</ul>
 <em>12:00-1:00 p.m.</em>
 <em><strong>Lunch break</strong></em>
 
 1:00-2:30 p.m.
-<strong><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Scenario_2017.zip">Scenario</a> session </strong>
+<strong><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Scenario_2017.zip">Scenario session</a> </strong>
 Marion Gottschald, Alexander Falenski, Armin Weiser, Marco Rügen (BfR)
 Olaf Mosbach-Schulz (EFSA)
 
@@ -119,8 +119,6 @@ Marco Rügen (BfR)
 <ul style="margin-left: 50px;">
  	<li>Shaun Smith (FSAI): <a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/20171110_SS_Irish-HAV-outbreak_FoodChain-Lab.pdf">Multistate outbreak of hepatitis A virus (HAV) linked to frozen berries - a European case study</a></li>
 </ul>
-
-
 <em>10:30-10:45 a.m.</em>
 <em><strong>Coffee break</strong></em>
 
@@ -128,8 +126,8 @@ Marco Rügen (BfR)
 <strong>Contributions of participants (continued)</strong>
 <ul style="margin-left: 50px;">
  	<li>Tina Potter (FSA): Salmonella Enteritidis outbreak 2017 (working title)</li>
+ 	<li>FCL workflow for Salmonella Enteritidis outbreak</li>
 </ul>
-
 <em>12:00-1:00 p.m.</em>
 <em><strong>Lunch break</strong></em>
 
@@ -137,16 +135,14 @@ Marco Rügen (BfR)
 <strong>Contributions of participants (continued)</strong>
 <ul style="margin-left: 50px;">
  	<li>Kata Kerekes (Nébih): Modelling transportation networks to identify potential African Swine Fever entry routes using FCL (working title)</li>
-        <li>Andrzej Jarynowski (Jagiellonian University Cracow): Spatiotemporal Epidemiological Modelling of African Swine Fever in Poland (working title)</li>
+ 	<li>Andrzej Jarynowski (Jagiellonian University Cracow): Spatiotemporal Epidemiological Modelling of African Swine Fever in Poland (working title)</li>
 </ul>
-
 <strong>Group work on RASFF notifications</strong>
 Olaf Mosbach-Schulz (EFSA)
 <ul style="margin-left: 50px;">
  	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/20171110_AMU_FPABfR_FCLCourse_DeliveryDocs.pdf">Delivery documents</a></li>
  	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/20171110_AMU_FPABfR_FCLCourse_Presentation_Practise_print.pdf">Questions</a></li>
 </ul>
-
 2:30-3:30 p.m.
 <strong>What and where next? Group discussion to cover:</strong>
 - Feature requests
