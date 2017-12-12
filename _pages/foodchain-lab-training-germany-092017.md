@@ -68,7 +68,7 @@ All
 <a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/FoodChain-Lab_Data-Tutorial_FCL-Workshop_Berlin_2017.pdf"><strong>Data structures, data collection templates (start-tracing, back-/forward, all-in-one, simple), potential data needs in detail</strong></a>
 Alexander Falenski (BfR)
 <ul style="margin-left: 50px;">
- 	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/15-Data-collection-and-import.pdf">15 Data collection and import</a></li>
+ 	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2017/12/15-Data-collection-and-import.pdf">15 Data collection and import</a></li>
  	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/16-Tracing-Backward-Template.pdf">16 Tracing Backward Template</a></li>
  	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/17-Finding-and-removing-duplicates.pdf">17 Finding and removing duplicates</a></li>
  	<li><a href="https://foodrisklabs.bfr.bund.de/wp-content/uploads/2015/02/Data-for-tutorials-15-17.zip">Data-for-tutorials-15-17</a></li>
