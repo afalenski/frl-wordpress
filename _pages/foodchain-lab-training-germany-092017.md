@@ -134,9 +134,9 @@ Marco Rügen (BfR)
 <em>1:00-2:30 p.m.</em>
 <strong>Contributions of participants (continued)</strong>
 <ul style="margin-left: 50px;">
- 	<li>Kata Kerekes (Nébih): Modeling transportation networks to identify potential African Swine Fever entry routes using FCL (working title)</li>
- 	<li>Andrzej Jarynowski (Jagiellonian University Cracow): Modeling African Swine Fever in Poland</li>
+ 	<li>Kata Kerekes (Nébih): FoodChain-Lab for analysing Electronic Trade and Transport Control data</li>
 </ul>
+
 <strong>Group work on RASFF notifications</strong>
 Olaf Mosbach-Schulz (EFSA)
 <ul style="margin-left: 50px;">
